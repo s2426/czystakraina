@@ -1,5 +1,6 @@
 
 <h2>Materiały, artykuły</h2>
+<p>
 <ul>
 	<li><a href='{{site.baseurl}}\articles\Koniec%20epoki%20finansowych%20dinozaurow.html'>Koniec epoki finansowych dinozaurow</a>
 	<li><a href='{{site.baseurl}}\articles\Brytyjczycy%20za%20nacjonalizacj%C4%85%20bank%C3%B3w.html'>Brytyjczycy za nacjonalizacją banków</a>
@@ -149,3 +150,7 @@
 	<li><a href='{{site.baseurl}}\articles\R%C4%85czka%20r%C4%85czk%C4%99%20myje.html'>Rączka rączkę myje</a>
 	<li><a href='{{site.baseurl}}\articles\Czysta%20Kraina.html'>Czysta Kraina</a>
 </ul>
+</p>
+
+	
+
