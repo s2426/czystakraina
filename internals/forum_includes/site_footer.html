@@ -1,0 +1,23 @@
+<?if(@(true == $outcome -> text_new) && @(false == $error)):?>
+<p>Opublikowano wiadomość!
+<?else:?>
+<h3>Utwórz wiadomość</h3>
+<?if(@$_GET['thread']):?>
+	<form action='<?=$self?>?thread=<?=@htmlspecialchars($_GET['thread'])?>' method='post'>
+<?else:?>
+	<form action='<?=$self?>' method='post'>
+<?endif?>
+<input type='hidden' name='message' value='<?@htmlspecialchars($outcome -> name -> name_of_message)?>'>
+
+<?if(access(1)):?>
+<p>Wiadomość wyślesz jako użytkownik <strong><?=$user -> login?></strong>.
+<?else:?>
+<p>Twój pseudonim:<br><input name='name' value='<?=@htmlspecialchars($outcome -> text['message_author'])?>'>
+<?endif?>
+
+<p>Podaj temat, w którym odpowiadasz. (Jeśli nie istnieje, zostanie utworzony. W ten sposób możesz tworzyć nowe tematy).:<br><input name='thread' value='<?=@htmlspecialchars($outcome -> name -> name_of_thread ? $outcome -> name -> name_of_thread : $_GET['thread'])?>'>
+<p>Twoja wiadomość:<br>
+<textarea rows='10' cols='50' name='text'><?=@htmlspecialchars($outcome -> text['message_text'])?></textarea>
+<p><input type='submit' value='Wyślij wiadomość'>
+</form>
+<?endif?>

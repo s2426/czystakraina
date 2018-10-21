@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/phpsqliteadmin/!svn/ver/48/trunk/phpsqliteadmin2
+END
+SPSQLite.class.diff
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/phpsqliteadmin/!svn/ver/34/trunk/phpsqliteadmin2/SPSQLite.class.diff
+END
+editdb.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/phpsqliteadmin/!svn/ver/48/trunk/phpsqliteadmin2/editdb.php
+END
+todo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/phpsqliteadmin/!svn/ver/47/trunk/phpsqliteadmin2/todo.txt
+END
+set_session.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/phpsqliteadmin/!svn/ver/34/trunk/phpsqliteadmin2/set_session.php
+END
+javascript.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/phpsqliteadmin/!svn/ver/45/trunk/phpsqliteadmin2/javascript.txt
+END
+mainframe.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/phpsqliteadmin/!svn/ver/34/trunk/phpsqliteadmin2/mainframe.php
+END
+copying.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/phpsqliteadmin/!svn/ver/34/trunk/phpsqliteadmin2/copying.txt
+END
+phpinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/phpsqliteadmin/!svn/ver/34/trunk/phpsqliteadmin2/phpinfo.php
+END
+i18n_langs.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/phpsqliteadmin/!svn/ver/34/trunk/phpsqliteadmin2/i18n_langs.php
+END
+leftframe.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/phpsqliteadmin/!svn/ver/48/trunk/phpsqliteadmin2/leftframe.php
+END
+check_login.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/phpsqliteadmin/!svn/ver/34/trunk/phpsqliteadmin2/check_login.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/phpsqliteadmin/!svn/ver/34/trunk/phpsqliteadmin2/config.php
+END
+query.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/phpsqliteadmin/!svn/ver/36/trunk/phpsqliteadmin2/query.php
+END
+table_structure.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/phpsqliteadmin/!svn/ver/34/trunk/phpsqliteadmin2/table_structure.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/phpsqliteadmin/!svn/ver/34/trunk/phpsqliteadmin2/index.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/phpsqliteadmin/!svn/ver/34/trunk/phpsqliteadmin2/login.php
+END
+table_browse.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/phpsqliteadmin/!svn/ver/48/trunk/phpsqliteadmin2/table_browse.php
+END
+SPSQLite.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/phpsqliteadmin/!svn/ver/34/trunk/phpsqliteadmin2/SPSQLite.class.php
+END
+SPSQLite.class-0.6.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/phpsqliteadmin/!svn/ver/34/trunk/phpsqliteadmin2/SPSQLite.class-0.6.php
+END
+table_create.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/phpsqliteadmin/!svn/ver/34/trunk/phpsqliteadmin2/table_create.php
+END
+dbconfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/phpsqliteadmin/!svn/ver/34/trunk/phpsqliteadmin2/dbconfig.php
+END
+login.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/phpsqliteadmin/!svn/ver/34/trunk/phpsqliteadmin2/login.class.php
+END
+row_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/phpsqliteadmin/!svn/ver/46/trunk/phpsqliteadmin2/row_edit.php
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/phpsqliteadmin/!svn/ver/48/trunk/phpsqliteadmin2/changelog.txt
+END
+export.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/phpsqliteadmin/!svn/ver/45/trunk/phpsqliteadmin2/export.php
+END
+include.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/phpsqliteadmin/!svn/ver/48/trunk/phpsqliteadmin2/include.php
+END
+dbaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/phpsqliteadmin/!svn/ver/34/trunk/phpsqliteadmin2/dbaction.php
+END
+create_system_db.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/phpsqliteadmin/!svn/ver/34/trunk/phpsqliteadmin2/create_system_db.sql
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/phpsqliteadmin/!svn/ver/49/trunk/phpsqliteadmin2/readme.txt
+END
+phpsla.css
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/phpsqliteadmin/!svn/ver/42/trunk/phpsqliteadmin2/phpsla.css
+END

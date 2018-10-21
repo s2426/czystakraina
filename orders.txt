@@ -1,0 +1,255 @@
+
+
+
+<div class='single_order'>
+<table>
+<caption>Specyfikacja towaru</caption>
+<thead>
+<tr>
+	<th scope='col'>Numer
+	<th scope='col'>Ilość											
+	<th scope='col'>Nazwa											
+	<th scope='col'>Cena											
+<tbody>
+<tr>
+	<th scope='row'>1.									
+	<td>3 sztuk
+	<td>Podstawka do kadzideł oraz
+inne&nbsp;									
+	<td>3 &times; 270 zł = 810 zł
+<tr>
+	<th colspan='3'>Suma:							
+	<td>810 zł
+</table>
+
+<table>
+<caption>Dane zamawiającego</caption>
+<tbody>
+<tr>
+	<th scope='row'>	Imie i nazwisko:											
+	<td>				Test Test&nbsp;			
+
+<tr>
+	<th scope='row'>	Nazwa firmy:												
+	<td>				Barter Poland&nbsp;								
+
+<tr>
+	<th scope='row'>	<abbr title='Numer
+Idenfytikacji Podatkowej'>NIP</abbr>:	
+	<td>				?&nbsp;									
+
+<tr>
+	<th scope='row'>	Ulica:														
+	<td>				?&nbsp;								
+
+<tr>
+	<th scope='row'>	Miasto i kod:												
+	<td>				Warszawa ?&nbsp;			
+
+<tr>
+	<th scope='row'>	Telefon i e-mail:											
+	<td>
+	<ul>
+		<li>Tel. domowy: ?		<li>Tel. służbowy:
+?		<li>Tel. komórkowy: ?	</ul>
+ 	<a
+href='mailto:example@example.com'>example@example.com</a>
+	
+
+<tr>
+	<th scope='row'>Uwagi:															
+	<td>MÓJ KOMENTARZ&nbsp;													
+
+
+</table>
+
+
+</div><div class='single_order'>
+<table>
+<caption>Specyfikacja towaru</caption>
+<thead>
+<tr>
+	<th scope='col'>Numer
+	<th scope='col'>Ilość											
+	<th scope='col'>Nazwa											
+	<th scope='col'>Cena											
+<tbody>
+<tr>
+	<th scope='row'>1.									
+	<td>2 sztuk
+	<td>NEXT - sukieneczka dla
+dziewczynki&nbsp;									
+	<td>2 &times; 9 zł = 18 zł
+<tr>
+	<th colspan='3'>Suma:							
+	<td>18 zł
+</table>
+
+<table>
+<caption>Dane zamawiającego</caption>
+<tbody>
+<tr>
+	<th scope='row'>	Imie i nazwisko:											
+	<td>				Krzysztof Lewandowski&nbsp;			
+
+<tr>
+	<th scope='row'>	Nazwa firmy:												
+	<td>				LATAWIEC&nbsp;								
+
+<tr>
+	<th scope='row'>	<abbr title='Numer
+Idenfytikacji Podatkowej'>NIP</abbr>:	
+	<td>				951-005-27-04&nbsp;									
+
+<tr>
+	<th scope='row'>	Ulica:														
+	<td>				Noakowskiego 16 m 3&nbsp;								
+
+<tr>
+	<th scope='row'>	Miasto i kod:												
+	<td>				Warszawa 00-666&nbsp;			
+
+<tr>
+	<th scope='row'>	Telefon i e-mail:											
+	<td>
+	<ul>
+		<li>Tel. domowy: 0-226283237		<li>Tel.
+służbowy: 2268825		<li>Tel. komórkowy:
+661944727	</ul>
+ 	<a
+href='mailto:radosc@radosc.x.pl'>radosc@radosc.x.pl</a>
+	
+
+<tr>
+	<th scope='row'>Uwagi:															
+	<td>&nbsp;													
+
+
+</table>
+
+
+</div><div class='single_order'>
+<table>
+<caption>Specyfikacja towaru</caption>
+<thead>
+<tr>
+	<th scope='col'>Numer
+	<th scope='col'>Ilość											
+	<th scope='col'>Nazwa											
+	<th scope='col'>Cena											
+<tbody>
+<tr>
+	<th scope='row'>1.									
+	<td>3 sztuk
+	<td>I-CING R.Wilhelm&nbsp;									
+	<td>3 &times; 44 zł = 132 zł
+<tr>
+	<th colspan='3'>Suma:							
+	<td>132 zł
+</table>
+
+<table>
+<caption>Dane zamawiającego</caption>
+<tbody>
+<tr>
+	<th scope='row'>	Imie i nazwisko:											
+	<td>				Test Test&nbsp;			
+
+<tr>
+	<th scope='row'>	Nazwa firmy:												
+	<td>				Barter Poland&nbsp;								
+
+<tr>
+	<th scope='row'>	<abbr title='Numer
+Idenfytikacji Podatkowej'>NIP</abbr>:	
+	<td>				?&nbsp;									
+
+<tr>
+	<th scope='row'>	Ulica:														
+	<td>				?&nbsp;								
+
+<tr>
+	<th scope='row'>	Miasto i kod:												
+	<td>				Warszawa ?&nbsp;			
+
+<tr>
+	<th scope='row'>	Telefon i e-mail:											
+	<td>
+	<ul>
+		<li>Tel. domowy: ?		<li>Tel. służbowy:
+?		<li>Tel. komórkowy: ?	</ul>
+ 	<a
+href='mailto:example@example.com'>example@example.com</a>
+	
+
+<tr>
+	<th scope='row'>Uwagi:															
+	<td>Proszę o wersję z czerwonym
+paskiem&nbsp;													
+
+
+</table>
+
+
+</div><div class='single_order'>
+<table>
+<caption>Specyfikacja towaru</caption>
+<thead>
+<tr>
+	<th scope='col'>Numer
+	<th scope='col'>Ilość											
+	<th scope='col'>Nazwa											
+	<th scope='col'>Cena											
+<tbody>
+<tr>
+	<th scope='row'>1.									
+	<td>2 sztuk
+	<td>LSD... moje trudne Dziecko;
+A.Hofmann&nbsp;									
+	<td>2 &times; 27 zł = 54 zł
+<tr>
+	<th colspan='3'>Suma:							
+	<td>54 zł
+</table>
+
+<table>
+<caption>Dane zamawiającego</caption>
+<tbody>
+<tr>
+	<th scope='row'>	Imie i nazwisko:											
+	<td>				Test Test&nbsp;			
+
+<tr>
+	<th scope='row'>	Nazwa firmy:												
+	<td>				Barter Poland&nbsp;								
+
+<tr>
+	<th scope='row'>	<abbr title='Numer
+Idenfytikacji Podatkowej'>NIP</abbr>:	
+	<td>				?&nbsp;									
+
+<tr>
+	<th scope='row'>	Ulica:														
+	<td>				?&nbsp;								
+
+<tr>
+	<th scope='row'>	Miasto i kod:												
+	<td>				Warszawa ?&nbsp;			
+
+<tr>
+	<th scope='row'>	Telefon i e-mail:											
+	<td>
+	<ul>
+		<li>Tel. domowy: ?		<li>Tel. służbowy:
+?		<li>Tel. komórkowy: ?	</ul>
+ 	<a
+href='mailto:example@example.com'>example@example.com</a>
+	
+
+<tr>
+	<th scope='row'>Uwagi:															
+	<td>priorytet&nbsp;													
+
+
+</table>
+</div>

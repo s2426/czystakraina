@@ -1,0 +1,1 @@
+<?php$query = mysql_query('SELECT `id`, `name` FROM `categorys` WHERE `category` = ' . VAR_TOP_CATEGORY);while($objects[] = mysql_fetch_object($query)){}?>

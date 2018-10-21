@@ -1,0 +1,54 @@
+<?php
+
+if(isset($objects))
+{
+	foreach($objects as $object)
+	{
+		$object -> ready = true;
+
+		foreach(array(
+			1,
+			2, 
+		) as $state)
+		{
+			$object -> ready &= is_file($object -> files[$state] = sprintf('images/categories/%d.%d.gif', $object -> id, $state));
+		}
+		
+		if($object -> ready)
+		{
+			$objects_illustrated[] = $object;
+		}
+	}
+
+	if(isset($objects_illustrated))
+	{
+		?><ul id='category_illustrations'><?
+
+		foreach($objects_illustrated as $category)
+		{
+			?>
+			<li>
+				<a href='/category/<?=$category -> id?>'><img
+					id='category_illustration_<?=$category -> id?>'
+					src='<?=$category -> files[1]?>'
+					alt=''
+				> <span><?=$category -> name?></span></a>
+				<script type='text/javascript'>
+				$('#category_illustration_<?=$category -> id?>').hover(function()
+				{
+					this.src_old = this.src
+					$(this).attr('src', '<?=$category -> files[2]?>')
+				},
+				
+				function()
+				{
+					$(this).attr('src', this.src_old)
+				})</script>
+			<?
+		}
+		
+		?></ul><?
+	}
+}
+
+?>

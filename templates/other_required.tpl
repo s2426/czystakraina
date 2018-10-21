@@ -1,0 +1,1 @@
+<sup title='<?=getWord('var_required_field')?>'>&nbsp;*</sup>

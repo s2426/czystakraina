@@ -1,0 +1,54 @@
+<?php
+
+$type = preg_match('/^forum/', getorder(0)) ? 'forum' : 'list';
+$forum_path = sprintf('%sForum dla %szarejestrowanych%s', Viny_Forum::root(), ($type === 'forum') ? 'nie' : '', DIRECTORY_SEPARATOR);
+
+if($_POST)
+{
+	try
+	{
+		$element = new Viny_ElementAccess($forum_path);
+		$element -> execute_with_external_data($outcome);
+	}
+	catch(Viny_ExceptionAbsentTextNew $error)
+	{
+		if($outcome -> additional_operations === Viny_Operation::DELETE)
+		{
+			try
+			{
+				$element -> delete();
+				$message = 'Usunięto wiadomość!';
+			}
+			catch(Viny_ExceptionFailedOperation $error)
+			{
+				$message = 'Usuwanie wiadomości zakończone niepowodzeniem!';
+			}
+		}
+		else
+		{
+			$message = 'Proszę podać treść wiadomości!';			
+		}
+	}
+	catch(LogicException $error)
+	{
+		if($error -> getmessage())
+		{
+			$message = $error -> getmessage();
+		}
+	}
+	catch(Exception $error)
+	{
+		// nic
+	}
+}
+
+$self = sprintf('/%s', getorder(0));
+
+?>
+
+<?if(getorder(0) !== sprintf('%sThreads', $type)):?>
+<h2><a href='/<?=$type?>Threads'>&rarr; Lista wątków</a></h2>
+<?endif?>
+<?if(isset($message)):?>
+<p><strong><?=$message?></strong></p>
+<?endif?>

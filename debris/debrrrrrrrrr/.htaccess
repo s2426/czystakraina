@@ -1,0 +1,10 @@
+RewriteEngine on
+RewriteRule ^(graphics|images) - [last]
+RewriteRule ^(styles\.css)$ - [last]
+RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteCond %{REMOTE_ADDR} 83.31.252.44
+RewriteRule .* index-new.php5
+
+php_value auto_prepend_file includes/header.html
+php_value auto_append_file includes/footer.html
+AddDefaultCharset utf-8
