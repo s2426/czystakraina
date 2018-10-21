@@ -14,16 +14,20 @@ body { width: 720px; }
 <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js'></script>
 <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js'></script>
 </head>
-<body class='articles'>
-<div id='all'>
+<body class='index'>
+<div id='all'><div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) {return;}  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/pl_PL/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
 <h1>
+	<!--<span id='flash'></span>-->
+	<!--<img src='/header.jpg' alt=''>-->
 </h1>
+
+<ul class='menu' id='left'></ul>
 <div class='menu' id='right'>
 </div>
 
 <div id='content'>
 {{ content }}
-<div><!--koniec content-->
+</div><!--koniec content-->
 <ul id='quick_menu'>
 	<li><a href='{{site.baseurl}}\index.html'>Strona główna</a><!--<li><a href='/forum.html'>Forum</a>--><li><a href='{{site.baseurl}}\contact.html'>Kontakt</a><li><a href='{{site.baseurl}}\articles.html'>Materiały</a><li><a href='{{site.baseurl}}\links.html'>Linki</a>
 </ul><div style="margin-top: 0px;" class="fb-like" data-width="650" data-show-faces="true"></div>
