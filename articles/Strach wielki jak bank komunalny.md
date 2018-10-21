@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<!--226-->
+<p style="margin: 0px; font-size: 10px; line-height: normal;"><span style="letter-spacing: 0.0px">28.10.2015</span></p>
+<p style="margin: 0px; font-size: 10px; line-height: normal; min-height: 11px;"><span style="letter-spacing: 0.0px"></span><br></p>
+<p style="margin: 0px; font-size: 10px; line-height: normal;"><span style="letter-spacing: 0.0px">Serwis money.pl przedstawia grafik zmian w 9-osobowej Radzie Polityki Pieniężnej, która rządzi joistickiem stóp procentowych. RPP będzie należeć do PiS już w najbliższą zimę, a na początku lata wygasa kadencja szefa NBP. Oznacza to, że PiS uzyska pełnię władzy monetarnej w czerwcu 2016 roku.</span></p>
+<p style="margin: 0px; font-size: 10px; line-height: normal; min-height: 11px;"><span style="letter-spacing: 0.0px"></span><br></p>
+<p style="margin: 0px; font-size: 10px; line-height: normal;"><span style="letter-spacing: 0.0px">http://www.money.pl/gospodarka/wiadomosci/artykul/nowa-rada-polityki-pienieznej-czy-to-dzieki,150,0,1940886.html</span></p>
+<p style="margin: 0px; font-size: 10px; line-height: normal; min-height: 11px;"><span style="letter-spacing: 0.0px"></span><br></p>
+<p style="margin: 0px; font-size: 10px; line-height: normal;"><span style="letter-spacing: 0.0px">Już pojawiają się spekulacje zaniepokojonych tymi zmianami środowisk bankowców, których przeraża deklaracja ożywienia polskiej gospodarki kwotą 1,400 mld złotych, odpowiadającą 80 procentom polskiego PKB, co będzie wymagało zastrzyku 350 mld zł z NBP.</span></p>
+<p style="margin: 0px; font-size: 10px; line-height: normal; min-height: 11px;"><span style="letter-spacing: 0.0px"></span><br></p>
+<p style="margin: 0px; font-size: 10px; line-height: normal;"><span style="letter-spacing: 0.0px">Powodem wątpliwości jest nie to, skąd państwo weźmie na to pieniądze, gdyż wariant skupowania przez NBP obligacji Skarbu Państwa na rynku wtórnym został już w poprzednich latach przećwiczony. A zatem można to zrobić dość prosto, posługując się innym bankiem państwowym.</span></p>
+<p style="margin: 0px; font-size: 10px; line-height: normal; min-height: 11px;"><span style="letter-spacing: 0.0px"></span><br></p>
+<p style="margin: 0px; font-size: 10px; line-height: normal;"><span style="letter-spacing: 0.0px">Prawdziwym zmartwieniem bankierów jest możliwy kierunek inwestowania pozyskanych tą drogą pieniędzy.&nbsp;</span></p>
+<p style="margin: 0px; font-size: 10px; line-height: normal; min-height: 11px;"><span style="letter-spacing: 0.0px"></span><br></p>
+<p style="margin: 0px; font-size: 10px; line-height: normal;"><span style="letter-spacing: 0.0px">W swoim komentarzu do wyborów w Polsce Goldman Sachs&nbsp;pisze:</span></p>
+<p style="margin: 0px; font-size: 10px; line-height: normal; min-height: 11px;"><span style="letter-spacing: 0.0px"></span><br></p>
+<blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p style="margin: 0px; font-size: 10px; line-height: normal;"><span style="letter-spacing: 0.0px">- Niepewność generuje ewentualne zaangażowanie NBP w projekty inwestycyjne oraz w bezpośrednie finansowanie banków. Pomysły te są trudne do realizacji w ramach obowiązującego prawa – dodaje bank inwestycyjny. Jednocześnie dodaje, że część ryzyka związanego z tego typu zakusami jest już wliczona w obecny kurs złotówki.</span></p><p style="margin: 0px; font-size: 10px; line-height: normal;"><span style="letter-spacing: 0.0px">A więc bank Goldman Sachs wkalkulował już w obecną cenę złotówki "zakusy" polskiego rządu&nbsp;na rozwój sektora polskiej bankowości, pod postacią choćby banków komunalnych,&nbsp;postulowanych przez PiS&nbsp;w dokumentach programowych.&nbsp;</span></p></blockquote>
+
+<p style="margin: 0px; font-size: 10px; line-height: normal; min-height: 11px;"><span style="letter-spacing: 0.0px"></span><br></p>
+<p style="margin: 0px; font-size: 10px; line-height: normal;"><span style="letter-spacing: 0.0px">Silny samorządowy sektor bankowości to główne zagrożenie dla ich obławiania się na kredytach w naszym kraju. Chodzi zwłaszcza o to, że postulowane banki komunalne oferowałyby kredyty dla polskich przedsiębiorców i samorządów na znacznie korzystniejszych warunkach, niż czynią to obecnie banki spod szyldu Goldman Sachs. Grozi to wzrostem dobrobytu w naszym kraju oraz ukróceniem eksploatacji finansowej, jakiej doznajemy od 25 lat.</span></p>
+<p style="margin: 0px; font-size: 10px; line-height: normal; min-height: 11px;"><span style="letter-spacing: 0.0px"></span><br></p>
+<p style="margin: 0px; font-size: 10px; line-height: normal;"><span style="letter-spacing: 0.0px">A my? Co my na to?</span></p><p style="margin: 0px; font-size: 10px; line-height: normal;"><span style="letter-spacing: 0.0px"><br></span></p><p style="margin: 0px; font-size: 10px; line-height: normal;"><span style="letter-spacing: 0.0px">Krzysztof Lewandowski</span></p>
