@@ -4,7 +4,7 @@
 <ul>
 	<li><a href='{{site.baseurl}}\articles\Koniec%20epoki%20finansowych%20dinozaurow.html'>Koniec epoki finansowych dinozaurow</a>
 	<li><a href='{{site.baseurl}}\articles\Brytyjczycy%20za%20nacjonalizacja%20bankow.html'>Brytyjczycy za nacjonalizacją banków</a>
-	<li><a href='{{site.baseurl}}\articles\Jak%20to%20powinno%20byc%20urzadzone....html'>Jak to powinno być urządzone...</a>
+	<li><a href='{{site.baseurl}}\articles\Jak%20to%20powinno%20byc%20urzadzone.html'>Jak to powinno być urządzone...</a>
 	<li><a href='{{site.baseurl}}\articles\Pomysl%20dla%20frankowiczow.html'>Pomysł dla frankowiczów</a>
 	<li><a href='{{site.baseurl}}\articles\Wspolczesni%20luddysci.html'>Współcześni luddyści</a>
 	<li><a href='{{site.baseurl}}\articles\Jasniej.html'>Jaśniej...</a>
@@ -15,8 +15,8 @@
 	<li><a href='{{site.baseurl}}\articles\Trzy%20filary%20reform.html'>Trzy filary reform</a>
 	<li><a href='{{site.baseurl}}\articles\Strach%20wielki%20jak%20bank%20komunalny.html'>Strach wielki jak bank komunalny</a>
 	<li><a href='{{site.baseurl}}\articles\Zrzut%20suwerenny.html'>Zrzut suwerenny</a>
-	<li><a href='{{site.baseurl}}\articles\Lokalny%20klaster%20samorzadowy.html'>Lokalny klaster samorządowy</a>
-	<li><a href='{{site.baseurl}}\articles\Podrabianie%20pieniadza%22%20przez%20banki.html'>"Podrabianie pieniądza" przez banki</a>
+	<li><a href='{{site.baseurl}}\articles\Lokalny%20klaster%20samorzadowy_.html'>Lokalny klaster samorządowy</a>
+	<li><a href='{{site.baseurl}}\articles\Podrabianie%20pieniadza%20przez%20banki.html'>"Podrabianie pieniądza" przez banki</a>
 	<li><a href='{{site.baseurl}}\articles\Grecki%20taniec%20z%20tanem.html'>Grecki taniec z tanem</a>
 	<li><a href='{{site.baseurl}}\articles\Nierentowna%20mikro%20rentowna%20makro.html'>Nierentowna mikro rentowna makro...</a>
 	<li><a href='{{site.baseurl}}\articles\Charytatywny%20piewca%20wolnosci.html'>Charytatywny piewca wolności</a>
@@ -31,7 +31,7 @@
 	<li><a href='{{site.baseurl}}\articles\Dlaczego%20zaglosuje.html'>Dlaczego zagłosuję</a>
 	<li><a href='{{site.baseurl}}\articles\Repo%20i%20derywaty%20w%20akcji.html'>Repo i derywaty w akcji</a>
 	<li><a href='{{site.baseurl}}\articles\Wolnosc%20bez%20liberalow.html'>Wolność bez liberałów</a>
-	<li><a href='{{site.baseurl}}\articles\Docho%20podstawowy%20-%20propozycja%20Anglii.html'>Dochó podstawowy - propozycja Anglii</a>
+	<li><a href='{{site.baseurl}}\articles\Dochod%20podstawowy%20-%20propozycja%20Anglii.html'>Dochód podstawowy - propozycja Anglii</a>
 	<li><a href='{{site.baseurl}}\articles\Dochod%20podstawowy%20w%20dobie%20informacji.html'>Dochód podstawowy w dobie informacji</a>
 	<li><a href='{{site.baseurl}}\articles\Ekowioska%20Findhorn.html'>Ekowioska Findhorn</a>
 	<li><a href='{{site.baseurl}}\articles\Chmura.html'>Chmura</a>
