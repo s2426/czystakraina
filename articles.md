@@ -1,5 +1,4 @@
 
-<div id='content'>
 <h2>Materiały, artykuły</h2>
 <ul>
 	<li><a href='{{site.baseurl}}\articles\Koniec%20epoki%20finansowych%20dinozaurow.html'>Koniec epoki finansowych dinozaurow</a>
@@ -150,4 +149,3 @@
 	<li><a href='{{site.baseurl}}\articles\R%C4%85czka%20r%C4%85czk%C4%99%20myje.html'>Rączka rączkę myje</a>
 	<li><a href='{{site.baseurl}}\articles\Czysta%20Kraina.html'>Czysta Kraina</a>
 </ul>
-</div><!-- zakończenie #content -->		
