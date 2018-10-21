@@ -22,7 +22,7 @@
 	<li><a href='{{site.baseurl}}\articles\Charytatywny%20piewca%20wolnosci.html'>Charytatywny piewca wolności</a>
 	<li><a href='{{site.baseurl}}\articles\Bankierzy%20kontratakuja.html'>Bankierzy kontratakują</a>
 	<li><a href='{{site.baseurl}}\articles\Oto%20nastaje%20Nowe%20Bretton%20Woods%21.html'>Oto nastaje Nowe Bretton Woods!</a>
-	<li><a href='{{site.baseurl}}\articles\Dlaczego%20banki%20potrzebuja%20naszych%20depozytow%20Podpowiedz Nie%20po%20to%20aby%20je%20pozyczac..html'>Dlaczego banki potrzebują naszych depozytów? Podpowiedź: Nie po to, aby je pożyczać.</a>
+	<li><a href='{{site.baseurl}}\articles\Dlaczego%20banki%20potrzebuja%20naszych%20depozytow%20Podpowiedz Nie%20po%20to%20aby%20je%20pozyczac.html'>Dlaczego banki potrzebują naszych depozytów? Podpowiedź: Nie po to, aby je pożyczać.</a>
 	<li><a href='{{site.baseurl}}\articles\Waluta%20wspolnotowa%20jako%20wehikul%20transformacji.html'>Waluta wspólnotowa jako wehikuł transformacji</a>
 	<li><a href='{{site.baseurl}}\articles\CitiWarszawa.html'>CitiWarszawa</a>
 	<li><a href='{{site.baseurl}}\articles\Pero%20pero.html'>Pero pero</a>
