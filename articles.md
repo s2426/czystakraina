@@ -103,7 +103,7 @@
 	<li><a href='{{site.baseurl}}\articles\Wojna%20czy%20pokoj.html'>Wojna czy pokój</a>
 	<li><a href='{{site.baseurl}}\articles\Odstrzal%20na%20lanie.html'>Odstrzał na łanię</a>
 	<li><a href='{{site.baseurl}}\articles\Terroryzm%20wysokich%20czestotliwosci.html'>Terroryzm wysokich częstotliwości</a>
-	<li><a href='{{site.baseurl}}\articles\Dwie%20waluty%20a%20moze%20trzy....html'>Dwie waluty, a może trzy...</a>
+	<li><a href='{{site.baseurl}}\articles\Dwie%20waluty%20a%20moze%20trzy.html'>Dwie waluty, a może trzy...</a>
 	<li><a href='{{site.baseurl}}\articles\Poluzowanie%20ilosciowe%20%28Quantitative%20easing%29.html'>Poluzowanie ilościowe (Quantitative easing)</a>
 	<li><a href='{{site.baseurl}}\articles\Co%20nam%20Grecy%20moga%20dac.html'>Co nam Grecy mogą dać?</a>
 	<li><a href='{{site.baseurl}}\articles\Nie%20tankuj%20z%20komorka.html'>Nie tankuj z komórką</a>
@@ -149,8 +149,7 @@
 	<li><a href='{{site.baseurl}}\articles\OGLOSZENIE%20PRASOWE.html'>OGŁOSZENIE PRASOWE</a>
 	<li><a href='{{site.baseurl}}\articles\Raczka%20raczke%20myje.html'>Rączka rączkę myje</a>
 	<li><a href='{{site.baseurl}}\articles\Czysta%20Kraina.html'>Czysta Kraina</a>
-</ul>
-</p>
+
 
 	
 
