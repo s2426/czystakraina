@@ -1,1 +1,0 @@
-<?$name = rawurldecode($_SERVER['QUERY_STRING']);$name = is_readable($path = sprintf('internals/articles/%s.html', $name)) ? $name : null;?>
