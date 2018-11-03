@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="{{site.baseurl}}\articles\pictures\465.nbp.jpg" width="200"><!--226-->
+<img src="{{site.baseurl}}\articles\pictures\465.nbp.jpg"align=left width="200"><!--226-->
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">28.10.2015</p>
 
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Serwis money.pl przedstawia grafik zmian w 9-osobowej Radzie Polityki Pieniężnej, która rządzi joistickiem stóp procentowych. RPP będzie należeć do PiS już w najbliższą zimę, a na początku lata wygasa kadencja szefa NBP. Oznacza to, że PiS uzyska pełnię władzy monetarnej w czerwcu 2016 roku.</p>

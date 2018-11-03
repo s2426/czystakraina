@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.frank.jpg" width="200"><!--234-->
+<img src="{{site.baseurl}}\articles\pictures\465.frank.jpg"align=left width="200"><!--234-->
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">3.01.2017</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Jak rozwiązać kryzys z kredytami frankowymi, które zdają się być toksycznymi papierami dłużnymi, grożacymi bankom nie tylko utratą znacznych zysków spodziewanych, ale także zapłatą kar i odszkodowań za stosowanie niewłaściwych klauzul w kontraktach kredytowych?</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">W mnogości propozycji zabrakło chyba prostego i sprawdzonego w działaniu rozwiązania, które z powodzeniem po 2007 roku zastosowało kilka banków centralnych, ratując przed upadkiem wielkie banki komercyjne i powiązane z nimi towarzystwa ubezpieczeniowe, które w swoich aktywach miały znaczne ilości toksycznych kredytów hipotecznych.</p>

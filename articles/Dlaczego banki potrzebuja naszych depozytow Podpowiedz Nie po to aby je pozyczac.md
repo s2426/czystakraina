@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.bnd.jpg" width="200"><!--216-->
+<img src="{{site.baseurl}}\articles\pictures\465.bnd.jpg"align=left width="200"><!--216-->
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">30.10.2014</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Autor: Ellen Brown</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Mówiło o tym wielu ekspertów: banki nie pożyczają środków w nich zdeponowanych. Tworzą za pomocą księgowania pieniądze przeznaczone na kredyt.</p>

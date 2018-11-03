@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.tygrys.jpg" width="200"><!--100--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
+<img src="{{site.baseurl}}\articles\pictures\465.tygrys.jpg"align=left width="200"><!--100--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 10.02.2012<br>
 <br>
 Tym razem będzie nie o Stanach Zjednoczonych ;) ale o tygrysach

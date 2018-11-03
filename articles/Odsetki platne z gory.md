@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.nbp.jpg" width="200"><!--0--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
+<img src="{{site.baseurl}}\articles\pictures\465.nbp.jpg"align=left width="200"><!--0--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 16.06.2010<br><br>Międzynarodowe instytucje finansowe prześcigają się w pomysłach, jak wyciągać z kieszeni polskich podatników pieniądze. <br>Przebojem
 kombinatorów spod znaku MFW jest usługa znana pod nazwą "dostępność
 elastycznej linii kredytowej", która polskiego podatnika będzie w tym
