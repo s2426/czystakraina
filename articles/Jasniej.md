@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.otwarcie.jpg"  align="left" width="200"><!--232-->
+<img src="{{site.baseurl}}\articles\pictures\465.otwarcie.jpg" align="left" HSPACE=”50” VSPACE=”50” width="200"><!--232-->
 <p>9.11. 2016</p>
 <p>Ciemno wszędzie, głucho wszędzie... Ale może już nie tak ciemno?</p>
 <p>Jaka jest wizja Donalda Trumpa? Ano mniej więcej taka: zmienić jak szybko się da szefową Fed-u na kogoś o zupełnie innej orientacji bankowej, drastycznie obniżyć podatki, co byłoby nagłym zastrzykiem euforii dla amerykańskich przedsiębiorców, a następnie sukcesywnie zastępować obecne kredyty przedsiębiorców oraz obywateli (stanowiących główny składnik podaży pieniądza) pieniądzem emitowanym przez tenże Fed (ale już pod innym kierownictwem) via zamówienia rządowe.</p>

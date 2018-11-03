@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.teomandalamaly.jpg"  align="left" width="200"><!--125-->
+<img src="{{site.baseurl}}\articles\pictures\465.teomandalamaly.jpg" align="left" HSPACE=”50” VSPACE=”50” width="200"><!--125-->
 <p>Wpolskiej edycji Le Monde diplomatique nr 9/2012 ukazał się artykuł Łukasza Drozdy pt. „Duża różnica między dochodem powszechnym a gwarantowanym“, który jest przykładem nierozumienia problematyki współczesnej ekonomii przez lewicę.</p>
 <p>W artykule cytowane są fragmenty wypowiedzi Michela Hussona, jednego z lewicowych myślicieli francuskich, podtrzymujące moją tezę, że z powodu nierozpoznania mechanizmów finansowych kryzysu, współczesna lewica błąka się po terenie neoliberalizmu w poszukiwaniu azymutu dla własnych programów, czego efektem jest jej podpieranie statusquo oraz buńczuczność na pokaz, skierowana właściwie nie wiadomo przeciw komu i czemu, skoro nie kwestionowane są przez nią współczesne, neoliberalne dogmaty.</p>
 <p>Przykładem tego błąkania się jest całkowicie mylna, pokrętna i powierzchowna analiza koncepcji dochodu powszechnego (podstawowego - ang. basicincome), zwanego niekiedy dywidendą narodową.</p>

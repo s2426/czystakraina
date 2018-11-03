@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.Ma2.jpg"  align="left" width="200"><!--117-->
+<img src="{{site.baseurl}}\articles\pictures\465.Ma2.jpg" align="left" HSPACE=”50” VSPACE=”50” width="200"><!--117-->
 <p>29 czerwca 2012</p>
 <p>Współczesne czasy, poprzedzone wdrożeniem na powszechną skalę komputerów, przenośnych telefonów i internetu, różnią się zasadniczo od czasów je poprzedzających, w których zbieranie i przetwarzanie informacji wiązało się z olbrzymimi kosztami.</p>
 <p>Dziś informacje w coraz większym stopniu zbierają się same, albo mogłyby się zbierać same, gdybyśmy temu procesowi nie stawiali wielu barier.<br></p>

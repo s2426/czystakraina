@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.luddysci.jpg"  align="left" width="200"><!--233-->
+<img src="{{site.baseurl}}\articles\pictures\465.luddysci.jpg" align="left" HSPACE=”50” VSPACE=”50” width="200"><!--233-->
 <p>01.01.2017</p>
 <p>Zarówno po stronie rządzących, jak i po stronie opozycji, widać je gołym okiem. Odwetowe skłonności rodzą odwetowe skłonności, w myśl zasad logiki i rezonansu.</p>
 <p>Praktycznie trudno dziś o rozmowę polityków bez partyjnych przytyków z obydwu stron. Parametrem wzajemnych przytyków można mierzyć poziom politycznego dna, na jakim zmajdują się wybrani reprezentanci narodu. Nieliczne wyjątki potwierdzają regułę.</p>

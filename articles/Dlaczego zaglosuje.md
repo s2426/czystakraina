@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.protest3.jpg"  align="left" width="200"><!--201-->
+<img src="{{site.baseurl}}\articles\pictures\465.protest3.jpg" align="left" HSPACE=”50” VSPACE=”50” width="200"><!--201-->
 <p>1.10.2013</p>
 <p>Po pierwsze dlatego, że jest to pierwsze w moim życiu referendum, a przekroczyłem już 60-tkę, więc pójdę choćby z ciekawości, jak przebiega cała procedura. Spodziewam się, że będzie to dla mnie lekcja demokracji i okazja doświadczenia własnych praw obywatelskich.</p>
 <p>Po drugie, mam oto kolejną - poza wyborami, w których dotychczas niestety przegrywałem - okazję, aby zagłosować przeciwko Hannie Gronkiewicz-Waltz, która moim zdaniem obniża status miasta poziomem, który sama reprezentuje, i który Warszawiacy streszczają jednym słowem - bufetowa.</p>

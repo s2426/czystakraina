@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.WP.jpg"  align="left" width="200"><!--35--><p>
+<img src="{{site.baseurl}}\articles\pictures\465.WP.jpg" align="left" HSPACE=”50” VSPACE=”50” width="200"><!--35--><p>
 22.05.2010<br><br>Jeszcze nie tak dawno
 temu byliśmy narodem żyjącym w pokoju, nie atakującym nikogo z żadnego
 powodu. Jeszcze nie tak dawno chcieliśmy bardzo usunąć z naszego kraju

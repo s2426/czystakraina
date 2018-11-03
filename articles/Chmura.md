@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.amoksloncokwiatmaly.jpg"  align="left" width="200"><!--123--><p>
+<img src="{{site.baseurl}}\articles\pictures\465.amoksloncokwiatmaly.jpg" align="left" HSPACE=”50” VSPACE=”50” width="200"><!--123--><p>
 30.12.2012<br>
 <p>Czarna chmura wisi nad gospodarkami świata, chmura długów, która ciągnie ekonomie w dół. Odsetki od nich sprawiają, że bogactwo przepływa od osób żyjących ze swojej pracy do osób żyjących z posiadanych nadwyżek kapitałowych. Co ciekawe, drenaż ten nie odbywa się wyłącznie pomiędzy krajami bogatymi i biedniejszymi, ale dotyczy pionowych przepływów wewnątrz wszystkich państw, gdziebogatsi obywatele drenują biedniejszych.</p>
 <p>W bogatych krajach drenaż finansowy jest więc woluminowo nawet większy, niż w biedniejszych, gdyż jest kogo i z czego drenować. W efekcie osoby drenowane, poprzez spłatę odsetek, rezygnują z konsumpcji, a z kolei drenujący, do których płyną strumienie odsetek, nie zwiększają swojej konsumpcji, bo mają ją i tak bardzo wysoką, a jej limitem jest czas, który wszelka konsumpcja pochłania. Gasnący z tej przyczyny popyt to główny hamulec gospodarczy i w ten oto sposób rozwija się spiralna tendencja depresyjna.</p>

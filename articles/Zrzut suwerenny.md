@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.rurociag.jpg"  align="left" width="200"><!--225-->
+<img src="{{site.baseurl}}\articles\pictures\465.rurociag.jpg" align="left" HSPACE=”50” VSPACE=”50” width="200"><!--225-->
 <p>26.09.2015</p>
 <p>Pojawiają się coraz częściej głosy, wypowiadane przez członków światowego establishmentu bankowego, o potrzebie przemodelowania polityk dotyczących pieniądza, a zwłaszcza polityki jego kreacji i wprowadzania na rynek w postaci długu.</p>
 <p>Lord Mervyn King, w latach 2003-2013 zasiadający w fotelu prezesa Banku Anglii, wypowiedzieł się niedawno o obecnej sytuacji w bankowości w tych słowach: "Ze wszystkich sposobów organizowania bankowości, ten, z którym mamy obecnie do czynienia, jest najgorszy".</p>
