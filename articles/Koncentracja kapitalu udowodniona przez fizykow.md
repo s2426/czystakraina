@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.wallstreet.jpg" align="left" HSPACE=”50” VSPACE=”50” width="200"><!--9--><p>
+<img src="{{site.baseurl}}\articles\pictures\465.wallstreet.jpg" align="left" hspace="50" vspace="50" width="200"><!--9--><p>
 Szwajcarscy fizycy, Stefano Battiston i James Glattfelder, opublikowali wyniki badań obrotów na światowych giełdach. Efekty analiz są zaskakujące, gdyż świadczą o wielkiej koncentracji kapitału w rekach nielicznej grupy inwestorów. Oto lista największych z nich:</p><p>1. The Capital Group Companies (U.S.)</p><p>
  2. Fidelity Management &amp; Research (U.S.)</p><p>
  3. Barclays PLC (U.K.)</p><p>

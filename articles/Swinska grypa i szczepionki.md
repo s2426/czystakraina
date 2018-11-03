@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.zastrzyk.jpg" align="left" HSPACE=”50” VSPACE=”50” width="200"><!--3-->
+<img src="{{site.baseurl}}\articles\pictures\465.zastrzyk.jpg" align="left" hspace="50" vspace="50" width="200"><!--3-->
 <p>Minęły już trzy lata od ostatniej groźby epidemii ptasiej grypy, 6
 lat od zagrożenia SARS, a teraz ostrzega się przed potencjalną pandemią
 świńskiej grypy, co zdominowało wiadomości w USA, w Meksyku i w innych

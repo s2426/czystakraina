@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.skrzypimietacodex.jpg" align="left" HSPACE=”50” VSPACE=”50” width="200"><!--1--><p>
+<img src="{{site.baseurl}}\articles\pictures\465.skrzypimietacodex.jpg" align="left" hspace="50" vspace="50" width="200"><!--1--><p>
 Codex Alimentarius to 16 tysięcy stron aktów prawnych mających -
 przynajmniej w teorii - zabezpieczać nasze zdrowie przed nadużyciami ze
 strony producentów leków oraz żywności. W istocie Codex, będący

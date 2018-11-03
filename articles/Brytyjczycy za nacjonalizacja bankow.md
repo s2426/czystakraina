@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.7360.jpg" align="left" HSPACE=”50” VSPACE=”50” width="200"><!--236-->
+<img src="{{site.baseurl}}\articles\pictures\465.7360.jpg" align="left" hspace="50" vspace="50" width="200"><!--236-->
 <p>24.10.2017</p>
 <p>Artykuł Owena Jonesa z The Guardian (19 października 2017) cytuje sensacyjne wyniki badań społeczeństwa brytyjskiego po Brexicie. Okazuje się, że połowa ludności Wielkiej Brytanii opowiada się za nacjonalizacją sektora bankowego, czego nie da się niestety dowiedzieć z brytyjskich mediów, które w tej sprawie nabierają wody w usta.</p>
 <p>Prywatny sektor bankowości jest obarczany przez społeczeństwo brytyjskie winą za cykliczne kryzysy i dożyznę mieszkań, których cena, według badań niemieckiego ekonomisty Helmuta Creutza, składa się w ponad 50 procentach z odsetek od kredytów zaciąganych przez deweloperów. Znamienne jest to, że wśród osób młodych, odsetek zwolenników nacjonalizacji sektora bankowego jest więcej, niż wśród osób starszych i przekracza 50%.</p>

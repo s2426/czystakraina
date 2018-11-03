@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.lania.jpg" align="left" HSPACE=”50” VSPACE=”50” width="200"><!--34--><p>
+<img src="{{site.baseurl}}\articles\pictures\465.lania.jpg" align="left" hspace="50" vspace="50" width="200"><!--34--><p>
 21.05.2010</p><p></p><p>Bronisław Komorowski jest aktywnym myśliwym i w pościgu za chronionymi w Europie gatunkami jest w stanie nawet polować w Rosji. Ma też w domu imponującą kolekcję trofeów myśliwskich.</p><p></p><p>Byłoby cenne, gdyby za zjawisko myślistwa w polskim parlamentaryzmie
 wzięli się ostro socjologowie, bo to, że wśród parlamentarzystów
 "stężenie" myśliwych jest ponad 50 razy większe, niż u normalnych,

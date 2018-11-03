@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.dino.jpg" align="left" HSPACE=”50” VSPACE=”50” width="200"><!--240--><p>
+<img src="{{site.baseurl}}\articles\pictures\465.dino.jpg" align="left" hspace="50" vspace="50" width="200"><!--240--><p>
 17.04.2018</p>
 <p>Krzysztof Lewandowski</p>
 <p>Koniec epoki finansowych dinozaurów</p>

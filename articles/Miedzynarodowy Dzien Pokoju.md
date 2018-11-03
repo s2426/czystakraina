@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.zielono-zielona.jpg" align="left" HSPACE=”50” VSPACE=”50” width="200"><img src="{{site.baseurl}}\articles\pictures\.jpg" align="left" HSPACE=”50” VSPACE=”50” width="200"><!--5-->
+<img src="{{site.baseurl}}\articles\pictures\465.zielono-zielona.jpg" align="left" hspace="50" vspace="50" width="200"><img src="{{site.baseurl}}\articles\pictures\.jpg" align="left" hspace="50" vspace="50" width="200"><!--5-->
 <p>Jako inicjatywa osób zajmujących się promocją pokoju i odczuwających potrzebę pokoju, przekazujemy bardzo ważną informację:</p><p>7
 września 2001 roku Zgromadzenie Ogólne Narodów Zjednoczonych
 postanowiło, że począwszy od roku 2002, corocznie, 21 września
