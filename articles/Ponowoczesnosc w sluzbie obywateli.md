@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<!--228-->
+<img src="{{site.baseurl}}\articles\pictures\465.positive.jpg" width="200"><!--228-->
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">28.04.2016</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Dochód podstawowy jest elementem wizji transformacyjnej społeczeństwa demokratycznego. Głównymi przeszkodami w jego wdrożeniu na poziomie ogólnokrajowym są: 1) niesuwerenny pieniądz narodowy, 2) nieszczelny system podatkowy.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Jedną z koncepcji fazy eksperymentalnej wdrożenia dochodu podstawowego jest jego wypłata w samorządowej walucie lokalnej (elektronicznym rabatowym kuponie podatkowym). Ogranicza to pole eksperymentu do miasta lub regionu i likwiduje wspomniane przeszkody.</p>

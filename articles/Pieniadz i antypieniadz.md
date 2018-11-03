@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<!--211-->
+<img src="{{site.baseurl}}\articles\pictures\465.zloty.jpg" width="200"><!--211-->
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;"></p><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">3.01.2014</p><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Pieniądz jako dobro wspólne i antypieniądz jako wspólna dokuczliwość.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Taką medytację proponuję na czas dalszego kumulowania się sprzeczności między zbiorową mądrością narodów i zbiorową indywidualizacją elit. System trzeszczy w posadach i zastrzyki wzmacniające betonu pieniężnego, jakie zaaplikowano konstrukcji bankowo-finansowej w latach kryzysu, nie pomogą na długo.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Owszem, elity wzmocniły w ten sposób mury finansowe, jakimi się otoczyły. Lecz napór na nie zwiększa się w tempie wykładniczym, obrazującym rosnące dysproporcje dochodów. Obłowiły się w kryzysie zwłaszcza światowe giganty bankowe, które dostały najwięcej, ale lawa ubożejących narodów wrze coraz mocniej i w obliczu internetu nie da się długo trzymać ludzi w ciemnocie propagandowej związanej z tematem własności pieniądza.</p>

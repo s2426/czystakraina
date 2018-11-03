@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!--25--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
+<img src="{{site.baseurl}}\articles\pictures\465.fedNY.jpg" width="200"><!--25--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 04.02.2010<br><br>Zeszłotygodniowe przesłuchania w Kongresie USA nie pozostawiają wątpliwości
 co do tego, że spisek amerykańskich elit finansowych jest znacznie
 szerszy, niż można było do niedawna przypuszczać.<br>

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<!--240--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
+<img src="{{site.baseurl}}\articles\pictures\465.dino.jpg" width="200"><!--240--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 17.04.2018</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Krzysztof Lewandowski</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Koniec epoki finansowych dinozaurów</p>

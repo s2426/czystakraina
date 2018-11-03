@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<!--5-->
+<img src="{{site.baseurl}}\articles\pictures\465.zielono-zielona.jpg" width="200"><img src="{{site.baseurl}}\articles\pictures\.jpg" width="200"><!--5-->
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Jako inicjatywa osób zajmujących się promocją pokoju i odczuwających potrzebę pokoju, przekazujemy bardzo ważną informację:<br>7
 września 2001 roku Zgromadzenie Ogólne Narodów Zjednoczonych
 postanowiło, że począwszy od roku 2002, corocznie, 21 września
@@ -13,7 +13,6 @@ tekst rezolucji: <br><br></p><p style="margin: 0px 0px 18px; font-size: 18px; fo
 </p><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">2. <br>Deklaruje się, że Międzynarodowy Dzień Pokoju<br>powinien być dniem globalnego zapobiegania przemocy, a także <br>zaproszeniem dla wszystkich ludzi i narodów <br>do zaangażowania się w działania zmierzające do<br>zapobiegania konfliktom zbrojnym, 
 </p><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">3. <br>Zaprasza się wszystkie kraje członkowskie, <br>organizacje funkcjonujące w ramach Organizacji Narodów Zjednoczonych, a także <br>organizacje regionalne i pozarządowe oraz osoby prywatne do współpracy <br>z ONZ w celu prowadzenia społecznej edukacji i działania na rzecz światowego pokoju. 
 </p><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;"><em>7 września 2001 r.</em> 
-</p><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;"> 
 </p><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;"><br><strong>Międzynarodowy Dzień Pokoju jest faktem.</strong> 
 </p><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Zapraszamy do działań. 
 </p><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Niech ten dzień stanie się dniem czynów, dniem świętowania pokoju i poszerzania globalnej świadomości pokojowej. 

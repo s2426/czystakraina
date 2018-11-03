@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<!--212-->
+<img src="{{site.baseurl}}\articles\pictures\465.ellengame.jpg" width="200"><!--212-->
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">8.04.2014</p><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">4 marca 2014 FDIC (Fedreal Deposit Insurance Corporation) złożył pozew przeciwko szesnastubankom, w tym trzem największym bankom USA, z powodu zmowy tych banków i manipulowania przez nie indeksem LIBOR na szkodę kredytobiorców.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">O ile wcześniejsze pozwy zbiorowe klientów oszukanych na manipulacjach wskaźnikiem LIBOR zostały przez sąd odrzucone bez ich rozpatrywania, o tyle włączenie się do procesu FDIC, czyli strony bezpośrednio poszkodowanej, ubezpieczyciela wkładów oszczędnościowych, który musiał wypłacić olbrzymie sumy klientom zbankrutowanych banków, znacznie utrudni odłożenie sprawy ad acta, gdyż po pierwsze FDIC jest bezsprzecznie stroną w sprawie, a po drugie oskarża banki o naruszenie wielu praw, a nie tylko prawa antymonopolowego, o co oskarżali banki klienci.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Dla uzmysłowienia sobie skali ewentualnych roszczeń, weźmy pod uwagę, że na rynku instrumentów pochodnych, na którym manipulacje indeksem LIBOR najbardziej się odciskają, łączna wartość zawartych kontraktów typu interest-rate swap (odsetkowy swap) sięga 426 bilionów dolarów, co odpowiada mniej więcej siedmiokrotności PKB wszystkich krajów na świecie.</p>

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<!--232-->
+<img src="{{site.baseurl}}\articles\pictures\465.otwarcie.jpg" width="200"><!--232-->
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">9.11. 2016</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Ciemno wszędzie, głucho wszędzie... Ale może już nie tak ciemno?</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Jaka jest wizja Donalda Trumpa? Ano mniej więcej taka: zmienić jak szybko się da szefową Fed-u na kogoś o zupełnie innej orientacji bankowej, drastycznie obniżyć podatki, co byłoby nagłym zastrzykiem euforii dla amerykańskich przedsiębiorców, a następnie sukcesywnie zastępować obecne kredyty przedsiębiorców oraz obywateli (stanowiących główny składnik podaży pieniądza) pieniądzem emitowanym przez tenże Fed (ale już pod innym kierownictwem) via zamówienia rządowe.</p>

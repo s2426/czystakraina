@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<!--219-->
+<img src="{{site.baseurl}}\articles\pictures\465.soros.jpg" width="200"><!--219-->
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">11.01.2015</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Taki oto tekst George'a Sorosa ukazał się w "Rzeczpospolitej"</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">(<a href="http://www.ekonomia.rp.pl/artykul/706205,1169937-George-Soros--Pomozmy-reformatorom-na-Ukrainie.html?p=1">http://www.ekonomia.rp.pl/artykul/706205,1169937-George-Soros--Pomozmy-reformatorom-na-Ukrainie.html?p=1</a>):</p>
