@@ -34,7 +34,7 @@ Jednocześnie od dawna jest wiadome, że dobrze odżywieni ludzie mogą
 skutecznie walczyć z różnymi infekcjami, bez żadnej interwencji
 farmakologicznej. Dzisiaj wiemy na ten temat o wiele więcej.</p>
 <h3>Poniżej znajdują się odpowiedzi na najczęściej zadawane pytania dotyczące grypy i świńskiej grypy:</h3>
-<h4>Czy grypa jest groźną chorobą?</h4>
+<h2>Czy grypa jest groźną chorobą?</h2>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Wszyscy znamy grypę i chorujemy na nią wielokrotnie w swoim życiu.
 Grypa jest infekcją układu oddechowego, połączoną z gorączką, kaszlem i
 bólem mięśni, która trwa przez kilka dni. Choroba ta dotyczy około 20%
@@ -50,13 +50,13 @@ spowodowała zgony w sumie około 100 osób. Obecnie liczba zgonów
 spowodowanych świńską grypą w Meksyku przekroczyła 100, a pierwszy zgon
 spowodowany świńską grypą w USA (23-miesięczne niemowlę) zgłoszono w
 dniu 29 kwietnia.</p>
-<h4>Co to jest świńska grypa?</h4>
+<h2>Co to jest świńska grypa?</h2>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Świńska grypa jest chorobą układu oddechowego, która regularnie
 występuje u świń. Klasyczny wirus świńskiej grypy typu A H1N1 pojawił
 się w 1918 roku jednocześnie u świń i u ludzi. Wirusa tego pierwszy raz
 wyizolowano u świń w 1930 roku, a u ludzi w 1933 roku. W tamtym czasie
 analiza antygenowa nie wykryła pomiędzy nimi żadnej różnicy.</p>
-<h4>Co oznacza określenie grypa typu A H1N1?</h4>
+<h2>Co oznacza określenie grypa typu A H1N1?</h2>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Istnieją trzy rodzaje wirusa grypy: typ A, który zazwyczaj jest
 przyczyną epidemii; typ B, który wiąże się z występowaniem
 sporadycznych przypadków i typ C, który rzadko wywołuje chorobę.</p>
@@ -92,11 +92,11 @@ A: H1N1, H1N2, H3N2 i H3N1.</p>
 przyczyną pierwszej pandemii w 1918 roku. Obecny szczep wirusa grypy
 jest kombinacją wirusa świńskiego, ptasiego i ludzkiego, na który
 ludzie mogą nie być w sposób naturalny odporni.</p>
-<h4>Czy wirus świńskiej grypy H1N1 jest taki sam, jak wirus ludzkiej grypy H1N1?</h4>
+<h2>Czy wirus świńskiej grypy H1N1 jest taki sam, jak wirus ludzkiej grypy H1N1?</h2>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Nie, różnią się one w zakresie antygenowym, co oznacza, że
 szczepionki przeciwko wirusowi ludzkiej grypy H1N1 nie będą chronić
 świń w zakresie infekcji wirusem świńskiej grypy H1N1.</p>
-<h4>Co oznacza określenie duża różnorodność wirusa grypy?</h4>
+<h2>Co oznacza określenie duża różnorodność wirusa grypy?</h2>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Poza wymianą materiału genetycznego pomiędzy wirusami o różnym
 pochodzeniu, zachodzą również częste mutacje punktowe w wirusowym RNA
 oraz inne zmiany, które są przyczyną powstania różnorodności szczepów
@@ -105,7 +105,7 @@ tym, gdy populacja wytworzy odporność na stary szczep. Takie częste
 zmiany genetyczne wirusa grypy utrudniają wyprodukowanie skutecznej
 szczepionki na wirusa grypy. Dlatego szczepionka produkowana w danym
 roku jest często nieskuteczna w następnym sezonie grypy.</p>
-<h4>Jak rozprzestrzenia się wirus grypy?</h4>
+<h2>Jak rozprzestrzenia się wirus grypy?</h2>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Wirus ludzkiej grypy rozprzestrzenia się przez kaszel, kichanie i
 jest stabilny przez jakiś czas w powietrzu. Zatem ważne jest, aby
 często myć ręce ze względu na możliwość wcześniejszego dotknięcia
@@ -119,7 +119,7 @@ rozprzestrzeniać się z ludzi na ludzi.</p>
 zainfekowanych zwierząt. Gotowanie mięsa do osiągnięcia temperatury
 wewnętrznej wynoszącej 71°C [160°F] zabija bakterie i wirusy, włącznie
 z wirusem świńskiej grypy.</p>
-<h4>W jaki sposób wirusy infekują komórki?</h4>
+<h2>W jaki sposób wirusy infekują komórki?</h2>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Wirusy przedostają się do dróg oddechowych i wiążą się z komórkami
 wyściełającymi drogi oddechowe w płucach. Po wejściu materiału
 genetycznego wirusa w postaci RNA do komórki, przestawia on sposób
@@ -127,7 +127,7 @@ działania komórki gospodarza na produkcję nowych kopii genomu wirusa.
 Genomy te w połączeniu z nowymi białkami wirusa, które są tworzone
 przez komórkę gospodarza, tworzą nowe cząsteczki wirusa i
 rozprzestrzeniają się infekując okoliczne komórki tkanki płuca.</p>
-<h4>Jakie leki są stosowane w leczeniu świńskiej grypy u ludzi?</h4>
+<h2>Jakie leki są stosowane w leczeniu świńskiej grypy u ludzi?</h2>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Obecnie są dwie klasy leków zatwierdzonych do leczenia i
 zapobiegania grypy: pochodne adamantanu (amantadyna i jej pochodna
 rymantadyna) oraz nowsze inhibitory neuraminidazy (NA), takie jak
@@ -169,7 +169,7 @@ przeciwko wielu rodzajom infekcji.</p>
 jednocześnie nie wywołują choroby, są zazwyczaj bardziej skuteczne. W
 przypadku jednak wirusa grypy, który podlega częstym zmianom
 genetycznym często nie dają one pozytywnych wyników.</p>
-<h4>Czy istnieją naturalne sposoby na walkę z grypą?</h4>
+<h2>Czy istnieją naturalne sposoby na walkę z grypą?</h2>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Podejście medycyny komórkowej w przypadkach infekcji wirusowej i
 innych problemów zdrowotnych bazuje na zastosowaniu naturalnych
 składników znanych organizmowi w celu poprawienia określonych funkcji
@@ -194,7 +194,7 @@ działania tych składników odżywczych na poziomie komórkowym. Badania
 wykazały działanie ochronne synergii mikroelementów skierowane
 przeciwko penetracji komórek przez wirusy grypy, zahamowanie ich
 namnażania się i rozprzestrzeniania do innych komórek.</p>
-<h4>Czy witamina C jest skuteczna przeciwko grypie?</h4>
+<h2>Czy witamina C jest skuteczna przeciwko grypie?</h2>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Stosowanie witaminy C jako skutecznej ochrony przeciwko
 przeziębieniu zostało spopularyzowane przez dr Linusa Paulinga.
 Witamina C jest ważnym składnikiem odżywczym dla sprawnej czynności
@@ -213,7 +213,7 @@ wykazały, że aktywność kluczowego enzymu odpowiedzialnego za zakaźność
 wirusa ludzkiej grypy, którym jest neuraminidaza (N), może być
 skutecznie hamowana przez kombinację składników odżywczych podczas, gdy
 sama witamina C wywołuje tylko minimalny efekt.</p>
-<h4>Jakie są korzyści z zażywania synergii mikroelementów w porównaniu z pojedynczym składnikiem odżywczym?</h4>
+<h2>Jakie są korzyści z zażywania synergii mikroelementów w porównaniu z pojedynczym składnikiem odżywczym?</h2>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Aby osiągnąć biologiczny efekt synergii ważne jest łączenie
 wybranych mikroelementów w odpowiednich proporcjach. Przynosi to
 większe korzyści dla zdrowia niż stosowanie pojedynczych składników,
@@ -230,7 +230,7 @@ zachować równowagę metaboliczną komórki. Gdy stosowana jest duża dawka
 jednego mikroelementu może zwiększyć to ryzyko odsłonięcia
 wcześniejszych niedoborów mikroelementów, zaburzając zatem równowagę
 metaboliczną komórki i wywołując efekty niepożądane.</li></ul>
-<h4>Które z mikroelementów są ważne w kontrolowaniu infekcji grypowych?</h4>
+<h2>Które z mikroelementów są ważne w kontrolowaniu infekcji grypowych?</h2>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Istnieje ich kilka. Kluczowym składnikiem odżywczym jest witamina C,
 która zgodnie z naszymi badaniami może redukować namnażanie wirusa
 grypy o około 50%. Jej poziom jest zazwyczaj niższy u osób, u które
@@ -252,5 +252,5 @@ niedobór selenu był związany ze zwiększoną patogennością tego wirusa.
 Chociaż wszystkie z tych mikroelementów wykazują korzystne działanie
 gdy są stosowane pojedynczo, ich połączenie znacznie poprawiło efekty i
 dało bardziej kompleksowe korzyści zdrowotne.</p>
-<h4>Czy wyniki badań nad synergią składników odżywczych są dostępne?</h4>
+<h2>Czy wyniki badań nad synergią składników odżywczych są dostępne?</h2>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Tak, wszystkie te badania można przejrzeć na stronie internetowej naszego instytutu badawczego pod adresem <a href="http://www.drrathresearch.org/">www.drrathresearch.org</a>.</p>
