@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.tesmokmaly.jpg" align="left" hspace="50" vspace="50" width="200"><!--124-->
+<img src="{{site.baseurl}}\articles\pictures\465.tesmokmaly.jpg" align="left" style="margin: 10px 10px" width="200"><!--124-->
 <p>Jonathan Dawson</p>
 <p>(Studium ekowioski Findhorn w Szkocji)</p><p></p>
 <p>Ekowioski, kontrkulturowe eksperymenty społecznościowe, z których wiele pochodzi z lat 1960-tych i 1970-tych, zaczynają odgrywać coraz większą rolę jako katalizatory społeczno-ekonomicznego odtworzenia bioregionów, w których się znajdują. Jest to świeże zjawisko, będące znakiem istotnej transformacji profilu i roli tych wspólnot.</p>

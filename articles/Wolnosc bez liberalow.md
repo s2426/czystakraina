@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.nolibe.jpg" align="left" hspace="50" vspace="50" width="200"><!--127-->
+<img src="{{site.baseurl}}\articles\pictures\465.nolibe.jpg" align="left" style="margin: 10px 10px" width="200"><!--127-->
 <p>13.04.2013</p>
 <p>Współczesny system ekonomiczny, zwany liberalizmem, wziął swe początki od liberalizowania, czyli uwalniania, systemu bankowego od nadzoru państwowego.</p>
 <p>Liberalizowanie ekonomii rozpoczęło się od powstania w XVII w. Banku Anglii - prywatnej instytucji, która przejęła z rąk króla funkcję tworzenia pieniądza dłużnego, reprezentowanego z początku przez pieniądz papierowy - banknot.</p>

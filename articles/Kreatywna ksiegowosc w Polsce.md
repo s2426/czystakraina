@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.mf.jpg" align="left" hspace="50" vspace="50" width="200"><!--41-->
+<img src="{{site.baseurl}}\articles\pictures\465.mf.jpg" align="left" style="margin: 10px 10px" width="200"><!--41-->
 <p>28.07.2010</p>
 <p>Nie tylko Grecy ukrywają, póki się daje, rozmiar narodowej mizerii finansowej. To samo dzieje się w Polsce oraz w innych krajach, które najpierw uchwalają progi zadłużenia, którego nie wolno przekroczyć, a następnie kombinują, jak te własne ograniczenia obejść.,</p>
 <p>Raport NIK z wykonania budżetu za rok 2009 ukazuje to zjawisko wyraźnie. Wynika z niego, że wysokość rzeczywistego deficytu budżetu państwa łamie ustawę budżetową na rok 2009.</p>

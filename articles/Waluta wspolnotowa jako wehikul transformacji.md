@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.wawa.jpg" align="left" hspace="50" vspace="50" width="200"><!--215-->
+<img src="{{site.baseurl}}\articles\pictures\465.wawa.jpg" align="left" style="margin: 10px 10px" width="200"><!--215-->
 <p>23.10.2014</p>
 <p>Globalny system bankowy, oparty na opcjach, jest niestabilny. Dowodzą tego cyklicznie następujące kryzysy oraz aktualne statystyki obrazujące stopień rosnącego zagrożenia światowego ładu gospodarczego kolejną katastrofą finansową.</p>
 <p>Po stu latach od utworzenia Fed-u, amerykańskiego banku centralnego opartego na kartelu prywatnych banków, widać już wyraźnie, że nie wywiązuje się on należycie z zadania stabilizowania światowych gospodarek, czego dowodem jest eskalacja globalnych nierówności i wynikających stąd konfliktów. Zamiast bogacić społeczeństwo, prywatny kartel bankowy bogaci sam siebie.</p>

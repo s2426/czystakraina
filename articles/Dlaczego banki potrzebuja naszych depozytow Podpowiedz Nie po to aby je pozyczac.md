@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.bnd.jpg" align="left" hspace="50" vspace="50" width="200"><!--216-->
+<img src="{{site.baseurl}}\articles\pictures\465.bnd.jpg" align="left" style="margin: 10px 10px" width="200"><!--216-->
 <p>30.10.2014</p>
 <p>Autor: Ellen Brown</p>
 <p>Mówiło o tym wielu ekspertów: banki nie pożyczają środków w nich zdeponowanych. Tworzą za pomocą księgowania pieniądze przeznaczone na kredyt.</p>

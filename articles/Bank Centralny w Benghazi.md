@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.benghazi.jpg" align="left" hspace="50" vspace="50" width="200"><!--68--><p>
+<img src="{{site.baseurl}}\articles\pictures\465.benghazi.jpg" align="left" style="margin: 10px 10px" width="200"><!--68--><p>
 18.04.2011</p><p></p><p>Głównym przywilejem elit jest dziś przywilej kreacji oprocentowanego kredytu, czyli czyjegoś długu. Zadłużanie jednostek, firm, miast, gmin i narodów stało się współczesną formą zniewalania społecznego, którego doświadcza znakomita większość społeczeństwa. W procederze tym uczestniczą na skalę międzynarodową instytucje kontrolujące polityki monetarne krajów, takie jak FED, BIS czy MFW, które współgrają w wyciskaniu z narodów maksymalnych odsetek od udzielonych kredytów. </p><p></p><p>Nie dziwota więc, że powstańcy libijscy - których z początku trudno było nawet wyodrębnić -
 już powołali do istnienia Bank Centralny w
 Benghazi - zapewne pod dyktando tych samych grantów, które wydobyły na
