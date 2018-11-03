@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!--9-->
+<!--9--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 Szwajcarscy fizycy, Stefano Battiston i James Glattfelder, opublikowali wyniki badań obrotów na światowych giełdach. Efekty analiz są zaskakujące, gdyż świadczą o wielkiej koncentracji kapitału w rekach nielicznej grupy inwestorów. Oto lista największych z nich:<br>1.&nbsp; The Capital Group Companies (U.S.)<br>
  2.&nbsp; Fidelity Management &amp; Research (U.S.)<br>
  3.&nbsp; Barclays PLC (U.K.)<br>
@@ -13,3 +13,4 @@ Szwajcarscy fizycy, Stefano Battiston i James Glattfelder, opublikowali wyniki b
  8.&nbsp; Merrill Lynch &amp; Co. (U.S.)<br>
  9.&nbsp; Wellington Management Company (U.S.)<br>
  10.&nbsp; UBS (Switzerland)<br>Pełne wynik badań będa opublikowane we wrześniowym wydaniu renomowanego czasopisma naukowego Physical Review E
+ </p>
