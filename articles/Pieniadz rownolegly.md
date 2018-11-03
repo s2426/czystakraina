@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!--231-->
-13.10.2016<div><br><div>
+13.10.2016<br>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Trójpodział władz, na który powołują się politycy, to przeżytek. W międzyczasie bowiem wyrosły nad tradycyjnymi władzami: ustawodawczą, wykonawczą i sądowniczą dwie nowe potęgi: finansowa i medialna, z których pierwsza i najsilniejsza to władza finansowa banków i instytucji z nimi powiązanych, tworząca globalny kartel.&nbsp;</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;"><br></p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">W globalnym kartelu bankowym bierze udział i NBP, i FED, i BIS, a także giełdy, banki komercyjne, towarzystwa asekuracyjne, instytucje ratingowe i finansowe oraz uniwersytety, kształtujące świadomość przyszłych menedżerów tej niedemokratycznej struktury.</p>
@@ -112,4 +112,4 @@ layout: default
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;"><br></p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Pieniądz równoległy to szansa Polaków na tworzenie własnej kultury organizacyjnej w obszarze bankowości i finansów. To szansa na większą stabilność systemową naszego państwa i na postępujący, a nie uciekający przed nami dobrobyt. Strategicznie jest to także pieniądz zapasowy, niepowiązany z walutami wymienialnymi, który może okazać się zbawienny dla narodu w razie plajty globalnego kasyna.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;"><br></p>
-<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Krzysztof Lewandowski</p><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Warszawa, październik 2016</p></div><div><br></div></div>
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Krzysztof Lewandowski</p><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Warszawa, październik 2016</p><br>

@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!--35--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
-<span class="text_exposed_show">22.05.2010<br><br>Jeszcze nie tak dawno
+22.05.2010<br><br>Jeszcze nie tak dawno
 temu byliśmy narodem żyjącym w pokoju, nie atakującym nikogo z żadnego
 powodu. Jeszcze nie tak dawno chcieliśmy bardzo usunąć z naszego kraju
 wszelkie obce wojska i udało się nam to wreszcie kilka lat temu.
@@ -29,4 +29,4 @@ niemocarstwo - być inicjatorem takich przemian w świecie, aby przemocy
 było coraz mniej, produkcja broni malała na rzecz np. produkcji domów,
 a wojny żeby były zakazane globalnym, międzynarodowym traktatem. A
 naszą prostą odpowiedzią na proste pytanie o obecność w Afganistanie
-powinno być jak najszybsze wycofanie się.<br><br>LVD<br></span></p>
+powinno być jak najszybsze wycofanie się.<br><br>LVD<br></p>

@@ -3,10 +3,10 @@ layout: default
 ---
 
 <!--214--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
-23.10.2014<div></p><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;"><br></p>
+23.10.2014</p><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;"><br></p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Warszawa trzyma swoje depozyty w banku Citi Handlowym, którego głównym akcjonariuszem jest amerykański Citibank, należący do grupy 5 największych banków amerykańskich, które w swoich portfelach posiadają instrumenty pochodne o wartości co najmniej 40 bilionów (sic!) dolarów (am. trillion) każdy. Jest to suma trudna do wyobrażenia, porównywalna z globalnym PKB, wynoszącym 60 bilionów dolarów.</p>
 <p style="margin: 0px 0px 12.8px; font-size: 10px;">Generalnie, co najmniej na taką sumę każdy z pięciu amerykańskich banków wykupił żetony w globalnym kasynie, jakim bez wątpienia stał się światowy system bankowy oparty na instrumentach pochodnych, będących zakładami o przyszłość (jak w totalizatorze).&nbsp;</p>
-<p style="margin: 0px 0px 12.8px; font-size: 10px;">Są to kwoty przewyższające wielokrotnie aktywa bankowe i przy lada turbulencji gopodarczej cały ten domek z zakładów hazardowych może się w jednej chwili zawalić. Ostrzegają o tym za Atlantykiem, ale u nas tych głosów jakoś nie słychać: <a href="http://theeconomiccollapseblog.com/archives/5-u-s-banks-each-have-more-than-40-trillion-dollars-in-exposure-to-derivatives."><span style="text-decoration: underline">http://theeconomiccollapseblog.com/archives/5-u-s-banks-each-have-more-than-40-trillion-dollars-in-exposure-to-derivatives.</span></a></p>
+<p style="margin: 0px 0px 12.8px; font-size: 10px;">Są to kwoty przewyższające wielokrotnie aktywa bankowe i przy lada turbulencji gopodarczej cały ten domek z zakładów hazardowych może się w jednej chwili zawalić. Ostrzegają o tym za Atlantykiem, ale u nas tych głosów jakoś nie słychać: <a href="http://theeconomiccollapseblog.com/archives/5-u-s-banks-each-have-more-than-40-trillion-dollars-in-exposure-to-derivatives.">http://theeconomiccollapseblog.com/archives/5-u-s-banks-each-have-more-than-40-trillion-dollars-in-exposure-to-derivatives.</a></p>
 <p style="margin: 0px 0px 12.8px; font-size: 10px; min-height: 11px;"><br></p>
 <p style="margin: 0px 0px 12.8px 56.7px; font-size: 10px;">Citibank</p>
 <p style="margin: 0px 0px 12.8px 56.7px; font-size: 10px;">Total Assets: $1,894,736,000,000 (almost 1.9 trillion dollars)</p>
@@ -39,4 +39,4 @@ layout: default
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Konta obywatelskie prowadzone przez bank municypalny w walucie lokalnej mogłyby także stać się pierwszym etapem wdrożenia gwarantowanego dochodu podstawowego dla wszystkich obywateli, a także poligonem doświadczalnym dla radykalnego uproszczenia systemu podatkowego i jego pełnej automatyzacji.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">W kontekście walut lokalnych warte zaznaczenia jest także to, że pobudzałyby one lokalną drobną produkcję oraz handel, tworząc dodatkową siłę nabywczą na rynku, a nie wypływały z kraju w postaci zysków zagranicznych korporacji.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;"><br></p>
-<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Krzysztof Lewandowski</p></div>
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Krzysztof Lewandowski</p>
