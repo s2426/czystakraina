@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.Ma1.jpg"align=left width="200"><!--120-->
+<img src="{{site.baseurl}}\articles\pictures\465.Ma1.jpg" align=left width="200"><!--120-->
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">29.06.2012</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Państwo coraz bardziej wikła się we własnych niedorzecznościach systemowych i stoi - podobnie jak system globalny - u progu przełomowych zmian. Nie może to być drobny retusz, mający konserwować status quo epoki przemysłowej. Zmiany muszą być zasadnicze albo nie będzie żadnych zmian, prócz pozornych. Lecz tkwiąc w strumieniu pozorności będziemy wiedzeni ku kolejnej klęsce mądrości, ku rosnącej desperacji społecznej i przemocy policyjnej, a w konsekwencji ku wojnie.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Wojna to powrót do status quo ante, powtórka nieodrobionej lekcji społecznej i kolejne zwycięstwo paradygmatu piramidy, którego bronią elity. Kapitalizm korporacyjny jest jeszcze bliższy temu modelowi piramidy, niż był nim scentralizowany socjalizm.</p>

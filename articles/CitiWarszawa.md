@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.citiwarszawa.jpg"align=left width="200"><!--214--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
+<img src="{{site.baseurl}}\articles\pictures\465.citiwarszawa.jpg" align=left width="200"><!--214--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 23.10.2014</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Warszawa trzyma swoje depozyty w banku Citi Handlowym, którego głównym akcjonariuszem jest amerykański Citibank, należący do grupy 5 największych banków amerykańskich, które w swoich portfelach posiadają instrumenty pochodne o wartości co najmniej 40 bilionów (sic!) dolarów (am. trillion) każdy. Jest to suma trudna do wyobrażenia, porównywalna z globalnym PKB, wynoszącym 60 bilionów dolarów.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Generalnie, co najmniej na taką sumę każdy z pięciu amerykańskich banków wykupił żetony w globalnym kasynie, jakim bez wątpienia stał się światowy system bankowy oparty na instrumentach pochodnych, będących zakładami o przyszłość (jak w totalizatorze).</p>

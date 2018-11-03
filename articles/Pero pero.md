@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.pend.jpg"align=left width="200"><!--213--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
+<img src="{{site.baseurl}}\articles\pictures\465.pend.jpg" align=left width="200"><!--213--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 21.06.2014<br><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">"Taśmy" z pewnością doprowadziły do spadku autorytetu władz naszego kraju, ale ich bilans ma też swoją drugą stronę, atrakcyjną dla nas wszystkich - obywateli.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Po pierwsze mogliśmy się w szczegółach dowiedzieć, jak wyglądają procedury naszego państwa dotyczące tajemnicy dziennikarskiej. To wielka edukacja dla całego narodu widzów. Z przebiegu wypadków okazuje się bowiem, że nie znali ich także najbardziej nimi teoretycznie zainteresowani, czyli dziennikarze i prokuratorzy. Ci drudzy bezprawnie zarządzili kopiowanie na ich nośniki materiału dowodowego mogącego zawierać tajemnicę dziennikarską, ci pierwsi całkiem wydawali się być nieświadomi procedur, nie sądzę bowiem, aby redaktor naczelny "Wprost" nosił w swoim laptopie nazwisko informatora, od którego otrzymał nagrania, do czego się jednak publicznie przyznawał.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Kolejną korzyścią dla obywatela było poznanie zakulisowych rozmów dotyczących bezpieczeństwa finansowego naszego kraju w kontekście jego niebezpieczeństwa, wynikającego ze zbyt ciasnego gorsetu, w jaki ubrały naszą rzeczywistość prawdziwe centra władzy, czyli międzynarodowi bankierzy.</p>

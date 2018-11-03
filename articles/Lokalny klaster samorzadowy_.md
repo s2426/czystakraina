@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.planzmian1.jpg"align=left width="200"><!--223--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
+<img src="{{site.baseurl}}\articles\pictures\465.planzmian1.jpg" align=left width="200"><!--223--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 1.07.2015<br>Pod tytułem "Plan zmian" będę publikował propozycje programowe dla partii politycznych, które chciałyby rzeczywiście, a nie tylko propagandowo, sprostać wyzwaniom współczesnego świata, pełnego sprzeczności i nawarstwiających się problemów, wynikających z grzęźnięcia umysłów w starym paradygmacie, który należy gruntownie przemodelować.<br>Zacznę od dołu, od poziomu podstawowego, czyli samorządów. Na tym właśnie poziomie - gmin, powiatów i grup powiatów, czyli regionów - powinno się koncentrować większość reform państwa sieciowego, ku któremu zdąża nasza cywilizacja. Na poziomie lokalnym realizuje się konstytucyjna zasada pomocniczości - kierowania władzy najniżej, gdzie się da.<br>Oto program stworzenia podstawowych narzędzi władzy samorządowej:<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;"><br></p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;"><b>Lokalny Klaster Samorządowy</b></p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Lokalny Klaster Samorządowy to zestaw działań oraz instytucji, mających za zadanie przywrócić realną samorządność władzom lokalnym w obszarach finansowym oraz gospodarczym.</p>

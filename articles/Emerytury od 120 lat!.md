@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.emerytury.jpg"align=left width="200"><!--101--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
+<img src="{{site.baseurl}}\articles\pictures\465.emerytury.jpg" align=left width="200"><!--101--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 16.02.2012<br>
 <br>
 Tendencja z wiekiem emerytalnym wydaje się wyraźna - Polska na razie
