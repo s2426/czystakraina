@@ -2,4 +2,4 @@
 layout: default
 ---
 <!--28-->
-11.03.2010</p><p>http://www.dailymotion.pl/video/x5odhh_pop-corn-téléphone-portable-micro-o_news</p><p></p>
+11.03.2010</p><p>http://www.dailymotion.pl/video/x5odhh_pop-corn-téléphone-portable-micro-o_news</p>

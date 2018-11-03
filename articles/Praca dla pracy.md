@@ -64,4 +64,4 @@ system finansowy, kosztowy i księgowy.</p>
 <p>Model ten należy zmienić, zaczynając
 od podstaw, które leżą w naszej świadomości. Powinniśmy
 wreszcie zrozumieć, że co najmniej jedna trzecia produkcji należy
-się nam bez pracy, a w przyszłości jeszcze więcej.</p><p></p><p>Krzysztof Lewandowski, 22.09.2009</p><p></p>
+się nam bez pracy, a w przyszłości jeszcze więcej.</p><p>Krzysztof Lewandowski, 22.09.2009</p>

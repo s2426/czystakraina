@@ -2,7 +2,7 @@
 layout: default
 ---
 <p><img src="{{site.baseurl}}\articles\pictures\465.zloty.jpg" align="left" style="margin: 10px 10px" width="200"><!--211-->
-<p></p><p>3.01.2014</p><p>Pieniądz jako dobro wspólne i antypieniądz jako wspólna dokuczliwość.</p>
+<p>3.01.2014</p><p>Pieniądz jako dobro wspólne i antypieniądz jako wspólna dokuczliwość.</p>
 <p>Taką medytację proponuję na czas dalszego kumulowania się sprzeczności między zbiorową mądrością narodów i zbiorową indywidualizacją elit. System trzeszczy w posadach i zastrzyki wzmacniające betonu pieniężnego, jakie zaaplikowano konstrukcji bankowo-finansowej w latach kryzysu, nie pomogą na długo.</p>
 <p>Owszem, elity wzmocniły w ten sposób mury finansowe, jakimi się otoczyły. Lecz napór na nie zwiększa się w tempie wykładniczym, obrazującym rosnące dysproporcje dochodów. Obłowiły się w kryzysie zwłaszcza światowe giganty bankowe, które dostały najwięcej, ale lawa ubożejących narodów wrze coraz mocniej i w obliczu internetu nie da się długo trzymać ludzi w ciemnocie propagandowej związanej z tematem własności pieniądza.</p>
 <p>W polskiej Konstytucji zapisane jest, że pieniądz tworzy NBP, ale faktem bezspornym jest, że nie sposób odróżnić dziś pieniądza NBP od kredytu bankowego, będącego antypieniądzem, tworzonego przez banki prywatne.</p>
@@ -13,4 +13,4 @@ layout: default
 <p>Do kogo należy ten niespłacony dług?</p>
 <p>Jeśli do nas wszystkich, co wynika z Konstytucji, to dla stabilizacji naszej waluty wydrukujmy sobie (via NBP) bony skarbowe o tej wartości, i rozdajmy nam wszystkim, każdemu po równo, abyśmy byli w stanie wydać je na oddłużenie indywidualne, firm i państwa. W ten sposób zlikwidujemy z naszego rynku antypieniądz i przestaniemy prywatnym bankom płacić haracz odsetkowy od 3,000 mld zł kredytu znajdującego się w obiegu.</p>
 <p>Waluta narodowa to dobro wspólne! Gwarantujemy ten nasz wspólny, narodowy pieniądz autorytetem naszych więzi międzyludzkich, opartych na kulturze edukacji, pracy, odpoczynku, będących własnością nas wszystkich.</p>
-<p>Zastępując antypieniądz pieniądzem narodowym, przy średnich odsetkach w wysokości 4 procent, wygospodarujemy na podtrzymywanie tych więzi 120 mld zł rocznie. Dodatkową korzyścią byłaby stabilizacja ilościowa naszej waluty, która znacznie ułatwiłaby automatyzację systemu podatkowego.</p></p><p><p></p>
+<p>Zastępując antypieniądz pieniądzem narodowym, przy średnich odsetkach w wysokości 4 procent, wygospodarujemy na podtrzymywanie tych więzi 120 mld zł rocznie. Dodatkową korzyścią byłaby stabilizacja ilościowa naszej waluty, która znacznie ułatwiłaby automatyzację systemu podatkowego.</p></p><p>

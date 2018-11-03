@@ -37,7 +37,7 @@ layout: default
 <p>W Polsce szczebel samorządowy obejmuje starostwa, gminy, spółdzielnie, stowarzyszenia oraz formy współpracy oraz wymiany, wynikające z lokalnych zwyczajów. W preambule naszej konstytucji widnieje <i>zasada pomocniczości</i>, wyraźny zapis, przekazujący intencję, aby władza była sprawowana możliwie na jak najniższym szczeblu, czyli właśnie na szczeblu samorządowym.</p>
 <p>... ustanawiamy Konstytucję Rzeczypospolitej Polskiej jako prawa podstawowe dla państwa oparte na poszanowaniu wolności i sprawiedliwości, współdziałaniu władz, dialogu społecznym oraz na <b>zasadzie pomocniczości</b> umacniającej uprawnienia obywateli i ich wspólnot.</p>
 <p>Preambuła Konstytucji RP</p>
-<p><b></b></p><p></p>
+<p><b></b></p>
 <p><b>Zasada pomocniczości</b> (subsydiarności, subsydiarność, z łac. subsidium 'pomoc, wsparcie, siły rezerwowe') – zasada mówiąca o tym, że każdy szczebel władzy powinien realizować tylko te zadania, które nie mogą być skutecznie zrealizowane przez szczebel niższy lub same jednostki działające w ramach społeczeństwa.</p>
 <p>Wikipedia</p>
 <p>W jakim zakresie zasada pomocniczości dotyczy sprawowania samorządnej władzy gospodarczej na szczeblu najniższym? Na ile władza lokalna jest suwerenna w kształtowaniu własnego środowiska monetarno-fiskalnego dla działalności, nie będącej konkurencyjną na rynku otwartym dla globalnego, uprzywilejowanego kapitału?</p>

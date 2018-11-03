@@ -10,11 +10,11 @@ wspieranie koncernów w ich walce o wyeliminowanie z życia wszystkiego,
 co naturalne i bezpłatne, i zastąpienia ekologicznego rolnictwa,
 zdrowej żywności oraz lekarstw naturalnych produktami przemysłowymi
 serwowanymi przez wielonarodowe korporacje chemiczne, farmaceutyczne i
-żywnościowe. </p><p></p><p>Codex będzie znacząco rozszerzał swoją agendę
+żywnościowe. </p><p>Codex będzie znacząco rozszerzał swoją agendę
 począwszy od 2010 roku, kiedy to wdrożone zostaną jego zalecenia
 dotyczące redukcji podmiotów uprawnionych do dostarczania na rynek
 suplementów, ziół oraz paraleków, czyli produktów wytwarzanych obecnie
-w niewielkich zakładach czy instytutach, poza systemem koncernów. </p><p></p><p>Codex
+w niewielkich zakładach czy instytutach, poza systemem koncernów. </p><p>Codex
 zaleca od 2010 roku obligatoryjne stosowanie chemicznych środków
 ochrony roślin oraz szczepienie zwierząt hodowlanych, popiera także GMO
 oraz faszerowanie zwierząt hormonami wzrostu. Prowadzi to do
