@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.mrowka.jpg" align=left width="200"><!--12-->
+<img src="{{site.baseurl}}\articles\pictures\465.mrowka.jpg"  align="left" width="200"><!--12-->
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Wariactwo współczesnego świata
 polega na tym, że dziś jedynie technologie korzystają z
 gwałtownego rozwoju nauki, na którą przeznaczane są olbrzymie

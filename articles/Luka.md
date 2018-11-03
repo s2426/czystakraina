@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.Ma2.jpg" align=left width="200"><!--117-->
+<img src="{{site.baseurl}}\articles\pictures\465.Ma2.jpg"  align="left" width="200"><!--117-->
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">29 czerwca 2012</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Współczesne czasy, poprzedzone wdrożeniem na powszechną skalę komputerów, przenośnych telefonów i internetu, różnią się zasadniczo od czasów je poprzedzających, w których zbieranie i przetwarzanie informacji wiązało się z olbrzymimi kosztami.</p>
 <p>Dziś informacje w coraz większym stopniu zbierają się same, albo mogłyby się zbierać same, gdybyśmy temu procesowi nie stawiali wielu barier.<br></p>

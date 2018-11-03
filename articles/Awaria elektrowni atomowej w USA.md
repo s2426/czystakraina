@@ -1,5 +1,5 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.calhoun.jpg" align=left width="200"><!--77--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
+<img src="{{site.baseurl}}\articles\pictures\465.calhoun.jpg"  align="left" width="200"><!--77--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 16.06.2011<br>W Fort Calhoun w Nebrasce awaria 4 stopnia. Zawiódł system chłodzenia zużytych prętów paliwowych, co po wyparowaniu wody i ich odsłonięciu grozi emisją radioaktywnego plutonu i uranu do atmosfery. W promieniu dwóch mil wokół zakładu wstrzymano wszelkie loty.<br>Awaria jest wynikiem powodzi, jaka nawiedziła rejon rzeki Missouri.<br><a href="http://www.businessinsider.com/faa-closes-airspace-over-flooded-nebraska-nuclear-power-plant-2011-6" title="Nebraska Power Plant" target="">http://www.businessinsider.com/faa-closes-airspace-over-flooded-nebraska-nuclear-power-plant-2011-6</a><br><br>(Lee)<br><br><br></p>

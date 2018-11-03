@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.bis.jpg" align=left width="200"><!--217-->
+<img src="{{site.baseurl}}\articles\pictures\465.bis.jpg"  align="left" width="200"><!--217-->
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">15.12.2014</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Cztery dni temu zostało uchwalone w izbie Reprezentantów USA uchylenie ustawy Dodd-Franka. Spodziewane jest uchwalenie tego uchylenia przez Senat w ciągu najbliższych kilku dni. O co chodzi? Otóż o wielką publiczną kasę liczoną w dziesiątkach bilionów dolarów, czyli o kwoty kilkakrotnie wyższe od całego długu narodowego USA, który sięga 18 bilionów dolarów.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Ten odległy od naszych granic przepis stwarza niezwykłe zagrożenie także dla nas, Polaków. Oto amerykańskie megabanki uzyskują możliwość sprzedawania instrumentów pochodnych za pośrednictwem banków zależnych, które mają wkłady depozytowe ubezpieczone w FDIC. Te ubezpieczenia są dramatycznie niskie w stosunku do wartości kontraktów na instrumenty pochodne. Konkretnie na każdego dolara funduszu ubezpieczeń przypada ponad tysiąc dolarów instrumentów pochodnych.</p>

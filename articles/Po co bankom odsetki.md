@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.kasa.jpg" align=left width="200"><!--46-->
+<img src="{{site.baseurl}}\articles\pictures\465.kasa.jpg"  align="left" width="200"><!--46-->
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">11.09.2010<br><br>Dodatnie
 salda właścicieli kont bankowych reprezentują ich pracę włożoną
 w przeszłości w wykonanie pewnych usług bądź rzeczy. Są więc
