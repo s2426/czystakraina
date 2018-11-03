@@ -65,7 +65,7 @@ miesięcznie, jaką płaci obecnie w postaci odsetek od kredytów
 zaciągniętych przez rząd, firmy i obywateli. Kwota 1420 zł
 przypadająca na czteroosobową rodzinę to kontrybucja wszystkich na
 rzecz bogatszej części społeczeństwa, tej, która ma dodatnie
-salda, liczącej ok. 20% obywateli.</p><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">W kategoriach czyjegoś przychodu, statystycznie cztery biedne rodziny składają się na przychód piątej z nich, bogatszej, w kwocie 5680 zł miesięcznie.&nbsp;<br><br>Kontrybucja
+salda, liczącej ok. 20% obywateli.</p><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">W kategoriach czyjegoś przychodu, statystycznie cztery biedne rodziny składają się na przychód piątej z nich, bogatszej, w kwocie 5680 zł miesięcznie.<br><br>Kontrybucja
 ta jest całkowicie bezzasadna i wynika wyłącznie z zasad
 arbitralnie stanowionego prawa bankowego. Gdy się jej pozbędziemy,
 zmieniając obowiązujące prawo bankowe i zakazując korumpowania

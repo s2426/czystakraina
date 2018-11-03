@@ -21,7 +21,7 @@ ochrony roślin oraz szczepienie zwierząt hodowlanych, popiera także GMO
 oraz faszerowanie zwierząt hormonami wzrostu. Prowadzi to do
 wyeliminowania z rynku drobnych producentów ziół, mikroelementów oraz
 zdrowej żywności, którzy nie godzą się na stosowanie agresywnych dla
-środowiska&nbsp;technik&nbsp;rolniczych.&nbsp;<br>Skutkiem działania wytycznych
+środowiskatechnikrolniczych.<br>Skutkiem działania wytycznych
 Codex będą też dalsze podwyżki cen leków, których produkcja stanie sie
 całkowicie scentralizowana w rękach ponaddnarodowych gigantów
 farmaceutycznych.</p>

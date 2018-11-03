@@ -152,7 +152,7 @@ posiadających wciąż zdolność kredytową, tracą zaś majątek właściciele
 upadających firm i ich kierownicy - zaliczani do klasy średniej.<br><br>Jak
 się oblicza, średnie oszczędności obywateli kształtują się na poziomie
 20% PKB. Oznacza to, że oszczędności społeczeństwa wystarczają średnio
-na 2-3&nbsp; miesiące konsumpcji bez pracy. Po wyczerpaniu tego bufora można
+na 2-3 miesiące konsumpcji bez pracy. Po wyczerpaniu tego bufora można
 oczekiwać dalszego spadku popytu i pogłębiania się systemowego deficytu
 siły nabywczej. Oznacza to dla sektora produkcyjnego dalsze redukowanie
 produkcji oraz personelu i kontynuację spiralnego lotu dziobem w dół.<br><br>W
