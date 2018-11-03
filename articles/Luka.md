@@ -2,8 +2,8 @@
 layout: default
 ---
 <img src="{{site.baseurl}}\articles\pictures\465.Ma2.jpg"  align="left" width="200"><!--117-->
-<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">29 czerwca 2012</p>
-<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Współczesne czasy, poprzedzone wdrożeniem na powszechną skalę komputerów, przenośnych telefonów i internetu, różnią się zasadniczo od czasów je poprzedzających, w których zbieranie i przetwarzanie informacji wiązało się z olbrzymimi kosztami.</p>
+<p>29 czerwca 2012</p>
+<p>Współczesne czasy, poprzedzone wdrożeniem na powszechną skalę komputerów, przenośnych telefonów i internetu, różnią się zasadniczo od czasów je poprzedzających, w których zbieranie i przetwarzanie informacji wiązało się z olbrzymimi kosztami.</p>
 <p>Dziś informacje w coraz większym stopniu zbierają się same, albo mogłyby się zbierać same, gdybyśmy temu procesowi nie stawiali wielu barier.<br></p>
 <p>Ekonomia to nic innego, jak redukcjonistyczna wiedza o zachodzących procesach energetycznych pomiędzy podmiotami indywidualnymi oraz zbiorowymi. Redukcjonistyczna czyli uproszczona, kanciasta w porównaniu do płynnych procesów, jakie zachodzą w prawdziwych relacjach wymiany.<br></p>
 <p>Stopień kanciastości teorii, czyli niedopasowania wiedzy (okularu) do rzeczywistości, decyduje o jej jakości. Jeśli teoria uznawana przez większość staje się bardzo kanciasta na skutek tego, że rzeczywistość uległa przemianie, wówczas wpływ samej teorii na rzeczywistość niepokojąco rośnie, wypaczając naturalne procesy rozwoju i doprowadzając do napięć.<br></p>
@@ -17,9 +17,9 @@ layout: default
 <p>Suma wszystkich przychodów ludności w Polsce wynosi 930 mld złotych, przy sprzedaży towarów i usług na poziomie 1500 mld złotych. Różnica między tymi wartościami stanowi lukę popytową, sięgającą 600 mld złotych rocznie.<br></p>
 <p>Luka popytowa obrazuje naliczane systemowo koszty amortyzacji istniejącego majątku produkcyjnego, które są wliczane w ceny towarów, ale których nie wypłaca się pracownikom ani przedsiębiorcom, więc nie przekładają się one na siłę zakupów.<br></p>
 <p>W miejsce tej luki można bez powodowania inflacji wprowadzać świeży kredyt bankowy i o to chyba chodzi bankom, aby tak było nadal, gdyż jest to dla nich niezwykle dogodna sytuacja. W jej obliczu korzystanie z bankowych pożyczek staje się dla gospodarki systemową koniecznością, gdyż w przeciwnym razie po-nad 1/3 gospodarki musiałaby rocznie upadać.<br></p>
-<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Na zakończenie tej refleksji podam jeszcze - za Wikipedią - wzór na obliczanie PKB:</p>
-<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;"><b>PKB=dochodyzpracy+dochodyzkapitału</b></p>
-<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;"><b>+dochodypaństwa+amortyzacja.</b></p>
+<p>Na zakończenie tej refleksji podam jeszcze - za Wikipedią - wzór na obliczanie PKB:</p>
+<p><b>PKB=dochodyzpracy+dochodyzkapitału</b></p>
+<p><b>+dochodypaństwa+amortyzacja.</b></p>
 <p class="p3">Jak widać z tego równania, amortyzacja odpowiada za rosnącą wraz z uprzemysłowieniem lukę popytową i wynikającą z niej konieczność zadłużania się państw, firm i gospodarstw. Amortyzacja, będąca w istocie księgową sztuczką (zafałszowaniem realnego przebiegu finansowania), sprawia, że dywidenda dla inwestorów wypłacana jest szybciej, niż by to wynikało z rachunku realnych wpływów i wydatków z tytułu prowadzenia działalności gospodarczej.</p>
 <p>butiveAmortyzacja w rachunku księgowym powoduje systemowy błąd w całej gospodarce i nieadekwatność cen i popytu (popyt nie nadąża za cenami), przez co im kraj bogatszy, i im posiada większy majątek do amortyzowania, tym musi się bardziej zadłużać, co widać na przykładzie najbardziej nowoczesnych gospodarek, których stan zadłużenia w stosunku do PKB (GDP) przedstawia powyższy wykres.<br></p>
 <p>Dlaczego jednak na sztuczkach księgowych mają korzystać nieliczni inwestorzy (przedsiębiorcy), wypłacający sobie przedwczesne dywidendy, a nie wszyscy obywatele? To pytanie stawia obecnie przed całym światem Ruch Oburzonych.<br></p>

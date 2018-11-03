@@ -2,5 +2,5 @@
 layout: default
 ---
 
-<!--0--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
+<!--0--><p>
 30.01.2011<br>Wydaje się, że obrońcy tradycyjnego rolnictwa będą musieli usunąć się z pola pod naporem GMO-nawałnicy wywołanej przez monopol nasinniczo-chemiczny Monsanto, który pod kryptonimem GMO wciska do gleby najniebezpieczniejszą dla niej trucizną, jaką jest nawóz Round-up.<br>Oto bowiem koncern Monsanto wprowadził swoich lobbystów do trzech największych amerykańskich sieci dystrybuujących żywność organiczną i ustami szefów tych organizacji oznajmił, że zgadzają się oni na uprawy GMO i brak konieczności znaczenia produktów spożywczych na zawartość GMO.<br>http://www.organicconsumers.org/articles/article_22449.cfm<br><br>GMO to intensywana chemia dla rolnictwa oraz monopol nasienniczy w rękach koncernu Monsanto. W praktyce GMO oznacza całkowitą utratę suwerenności rolniczej w tych krajach, które zdecydowały się iść tą drogą. Odtąd jedynym stosowanym nawozem staje się nawóz koncernu Monsanto i tenże sam koncernstaje się jedynym dystrybutorem nasion siewnych, odpornych na bardzo inwazyjny dla gleby nawóz. I o to chodzi. O monopol nawozowo-nasienny amerykańskiego koncernu Monsanto, bez liczenia strat, jakie to wywołuje w przyrodzie i w socjosferze.</p>
