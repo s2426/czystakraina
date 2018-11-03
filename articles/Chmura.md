@@ -2,7 +2,7 @@
 layout: default
 ---
 <img src="{{site.baseurl}}\articles\pictures\465.amoksloncokwiatmaly.jpg" align="left" HSPACE=”50” VSPACE=”50” width="200"><!--123--><p>
-30.12.2012<br>
+30.12.2012</p><p>
 <p>Czarna chmura wisi nad gospodarkami świata, chmura długów, która ciągnie ekonomie w dół. Odsetki od nich sprawiają, że bogactwo przepływa od osób żyjących ze swojej pracy do osób żyjących z posiadanych nadwyżek kapitałowych. Co ciekawe, drenaż ten nie odbywa się wyłącznie pomiędzy krajami bogatymi i biedniejszymi, ale dotyczy pionowych przepływów wewnątrz wszystkich państw, gdziebogatsi obywatele drenują biedniejszych.</p>
 <p>W bogatych krajach drenaż finansowy jest więc woluminowo nawet większy, niż w biedniejszych, gdyż jest kogo i z czego drenować. W efekcie osoby drenowane, poprzez spłatę odsetek, rezygnują z konsumpcji, a z kolei drenujący, do których płyną strumienie odsetek, nie zwiększają swojej konsumpcji, bo mają ją i tak bardzo wysoką, a jej limitem jest czas, który wszelka konsumpcja pochłania. Gasnący z tej przyczyny popyt to główny hamulec gospodarczy i w ten oto sposób rozwija się spiralna tendencja depresyjna.</p>
 <p>Oczywiście, można jej przeciwdziałać, pompując na rynek strumienie świeżo kreowanego przez banki pieniądza kredytowego, czyli zwiększając zadłużenie różnych podmiotów. Problem jednak w tym, że wiarygodnych kredytobiorców ubywa, więc coraz bardziej nie ma komu dać pieniędzy bez ryzyka, że nie będzie płacił odsetek.</p>
@@ -28,4 +28,4 @@ layout: default
 <p>Biała chmura jest negatywem chmury czarnej, przynoszącej pioruny i deszcz. Jest reakcją na nią. Im bardziej będzie pikować gospodarka światowa, wkręcona w śmiertelną spiralę zadłużenia i w imperatyw mnożenia kredytu, który musi zapełniać poszerzającą się wraz z postępem lukę popytową, tym gęściej będą się pojawiać ogniska lokalnej ekonomii, korzystające z białych chmur internetowych, umożliwiających samoorganizację gospodarczą na szczeblu lokalnym.</p>
 <p>Programy komputerowe dla lokalnych społeczności, zainstalowane w chmurach internetowych, to recepta na recesję i wyciek pieniędzy w stronę bogaczy. Póki czarne chmury strzelają piorunami, to najlepsze, na co stać lokalną, oświeconą społeczność. W naszym klimacie chmura zapewni proste i zdrowe jedzenie, podstawowe usługi, a w zdywersyfikowanych energetycznie miejscach także energię elektryczną.</p>
 <p>Korzystając z programów w chmurach internetowych można będzie przetrwać czas trudnej agonii systemu nieokiełznanych finansów. Jednak dopiero wynagrodzenie podstawowe rozgoni na dobre czarne chmury wiszące nad ziemią.</p>
-<p>Krzysztof Lewandowski</p><br><br><br><br></p>
+<p>Krzysztof Lewandowski</p></p><p></p><p></p><p></p><p></p>

@@ -2,4 +2,4 @@
 layout: default
 ---
 <img src="{{site.baseurl}}\articles\pictures\465.Adair_Turner.jpg" align="left" HSPACE=”50” VSPACE=”50” width="200"><!--126-->
-<p>Sensacyjna dla establishmentu bankowego wypowiedz szefa brytyjskiego Financial Services Authority na temat recepty na recesję - dawać pieniądze nie bankierom w ramach Quantitative Easing, ale obywatelom w ramach dochodu podstawowego. Czytaj:<a href="http://blogs.reuters.com/anatole-kaletsky/2013/02/07/a-breakthrough-speech-on-monetary-policy/" title="Adair Turner " target="">http://blogs.reuters.com/anatole-kaletsky/2013/02/07/a-breakthrough-speech-on-monetary-policy/</a><br></p>
+<p>Sensacyjna dla establishmentu bankowego wypowiedz szefa brytyjskiego Financial Services Authority na temat recepty na recesję - dawać pieniądze nie bankierom w ramach Quantitative Easing, ale obywatelom w ramach dochodu podstawowego. Czytaj:<a href="http://blogs.reuters.com/anatole-kaletsky/2013/02/07/a-breakthrough-speech-on-monetary-policy/" title="Adair Turner " target="">http://blogs.reuters.com/anatole-kaletsky/2013/02/07/a-breakthrough-speech-on-monetary-policy/</a></p><p></p>

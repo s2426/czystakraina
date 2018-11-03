@@ -2,10 +2,10 @@
 layout: default
 ---
 <img src="{{site.baseurl}}\articles\pictures\465.planzmian1.jpg" align="left" HSPACE=”50” VSPACE=”50” width="200"><!--0--><p>
-1.07.2015<br>Pod tytułem "Plan zmian" będę publikował propozycje programowe dla partii politycznych, które chciałyby rzeczywiście, a nie tylko propagandowo, sprostać wyzwaniom współczesnego świata, pełnego sprzeczności i nawarstwiających się problemów, wynikających z grzęźnięcia umysłów w starym paradygmacie, który należy gruntownie przemodelować.<br>Zacznę od dołu, od poziomu podstawowego, czyli samorządów. Na tym właśnie poziomie - gmin, powiatów i grup powiatów, czyli regionów - powinno się koncentrować większość reform państwa sieciowego, ku któremu zdąża nasza cywilizacja. Na poziomie lokalnym realizuje się konstytucyjna zasada pomocniczości - kierowania władzy najniżej, gdzie się da.<br>Oto program stworzenia podstawowych narzędzi władzy samorządowej:<p><br></p>
+1.07.2015</p><p>Pod tytułem "Plan zmian" będę publikował propozycje programowe dla partii politycznych, które chciałyby rzeczywiście, a nie tylko propagandowo, sprostać wyzwaniom współczesnego świata, pełnego sprzeczności i nawarstwiających się problemów, wynikających z grzęźnięcia umysłów w starym paradygmacie, który należy gruntownie przemodelować.</p><p>Zacznę od dołu, od poziomu podstawowego, czyli samorządów. Na tym właśnie poziomie - gmin, powiatów i grup powiatów, czyli regionów - powinno się koncentrować większość reform państwa sieciowego, ku któremu zdąża nasza cywilizacja. Na poziomie lokalnym realizuje się konstytucyjna zasada pomocniczości - kierowania władzy najniżej, gdzie się da.</p><p>Oto program stworzenia podstawowych narzędzi władzy samorządowej:<p></p><p></p>
 <p><b>Lokalny Klaster Samorządowy</b></p>
 <p>Lokalny Klaster Samorządowy to zestaw działań oraz instytucji, mających za zadanie przywrócić realną samorządność władzom lokalnym w obszarach finansowym oraz gospodarczym.</p>
-<p><br></p>
+<p></p><p></p>
 <p>Klaster powinien swoim zasięgiem objąć z początku obszar jednego lub kilku powiatów, a w przyszłości regionu, obejmującego obszar jednego lub kilku województw, z oddziałami w każdym powiecie.</p>
 <p>Podstawą klastra i przywrócenia samorządności jest:</p>
 <p>a) bank komunalny,</p>
