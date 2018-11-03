@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.gmo.jpg" align="left" style="margin: 10px 10px" width="200"><!--17--><p>
+<p><img src="{{site.baseurl}}\articles\pictures\465.gmo.jpg" align="left" style="margin: 10px 10px" width="200"><!--17-->
 Podczas Dożynek w Spale Minister Rolnictwa i Rozwoju Wsi Marek Sawicki
 poinformował rolników- członków Koalicji Polska Wolna od GMO, że
 zasiewy kukurydzy MON 810 są w świetle obowiązującego w Polsce prawa

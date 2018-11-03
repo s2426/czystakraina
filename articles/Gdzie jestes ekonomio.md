@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.dzisijutro.jpg" align="left" style="margin: 10px 10px" width="200"><!--1-->
+<p><img src="{{site.baseurl}}\articles\pictures\465.dzisijutro.jpg" align="left" style="margin: 10px 10px" width="200"><!--1-->
 <p>14.06.2016</p>
 <p>W artykule naukowym "Stracone sto lat w ekonomii", który ukazał się w 2015 roku, profesor Uniwersytetu Southampton Richard A. Werner ukazuje mity, w jakie wciąż wierzy znakomita większość profesorów ekonomii kształconych po to, aby tłumaczyć nam, społeczeństwu, jak działa gospodarka i finanse.</p><p></p>
 <p>Okazuje się, że w ciągu ostatnich stu lat nauka akademicka z zakresu podstaw ekonomii, opisująca proces kreacji pieniądza, nie posunęła się do przodu ani o krok, a przeciwnie, zaciemniła dość klarowny obraz tego procesu, jaki dominował na początku XX wieku.</p>

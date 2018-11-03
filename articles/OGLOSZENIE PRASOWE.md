@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}\articles\pictures\465.oglos.jpg" align="left" style="margin: 10px 10px" width="200"><!--0-->
+<p><img src="{{site.baseurl}}\articles\pictures\465.oglos.jpg" align="left" style="margin: 10px 10px" width="200"><!--0-->
 <p>OGŁOSZENIE INTERNETOWE</p>
 <p>z dnia 27 marca 2017 r</p>
 <p>Oferuję do nabycia nieruchomość rolną w obrębie Ponurzyca, gmina Celestynów, powiat Otwock, województwo mazowieckie, oznaczoną w ewidencji gruntów jako działka nr 1648 o powierzchni 0,4303 ha, dla której Sąd Rejonowy w Otwocku Wydział Ksiąg Wieczystych prowadzi księgę hipoteczną KW Nr WA1O/00052990/1.</p>

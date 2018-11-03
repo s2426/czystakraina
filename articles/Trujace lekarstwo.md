@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<!--1--><p>
+<!--1-->
 Światowe perturbacje finansowo-gospodarcze, których skutki zaczynamy
 odczuwać w domu, pracy i sklepie, mają swoje systemowe przyczyny.
 Przyczyny te działają niezależnie od tego, ile kolejnych setek
