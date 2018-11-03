@@ -1,14 +1,12 @@
 ---
 layout: default
 ---
-
 <!--235-->
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">31.05.2017</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">To tylko kilka zagadnień, ale jakże ważnych dla naszego dobrobytu...</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Najważniejsza jest oczywiście reforma banków, które w perspektywie nadchodzących lat muszą zostać systemowo zreformowane, aby świat nie pogrążył się w chaosie.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Nie mniej ważna jest edukacja, a w istocie jej rosnące koszty, powodujące zadłużanie się obywateli. W krajach bogatszych zadłużenie absolwentów szkół stanowi już wielki problem społeczny, do którego nie możemy dopuścić.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">W Polsce ważna strategicznie jest też kwestia zachowania jakości gleby oraz bioróżnorodności, a także rozdrobnionej struktury agrarnej, która może zapewnić wysoką jakość żywności produkowanej ekstensywnie w drobnotowarowych gospodarstwach z wysoką kulturą upraw organicznych.</p>
-
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">BANKI I PIENIĄDZE</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Bez pieniądza publicznego nie będziemy mieć zdrowia publicznego, a procesy rozwarstwienia, prekariatyzacji i wzrostu napięć społecznych będą postępować.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;"><b>Bankowość centralna</b></p>
@@ -49,5 +47,4 @@ layout: default
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Polska wolna od GMO! Technologia GMO (glifosat) zatruwa glebę i wodę, zaraża sąsiednie uprawy i uzależnia rolników od zagranicznych dostawców nasion. Jest więc nie tylko trucizną, ale też niebezpiecznym narkotykiem. Zaś proponowane strefy wolne od GMO to wytrych dla koncernów biotechnologicznych. Nie możemy sie na nie godzić!</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Należy także wszelkimi dostępnymi sposobami przeciwstawiać się delegalizowaniu lokalnej dystrybucji i wymiany nasion zebranych przez rolników. Różnorodność odmian nasion i ich źródeł to warunek bioróżnorodności, będącej warunkiem przetrwania ludzkości.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Krzysztof Lewandowski</p>
-
 

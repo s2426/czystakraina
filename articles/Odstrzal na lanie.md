@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <!--34--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 21.05.2010<br><br>Bronisław Komorowski jest aktywnym myśliwym i w pościgu za chronionymi w Europie gatunkami jest w stanie nawet polować w Rosji. Ma też w domu imponującą kolekcję trofeów myśliwskich.<br><br>Byłoby cenne, gdyby za zjawisko myślistwa w polskim parlamentaryzmie
 wzięli się ostro socjologowie, bo to, że wśród parlamentarzystów

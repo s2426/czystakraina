@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <!--35--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 22.05.2010<br><br>Jeszcze nie tak dawno
 temu byliśmy narodem żyjącym w pokoju, nie atakującym nikogo z żadnego

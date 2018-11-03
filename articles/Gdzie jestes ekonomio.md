@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <!--1-->
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">14.06.2016</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">W artykule naukowym "Stracone sto lat w ekonomii", który ukazał się w 2015 roku, profesor Uniwersytetu Southampton Richard A. Werner ukazuje mity, w jakie wciąż wierzy znakomita większość profesorów ekonomii kształconych po to, aby tłumaczyć nam, społeczeństwu, jak działa gospodarka i finanse.<br></p>
@@ -17,4 +16,5 @@ layout: default
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Tylko dla nielicznych będzie dostępna w niedalekiej przyszłości praca zorganizowana w korporacjach produkcyjnych, transportowych i usługowych. Pozostali będą pracować według własnych potrzeb i miar, gdyż każdy ruch jest pracą.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Lecz pracujący w warunkach gospodarki obfitości nie będą podlegać zwierzchnikom i reżimom ustalanym przez innych. Na tym polega wolność, którą odmieniamy przez wszystkie przypadki. To po to zbiorowym wysiłkiem tworzymy roboty, aby uwalniały nas od roboty i oddawały nam życie do sobodnego decydowania, jak ma się toczyć możliwie harmonijnie.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Działalność artystyczna, wychowawcza, innowacyjna, pielęgnacyjna, sport i rozrywka - także są pracą, ale nie muszą być działalnością komercyjną, o ile jako społeczeństwo znajdziemy receptę na zadłużenie i biedę.</p>
-<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Temu celowi przyświeca organizowana w dniach 17-18 czerwca w Warszawie międzynarodowa konferencja "Dwa filary gospodarki obfitości - pieniądz suwerenny i dochód podstawowy", na którą zaprasza Fundacja Jesteśmy Zmianą. Udział w konferencji jest bezpłatny, a rejestracja zgłoszeń odbywa się poprzez arkusz dostępny pod adresem www.jestesmyzmiana.pl (zakładka "Konferencja"). To niepowtarzalna okazja, aby poczuć, czym jest wolność i mądrość w ekonomii.</p><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Krzysztof Lewandowski</p>
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Temu celowi przyświeca organizowana w dniach 17-18 czerwca w Warszawie międzynarodowa konferencja "Dwa filary gospodarki obfitości - pieniądz suwerenny i dochód podstawowy", na którą zaprasza Fundacja Jesteśmy Zmianą. Udział w konferencji jest bezpłatny, a rejestracja zgłoszeń odbywa się poprzez arkusz dostępny pod adresem www.jestesmyzmiana.pl (zakładka "Konferencja"). To niepowtarzalna okazja, aby poczuć, czym jest wolność i mądrość w ekonomii.</p>
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Krzysztof Lewandowski</p>

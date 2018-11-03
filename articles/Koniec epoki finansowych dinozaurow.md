@@ -1,12 +1,10 @@
 ---
 layout: default
 ---
-
 <!--240--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
-17.04.2018</p><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Krzysztof Lewandowski</p>
-
+17.04.2018</p>
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Krzysztof Lewandowski</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Koniec epoki finansowych dinozaurów</p>
-
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Globalna gospodarka przestała być gospodarką wolnego rynku, kształtowaną przez prawa podaży i popytu w środowisku wolnego przepływu kapitału. Dowodem na to są nie tylko potoczne wrażenia klientów globalnych hipermarketów i globalnych banków, ale też badania i prace naukowe powstałe po roku 2008, kiedy to uwaga świata nauki zwróciła się ku szukaniu odpowiedzi na pytanie, dlaczego ekonomiści nie przewidzieli krachu.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Jako że najtrudniej jest bić się we własne piersi, przełomowego odkrycia błędu w założeniach dokonali za ekonomistów naukowcy z Instytutu Technologicznego w Zurychu, Stefania Vitali, James Glattfelder i Stefano Battison, którzy wrzucili do maszyny liczącej dane 37 milionów firm, z których wyselekcjonowali 43 tysiące globalnych korporacji<sup>1</sup>.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Po zbadaniu stosunków własnościowych okazało się, że korporacje międzynarodowe są kontrolowane przez zaledwie 147 korporacji globalnych, stanowiących główne węzły sieci, z czego 110 to korporacje finansowe. Dalsze badania tematu wykazały, że za sznurki w tych 147 korporacjach ciągnie zaledwie 5 megafunduszy ulokowanych w USA.</p>
@@ -48,10 +46,8 @@ layout: default
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Istnieje też druga, oddolna metoda ograniczania pola żeru finansowym dinozaurom. To emisja lokalnych walut cyfrowych, których obrót – jak pokazuje praktyka w wielu krajach – jest znacznie szybszy, niż obrót złotym polskim. W ten sposób, poprzez klikukrotne zwiększenie rotacji, można kilkakrotnie obniżyć potrzeby zaciągania kredytu w bankach prywatnych.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Pieniądz jest niczym błona komórkowa. Ostatnie dekady spowodowały falsyfikację teorii neoliberalnej, która postulowała rozpuszczenie błon komórkowych państw i regionów w celu stworzenia jednego wielkiego pastwiska, dostępnego dla finansowych diznozaurów, które – jak się okazało – nie potrafią się samoorganiczyć, gdyż jako jednostki prawne nie mają moralności ludzkiej, tylko moralność kodeksów handlowych, z wbudowanym imperatywem wzrostu, więc zadeptują środowisko naturalne i społeczne innych osób fizycznych i innych gatunków.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Koniec epoki finansowych dinozaurów jest bliski. Muszą wyginąć w szybko się zmieniającym środowisku intelektualnym ludzkości, robiąc miejsce dla gatunków lepiej przystosowanych do demokracji.</p>
-
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Krzysztof Lewandowski,</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">kwiecień 2018</p>
-
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Bibliografia:</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;"><sup>1 </sup>Stefania Vitali, James B. Glattfelder, Stefano Battison, <i>The network of global corporate control</i>, Raport Instytutu Technologicznego w Zurychu, PLOS ONE, 6 (10): e25995, 2011.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;"><sup>2</sup> Richard A. Werner, <i>Stracone stulecie w ekonomii: trzy teorie bankowości i niezbity dowód</i>, Fundacja Jesteśmy Zmianą, Warszawa, 2016, s. 62.</p>

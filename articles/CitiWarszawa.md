@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <!--214--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 23.10.2014</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Warszawa trzyma swoje depozyty w banku Citi Handlowym, którego głównym akcjonariuszem jest amerykański Citibank, należący do grupy 5 największych banków amerykańskich, które w swoich portfelach posiadają instrumenty pochodne o wartości co najmniej 40 bilionów (sic!) dolarów (am. trillion) każdy. Jest to suma trudna do wyobrażenia, porównywalna z globalnym PKB, wynoszącym 60 bilionów dolarów.</p>
@@ -12,7 +11,6 @@ layout: default
 <p style="margin: 0px 0px 12.8px 56.7px; font-size: 10px;">Total Assets: $1,894,736,000,000 (almost 1.9 trillion dollars)</p>
 <p style="margin-top: 0px; margin-right: 0px; margin-left: 56.7px; font-size: 10px;">Total Exposure To Derivatives: $59,944,502,000,000 (nearly 60 trillion dollars)</p>
 <p style="margin-top: 0px; margin-right: 0px; margin-left: 56.7px; font-size: 10px;">Źródło: BIS (Bank for International Settlements), 2014.</p>
-
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Przeciwnie, u nas kasyna dolarowe popiera się. Przykładem patologii wspierania hazardzistów z Wall Street przez prominentów z RP jest ulokowanie kont warszawskiego Ratusza właśnie w Citi Handlowym. Ekspozycja na instrumenty pochodne jego głównego udziałowca jest ponad 30-krotna, co oznacza, że wystarczy, iż 4% postawionych przez ten bank żetonów przegra w zakładach o przyszłość, a bank stanie się niewypłacalnym bankrutem, co przypuszczalnie pociągnie za sobą także bankructwo spółek zależnych i poważne kłopoty dla Warszawy.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Zauważmy, że Citibank był w okresie ostatniego kryzysu 2008 roku na czele banków, które nie zbankrutowały tylko dlatego, że ich złe długi odkupił Fed - bank centralny USA.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Rozwiązaniem problemu ryzyka, na jakie narażone są miasta posiadające rachunki w bankach operujących nadmierną ilością instrumentów pochodnych może być powołanie do istnienia banku municypalnego, który zagwarantuje stabilność funduszom miasta i nienaruszalność jego depozytów.</p>
@@ -38,5 +36,4 @@ layout: default
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Decyzja polityczna w tej sprawie, wyjaśniająca zarówno zasady lokalnego opodatkowania obrotu gospodarczego w walucie lokalnej, jak i interpretacji zajęć komorniczych w kierunku niezaliczania do nich lokat w lokalnych walutach, powinna zostać przedstawiona w rozporządzeniach ministrów finansów i sprawiedliwości.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Konta obywatelskie prowadzone przez bank municypalny w walucie lokalnej mogłyby także stać się pierwszym etapem wdrożenia gwarantowanego dochodu podstawowego dla wszystkich obywateli, a także poligonem doświadczalnym dla radykalnego uproszczenia systemu podatkowego i jego pełnej automatyzacji.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">W kontekście walut lokalnych warte zaznaczenia jest także to, że pobudzałyby one lokalną drobną produkcję oraz handel, tworząc dodatkową siłę nabywczą na rynku, a nie wypływały z kraju w postaci zysków zagranicznych korporacji.</p>
-
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Krzysztof Lewandowski</p>

@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <!--17--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 Podczas Dożynek w Spale Minister Rolnictwa i Rozwoju Wsi Marek Sawicki
 poinformował rolników- członków Koalicji Polska Wolna od GMO, że

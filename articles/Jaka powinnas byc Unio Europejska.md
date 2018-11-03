@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <!--230-->
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">30.08.2016</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Myślę, że jest to ważne pytanie z uwagi na czas, kiedy jest stawiane, czas znaczony Brexitem, immigracją i pełzającym jak żmija kryzysem. Z Unią coś jest nie tak, i to coś leży u samych jej podstaw, a nie w ornamentyce ustaw o krzywiźnie banana. Pewne założenia Unii nie sprawdzają się, więc może warto szczegółowo zbadać to zagadnienie i zastąpić fałszywe założenia naprawdę solidnie i demokratycznie wypracowanymi strategiami na przyszłość.</p>
@@ -17,4 +16,5 @@ layout: default
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Pieniądz lokalny, mający oparcie w lokalnych podatkach, jest w stanie ożywić lokalną gospodarkę, będąc suplementem pieniądza narodowego w obszarach o niższej konkurencyjności, niż wymagana na poziomie ogólnokrajowym, za to społecznie cennych, jak rolnictwo ekologiczne, lokalne usługi i pomoc społeczna, budownictwo komunalne, działalność edukacyjna, artystyczna czy sportowo-rekreacyjna. We wszystkich tych obszarach znaczącym wsparciem może być lokalna waluta, aktywizująca regiony, w których brakuje walut narodowych i euro.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Tak więc, racjonalnie myśląca grupa politycznego nacisku powinna dążyć do wielowalutowej Unii Europejskiej. Docelowo, w każdym kraju Unii Europejskiej powinno się móc rozliczać z obrotów w euro przed fiskusem europejskim, z obrotów złotówkowych przed fiskusem narodowym, i z obrotów lokalnych przed fiskusem samorządowym.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">W ten sposób realizowana by była zasada pomocniczości w obszarze kreacji pieniądza. Każdy obywatel lub podmiot mógłby wówczas wybierać, którą walutą chce się posługiwać w relacjach gospodarczych ze światem.</p>
-<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">W Polsce miałby wybór między euro, złotówką i jedną z istniejących walut lokalnych.</p>Krzysztof Lewandowski
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">W Polsce miałby wybór między euro, złotówką i jedną z istniejących walut lokalnych.</p>
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Krzysztof Lewandowski</p>

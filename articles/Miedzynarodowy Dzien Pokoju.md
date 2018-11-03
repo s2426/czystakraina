@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <!--5-->
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Jako inicjatywa osób zajmujących się promocją pokoju i odczuwających potrzebę pokoju, przekazujemy bardzo ważną informację:<br>7
 września 2001 roku Zgromadzenie Ogólne Narodów Zjednoczonych

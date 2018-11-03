@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <!--1--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 Światowe perturbacje finansowo-gospodarcze, których skutki zaczynamy
 odczuwać w domu, pracy i sklepie, mają swoje systemowe przyczyny.

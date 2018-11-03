@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <!--123--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 30.12.2012<br>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Czarna chmura wisi nad gospodarkami świata, chmura długów, która ciągnie ekonomie w dół. Odsetki od nich sprawiają, że bogactwo przepływa od osób żyjących ze swojej pracy do osób żyjących z posiadanych nadwyżek kapitałowych. Co ciekawe, drenaż ten nie odbywa się wyłącznie pomiędzy krajami bogatymi i biedniejszymi, ale dotyczy pionowych przepływów wewnątrz wszystkich państw, gdziebogatsi obywatele drenują biedniejszych.</p>
@@ -28,4 +27,5 @@ layout: default
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Alternatywą dla sprzedaży produktu jest konsumpcja własna, czyli np. skierowanie go do lokalnej struktury LETS lub Banku Czasu - do wymiany multibarterowej. Tę funkcjonalność chmury gwarantuje Cyclos, program oferowany w przestrzeni Open Source, za pomocą którego można tworzyć lokalne waluty i prowadzić z ich pomocą wymianę barterową.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Biała chmura jest negatywem chmury czarnej, przynoszącej pioruny i deszcz. Jest reakcją na nią. Im bardziej będzie pikować gospodarka światowa, wkręcona w śmiertelną spiralę zadłużenia i w imperatyw mnożenia kredytu, który musi zapełniać poszerzającą się wraz z postępem lukę popytową, tym gęściej będą się pojawiać ogniska lokalnej ekonomii, korzystające z białych chmur internetowych, umożliwiających samoorganizację gospodarczą na szczeblu lokalnym.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Programy komputerowe dla lokalnych społeczności, zainstalowane w chmurach internetowych, to recepta na recesję i wyciek pieniędzy w stronę bogaczy. Póki czarne chmury strzelają piorunami, to najlepsze, na co stać lokalną, oświeconą społeczność. W naszym klimacie chmura zapewni proste i zdrowe jedzenie, podstawowe usługi, a w zdywersyfikowanych energetycznie miejscach także energię elektryczną.</p>
-<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Korzystając z programów w chmurach internetowych można będzie przetrwać czas trudnej agonii systemu nieokiełznanych finansów. Jednak dopiero wynagrodzenie podstawowe rozgoni na dobre czarne chmury wiszące nad ziemią.</p><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Krzysztof Lewandowski</p><br><br><br><br></p>
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Korzystając z programów w chmurach internetowych można będzie przetrwać czas trudnej agonii systemu nieokiełznanych finansów. Jednak dopiero wynagrodzenie podstawowe rozgoni na dobre czarne chmury wiszące nad ziemią.</p>
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Krzysztof Lewandowski</p><br><br><br><br></p>

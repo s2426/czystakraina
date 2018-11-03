@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-
 <!--127-->
-<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">13.04.2013</p><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Współczesny system ekonomiczny, zwany liberalizmem, wziął swe początki od liberalizowania, czyli uwalniania, systemu bankowego od nadzoru państwowego.</p>
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">13.04.2013</p>
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Współczesny system ekonomiczny, zwany liberalizmem, wziął swe początki od liberalizowania, czyli uwalniania, systemu bankowego od nadzoru państwowego.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Liberalizowanie ekonomii rozpoczęło się od powstania w XVII w. Banku Anglii - prywatnej instytucji, która przejęła z rąk króla funkcję tworzenia pieniądza dłużnego, reprezentowanego z początku przez pieniądz papierowy - banknot.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Obecnie pieniądz dłużny posiada reprezentację w postaci banknotów jedynie w ok. 2% transakcji, a 98% obrotu gospodarczego dokonuje się za pomocą pieniądza elektronicznego, co jest korzystne dla producentów pieniądza dłużnego, gdyż obniża koszty działania ich przedsiębiorstw-banków.</p>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Zauważmy, że liberalizowanie gospodarki odbywa się zawsze i wszędzie na drodze zwiększania niezależności prywatnego sektora bankowego od instytucji państwowych, czyli od wpływu szerszych grup społecznych na to, ile pieniądza wpuszcza się w obieg w określonym czasie i na jakie społeczne cele jest on przeznaczany.</p>

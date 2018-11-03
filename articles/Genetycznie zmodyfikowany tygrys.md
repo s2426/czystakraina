@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <!--100--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 10.02.2012<br>
 <br>
