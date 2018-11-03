@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!--1-->
+<!--1--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 Światowe perturbacje finansowo-gospodarcze, których skutki zaczynamy
 odczuwać w domu, pracy i sklepie, mają swoje systemowe przyczyny.
 Przyczyny te działają niezależnie od tego, ile kolejnych setek
@@ -161,4 +161,4 @@ aby ratować sytuację. Zamiast uruchamiać programy budżetowego
 wspierania kulejącej konsumpcji, wspierają banki i dalszą emisję
 komercyjnego kredytu. Komu jednak banki mają go udzielić, żeby ratować
 niezamknięty cykl produkcyjny, skoro wszyscy wiarygodni kredytobiorcy
-wyczerpali się. Oto jest pytanie na miarę tego kryzysu.<br>
+wyczerpali się. Oto jest pytanie na miarę tego kryzysu.<br></p>

@@ -1,6 +1,6 @@
 
 <h2>Materiały, artykuły</h2>
-<p>
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 <ul>
 	<li><a href='{{site.baseurl}}\articles\Koniec%20epoki%20finansowych%20dinozaurow.html'>Koniec epoki finansowych dinozaurow</a>
 	<li><a href='{{site.baseurl}}\articles\Brytyjczycy%20za%20nacjonalizacja%20bankow.html'>Brytyjczycy za nacjonalizacją banków</a>

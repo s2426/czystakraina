@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!--17-->
+<!--17--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 Podczas Dożynek w Spale Minister Rolnictwa i Rozwoju Wsi Marek Sawicki
 poinformował rolników- członków Koalicji Polska Wolna od GMO, że
 zasiewy kukurydzy MON 810 są w świetle obowiązującego w Polsce prawa
@@ -110,4 +110,4 @@ Jaroszewska.
 <br>powierzchnie rośliny.
 <br>źródło: 
 <a class="moz-txt-link-freetext" href="http://www.scientificamerican.com/article.cfm?id=weed-whacking-herbicide-p">http://www.scientificamerican.com/article.cfm?id=weed-whacking-herbicide-p</a>
-<br>
+<br></p>

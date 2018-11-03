@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!--100-->
+<!--100--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 10.02.2012<br>
 <br>
 Tym razem będzie nie o Stanach Zjednoczonych ;) ale o tygrysach
@@ -69,4 +69,4 @@ wszyscy zostaniemy genetycznie zaszczepieni mutacjami śledziony, serca
 czy mięśnia dwugłowego. Wtedy i nas zaczną skanować, co komu jesteśmy
 winni za bycie. Za posiadanie opatentowanej molekuły grzechu pierworodnego.<br>
 <br>
-Krzysztof Lewandowski (Creative Commons Attributive)
+Krzysztof Lewandowski (Creative Commons Attributive)</p>

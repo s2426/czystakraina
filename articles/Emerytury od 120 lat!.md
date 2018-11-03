@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!--101-->
+<!--101--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 16.02.2012<br>
 <br>
 Tendencja z wiekiem emerytalnym wydaje się wyraźna - Polska na razie
@@ -60,4 +60,4 @@ Wynagrodzenia podstawowe podniesie z pewnością standard usług w
 nieoficjalnym, wolnym od rejestracji, sektorze naszej gospodarki.<br>
 <br>
 Krzysztof Lewandowski<br>
-(Creative Commons Attributive) 
+(Creative Commons Attributive) </p>

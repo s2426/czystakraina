@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!--1-->
+<!--1--><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 Codex Alimentarius to 16 tysięcy stron aktów prawnych mających -
 przynajmniej w teorii - zabezpieczać nasze zdrowie przed nadużyciami ze
 strony producentów leków oraz żywności. W istocie Codex, będący
@@ -24,4 +24,4 @@ zdrowej żywności, którzy nie godzą się na stosowanie agresywnych dla
 środowiska&nbsp;technik&nbsp;rolniczych.&nbsp;<br>Skutkiem działania wytycznych
 Codex będą też dalsze podwyżki cen leków, których produkcja stanie sie
 całkowicie scentralizowana w rękach ponaddnarodowych gigantów
-farmaceutycznych.
+farmaceutycznych.</p>

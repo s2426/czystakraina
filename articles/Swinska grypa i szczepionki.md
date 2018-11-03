@@ -3,13 +3,13 @@ layout: default
 ---
 
 <!--3-->
-<p>Minęły już trzy lata od ostatniej groźby epidemii ptasiej grypy, 6
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Minęły już trzy lata od ostatniej groźby epidemii ptasiej grypy, 6
 lat od zagrożenia SARS, a teraz ostrzega się przed potencjalną pandemią
 świńskiej grypy, co zdominowało wiadomości w USA, w Meksyku i w innych
 krajach, włącznie z licznymi krajami Europy, nawet tymi ,do których
 świńska grypa jeszcze nie dotarła.</p>
 
-<p>Wielu członków Koalicji w Obronie Zdrowia pamięta, że
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Wielu członków Koalicji w Obronie Zdrowia pamięta, że
 alarmujące wiadomości o ptasiej grypie i SARS nadeszły wtedy nagle i
 równie szybko zniknęły, nawiasem mówiąc, krótko po tym, jak w głównych
 mediach opublikowaliśmy dane z naszych badań, które wykazały, że
@@ -26,7 +26,7 @@ Zawierają one szczegółowe informacje o tym, jak synergia wybranych
 mikroelementów może hamować namnażanie się różnych typów wirusów grypy
 i ich rozprzestrzenianie.</p>
 
-<p>Niestety, w przypadku obecnej grozy zakażeń świńską grypą, zarówno
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Niestety, w przypadku obecnej grozy zakażeń świńską grypą, zarówno
 porady podawane w mediach, jak i porady ekspertów z dziedziny
 wirusologii ograniczają się do stosowania środków farmaceutycznych i
 szczepionek, jako głównego trybu zapobiegania i leczenia. W tym samym
@@ -41,7 +41,7 @@ farmakologicznej. Dzisiaj wiemy na ten temat o wiele więcej.</p>
 
 <h4>Czy grypa jest groźną chorobą?</h4>
 
-<p>Wszyscy znamy grypę i chorujemy na nią wielokrotnie w swoim życiu.
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Wszyscy znamy grypę i chorujemy na nią wielokrotnie w swoim życiu.
 Grypa jest infekcją układu oddechowego, połączoną z gorączką, kaszlem i
 bólem mięśni, która trwa przez kilka dni. Choroba ta dotyczy około 20%
 populacji światowej. Chociaż sama choroba jest zazwyczaj nieszkodliwa,
@@ -59,7 +59,7 @@ dniu 29 kwietnia.</p>
 
 <h4>Co to jest świńska grypa?</h4>
 
-<p>Świńska grypa jest chorobą układu oddechowego, która regularnie
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Świńska grypa jest chorobą układu oddechowego, która regularnie
 występuje u świń. Klasyczny wirus świńskiej grypy typu A H1N1 pojawił
 się w 1918 roku jednocześnie u świń i u ludzi. Wirusa tego pierwszy raz
 wyizolowano u świń w 1930 roku, a u ludzi w 1933 roku. W tamtym czasie
@@ -67,11 +67,11 @@ analiza antygenowa nie wykryła pomiędzy nimi żadnej różnicy.</p>
 
 <h4>Co oznacza określenie grypa typu A H1N1?</h4>
 
-<p>Istnieją trzy rodzaje wirusa grypy: typ A, który zazwyczaj jest
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Istnieją trzy rodzaje wirusa grypy: typ A, który zazwyczaj jest
 przyczyną epidemii; typ B, który wiąże się z występowaniem
 sporadycznych przypadków i typ C, który rzadko wywołuje chorobę.</p>
 
-<p>Aby zrozumieć, co oznaczają litery N i H, musimy spojrzeć na
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Aby zrozumieć, co oznaczają litery N i H, musimy spojrzeć na
 strukturę cząsteczki wirusa. Wirus grypy wygląda jak kula o średnicy
 wynoszącej około 100 nanometrów. Płaszcz wirusa jest utworzony z
 warstwy lipidów pobranych z błony plazmatycznej zainfekowanego
@@ -85,7 +85,7 @@ Neuraminidaza jest specjalnym enzymem, który jest używany do
 uszkodzenia zainfekowanej komórki w celu uwolnienia nowych cząsteczek
 wirusa, które następnie mogą infekować inne komórki.</p>
 
-<p>Wirus grypy jest zdolny do zmiany swoich cząsteczek H i N, co
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Wirus grypy jest zdolny do zmiany swoich cząsteczek H i N, co
 określa się jako przesunięcie antygenowe [skok antygenowy]. Na
 przykład wirus świńskiej grypy, który pojawił się w 1918 roku, został
 nazwany H1N1, natomiast później wykryto szczepy wirusa grypy, u których
@@ -101,20 +101,20 @@ się nowego szczepu, który posiada np. hemaglutyninę typu świńskiego
 zaklasyfikowano już cztery główne podtypy wirusa świńskiej grypy typu
 A: H1N1, H1N2, H3N2 i H3N1.</p>
 
-<p>Wirusy ostatnio wyizolowane ze świń stanowią podtyp H1N1, który był
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Wirusy ostatnio wyizolowane ze świń stanowią podtyp H1N1, który był
 przyczyną pierwszej pandemii w 1918 roku. Obecny szczep wirusa grypy
 jest kombinacją wirusa świńskiego, ptasiego i ludzkiego, na który
 ludzie mogą nie być w sposób naturalny odporni.</p>
 
 <h4>Czy wirus świńskiej grypy H1N1 jest taki sam, jak wirus ludzkiej grypy H1N1?</h4>
 
-<p>Nie, różnią się one w zakresie antygenowym, co oznacza, że
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Nie, różnią się one w zakresie antygenowym, co oznacza, że
 szczepionki przeciwko wirusowi ludzkiej grypy H1N1 nie będą chronić
 świń w zakresie infekcji wirusem świńskiej grypy H1N1.</p>
 
 <h4>Co oznacza określenie duża różnorodność wirusa grypy?</h4>
 
-<p>Poza wymianą materiału genetycznego pomiędzy wirusami o różnym
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Poza wymianą materiału genetycznego pomiędzy wirusami o różnym
 pochodzeniu, zachodzą również częste mutacje punktowe w wirusowym RNA
 oraz inne zmiany, które są przyczyną powstania różnorodności szczepów
 wirusa grypy. Te przesunięcia antygenowe zazwyczaj pojawiają się po
@@ -125,25 +125,25 @@ roku jest często nieskuteczna w następnym sezonie grypy.</p>
 
 <h4>Jak rozprzestrzenia się wirus grypy?</h4>
 
-<p>Wirus ludzkiej grypy rozprzestrzenia się przez kaszel, kichanie i
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Wirus ludzkiej grypy rozprzestrzenia się przez kaszel, kichanie i
 jest stabilny przez jakiś czas w powietrzu. Zatem ważne jest, aby
 często myć ręce ze względu na możliwość wcześniejszego dotknięcia
 przedmiotu zainfekowanego wirusem i przeniesienia wirusów w okolice
 nosa, ust czy innej części twarzy.</p>
 
-<p>Wirus świńskiej grypy rozprzestrzenia się przez bliski kontakt ze
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Wirus świńskiej grypy rozprzestrzenia się przez bliski kontakt ze
 zwierzętami oraz przez skażone przedmioty. Wirusy mogą być przenoszone
 ze świń na ludzi i z ludzi na świnie. Obecny wirus świńskiej grypy może
 rozprzestrzeniać się z ludzi na ludzi.</p>
 
-<p>Ludzie nie mogą zarazić się świńską grypą po zjedzeniu mięsa
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Ludzie nie mogą zarazić się świńską grypą po zjedzeniu mięsa
 zainfekowanych zwierząt. Gotowanie mięsa do osiągnięcia temperatury
 wewnętrznej wynoszącej 71°C [160°F] zabija bakterie i wirusy, włącznie
 z wirusem świńskiej grypy.</p>
 
 <h4>W jaki sposób wirusy infekują komórki?</h4>
 
-<p>Wirusy przedostają się do dróg oddechowych i wiążą się z komórkami
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Wirusy przedostają się do dróg oddechowych i wiążą się z komórkami
 wyściełającymi drogi oddechowe w płucach. Po wejściu materiału
 genetycznego wirusa w postaci RNA do komórki, przestawia on sposób
 działania komórki gospodarza na produkcję nowych kopii genomu wirusa.
@@ -153,7 +153,7 @@ rozprzestrzeniają się infekując okoliczne komórki tkanki płuca.</p>
 
 <h4>Jakie leki są stosowane w leczeniu świńskiej grypy u ludzi?</h4>
 
-<p>Obecnie są dwie klasy leków zatwierdzonych do leczenia i
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Obecnie są dwie klasy leków zatwierdzonych do leczenia i
 zapobiegania grypy: pochodne adamantanu (amantadyna i jej pochodna
 rymantadyna) oraz nowsze inhibitory neuraminidazy (NA), takie jak
 zanamiwir i oseltamiwir. Pochodne adamantanu utrudniają przetwarzanie
@@ -162,7 +162,7 @@ toksycznych objawów ubocznych oraz z rozwojem oporności na lek.
 Wyizolowane ostatnio u ludzi wirusy świńskiej grypy są oporne na
 amantadynę i rymantadynę.</p>
 
-<p>Inhibitory neuraminidazy mają na celu blokowanie czynności
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Inhibitory neuraminidazy mają na celu blokowanie czynności
 enzymatycznej neuraminidazy, a zatem blokują uwalnianie wirusa z
 zainfekowanej komórki gospodarza. Inhibitory neuraminidazy muszą być
 podawane bardzo wcześnie, ponieważ replikacja wirusa grypy w drogach
@@ -180,7 +180,7 @@ Komisja ds. Żywności i Leków [US FDA] zaleciła wprowadzenie nowych
 ostrzeżeń dotyczących możliwości wystąpienia niebezpiecznych
 psychiatrycznych efektów ubocznych dla preparatów Tamiflu i Relenza.</p>
 
-<p>Niestety, ze względu na syntetyczny charakter trudno jest znaleźć
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Niestety, ze względu na syntetyczny charakter trudno jest znaleźć
 lek, który by wpływał na procesy biologiczne wirusa, i który
 jednocześnie nie uszkadzałby komórek. Dlatego stosowanie tych leków
 zawsze wiąże się z ryzykiem wystąpienia objawów ubocznych, szczególnie
@@ -188,25 +188,25 @@ u pacjentów z zaburzeniami odporności, u osób bardzo młodych,
 starszych, chorujących na inne choroby i przyjmujących wiele leków
 naraz.</p>
 
-<p>Antybiotyki nie leczą grypy, ani innych infekcji wirusowych. Są one
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Antybiotyki nie leczą grypy, ani innych infekcji wirusowych. Są one
 często przepisywane przeciwko wtórnej infekcji bakteryjnej.
 Niepotrzebne nadmierne stosowanie antybiotyków prowadzi do powstania
 oporności bakterii, co sprawia, że leki te stają się nieskuteczne
 przeciwko wielu rodzajom infekcji.</p>
 
-<p>Szczepionki, które stymulują produkcję przeciwciał przez organizm i
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Szczepionki, które stymulują produkcję przeciwciał przez organizm i
 jednocześnie nie wywołują choroby, są zazwyczaj bardziej skuteczne. W
 przypadku jednak wirusa grypy, który podlega częstym zmianom
 genetycznym często nie dają one pozytywnych wyników.</p>
 
 <h4>Czy istnieją naturalne sposoby na walkę z grypą?</h4>
 
-<p>Podejście medycyny komórkowej w przypadkach infekcji wirusowej i
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Podejście medycyny komórkowej w przypadkach infekcji wirusowej i
 innych problemów zdrowotnych bazuje na zastosowaniu naturalnych
 składników znanych organizmowi w celu poprawienia określonych funkcji
 biologicznych, które są krytyczne w kontrolowaniu choroby.</p>
 
-<p>Ze względu na fakt, że niektóre wirusy mogą rozprzestrzeniać się w
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Ze względu na fakt, że niektóre wirusy mogą rozprzestrzeniać się w
 organizmie za pomocą podobnych mechanizmów jak komórki rakowe,
 badaliśmy, czy zastosowanie synergii składników odżywczych skutecznej w
 kontrolowaniu inwazji komórek rakowych może wpłynąć na zdolność wirusa
@@ -221,7 +221,7 @@ obejmowały ochronę komórek dróg oddechowych przed zmianami
 patologicznymi wywoływanymi przez wirusa, i redukcję zaraźliwości
 wirusa w przypadku suplementacji składników odżywczych.</p>
 
-<p>Te korzyści wynikające z zastosowania mikroelementów obserwowane w
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Te korzyści wynikające z zastosowania mikroelementów obserwowane w
 warunkach in vivo zostały potwierdzone w badaniach nad mechanizmem
 działania tych składników odżywczych na poziomie komórkowym. Badania
 wykazały działanie ochronne synergii mikroelementów skierowane
@@ -230,7 +230,7 @@ namnażania się i rozprzestrzeniania do innych komórek.</p>
 
 <h4>Czy witamina C jest skuteczna przeciwko grypie?</h4>
 
-<p>Stosowanie witaminy C jako skutecznej ochrony przeciwko
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Stosowanie witaminy C jako skutecznej ochrony przeciwko
 przeziębieniu zostało spopularyzowane przez dr Linusa Paulinga.
 Witamina C jest ważnym składnikiem odżywczym dla sprawnej czynności
 naszego układu odpornościowego i wiele badań klinicznych wykazało, że
@@ -240,7 +240,7 @@ na fakt, że wirus HIV jest wirusem zawierającym materiał genetyczny w
 postaci RNA, możliwe jest, że inne wirusy zawierające RNA, takie jak
 wirus grypy, mogą na nią reagować.</p>
 
-<p>Nasze dalsze badania w tym kierunku wykazały, że działanie witaminy
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Nasze dalsze badania w tym kierunku wykazały, że działanie witaminy
 C przeciwko różnym aspektom infekcji wirusowej można poprawić, jeżeli
 połączy się ją z innymi składnikami odżywczymi, które działają
 synergicznie. Ostatnie badania opublikowane w czasopiśmie naukowym
@@ -252,7 +252,7 @@ sama witamina C wywołuje tylko minimalny efekt.</p>
 
 <h4>Jakie są korzyści z zażywania synergii mikroelementów w porównaniu z pojedynczym składnikiem odżywczym?</h4>
 
-<p>Aby osiągnąć biologiczny efekt synergii ważne jest łączenie
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Aby osiągnąć biologiczny efekt synergii ważne jest łączenie
 wybranych mikroelementów w odpowiednich proporcjach. Przynosi to
 większe korzyści dla zdrowia niż stosowanie pojedynczych składników,
 takich jak witaminy lub inne składniki odżywcze. Jesteśmy pionierami w
@@ -261,7 +261,7 @@ naszych programach zdrowia, a dzisiaj jest ono coraz częściej stosowane
 przez innych. Na przykład, nawet preparat multiwitaminowy „Centrum”
 jest teraz reklamowany jako „działający na zasadzie synergii”.</p>
 
-<p>Kluczowe elementy korzystnego działania „synergii” składników odżywczych:</p>
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Kluczowe elementy korzystnego działania „synergii” składników odżywczych:</p>
 
 <ul><li>działanie jednoczesne na kilka procesów komórkowych (tj.
 zmniejszenie zakaźności wirusa, jego namnażania, rozprzestrzeniania w
@@ -273,7 +273,7 @@ metaboliczną komórki i wywołując efekty niepożądane.</li></ul>
 
 <h4>Które z mikroelementów są ważne w kontrolowaniu infekcji grypowych?</h4>
 
-<p>Istnieje ich kilka. Kluczowym składnikiem odżywczym jest witamina C,
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Istnieje ich kilka. Kluczowym składnikiem odżywczym jest witamina C,
 która zgodnie z naszymi badaniami może redukować namnażanie wirusa
 grypy o około 50%. Jej poziom jest zazwyczaj niższy u osób, u które
 zostały dotknięte infekcją wirusową. W czasie infekcji ilość witaminy C
@@ -297,4 +297,4 @@ dało bardziej kompleksowe korzyści zdrowotne.</p>
 
 <h4>Czy wyniki badań nad synergią składników odżywczych są dostępne?</h4>
 
-<p>Tak, wszystkie te badania można przejrzeć na stronie internetowej naszego instytutu badawczego pod adresem <a href="http://www.drrathresearch.org/">www.drrathresearch.org</a>.</p>
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">Tak, wszystkie te badania można przejrzeć na stronie internetowej naszego instytutu badawczego pod adresem <a href="http://www.drrathresearch.org/">www.drrathresearch.org</a>.</p>

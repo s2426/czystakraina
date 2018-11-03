@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!--46-->
-<p style="margin-bottom: 0cm;"><font face="Arial, sans-serif">11.09.2010<br><br>Dodatnie
+<p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">11.09.2010<br><br>Dodatnie
 salda właścicieli kont bankowych reprezentują ich pracę włożoną
 w przeszłości w wykonanie pewnych usług bądź rzeczy. Są więc
 niejako informacyjnym ekwiwalentem użytecznej pracy, wyrażającym
@@ -65,11 +65,11 @@ miesięcznie, jaką płaci obecnie w postaci odsetek od kredytów
 zaciągniętych przez rząd, firmy i obywateli. Kwota 1420 zł
 przypadająca na czteroosobową rodzinę to kontrybucja wszystkich na
 rzecz bogatszej części społeczeństwa, tej, która ma dodatnie
-salda, liczącej ok. 20% obywateli.</font></p><p style="margin-bottom: 0cm;"><font face="Arial, sans-serif">W kategoriach czyjegoś przychodu, statystycznie cztery biedne rodziny składają się na przychód piątej z nich, bogatszej, w kwocie 5680 zł miesięcznie.&nbsp;<br><br>Kontrybucja
+salda, liczącej ok. 20% obywateli.</font></p><p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;"><font face="Arial, sans-serif">W kategoriach czyjegoś przychodu, statystycznie cztery biedne rodziny składają się na przychód piątej z nich, bogatszej, w kwocie 5680 zł miesięcznie.&nbsp;<br><br>Kontrybucja
 ta jest całkowicie bezzasadna i wynika wyłącznie z zasad
 arbitralnie stanowionego prawa bankowego. Gdy się jej pozbędziemy,
 zmieniając obowiązujące prawo bankowe i zakazując korumpowania
 klientów odsetkami od depozytów, ekonomia światowa stanie na
 nogach, zamiast fikać koziołki i udawać, że jest nauką.<br><br>(CCA)
 Krzysztof Lewandowski<br>Be free
-to copy</font></p>
+to copy</p>
