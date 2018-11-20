@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/czystakraina/counter.svg)](http://hits.dwyl.io/czystakraina/counter)
+
 <p><h3>Joseph Huber</h3></p>
 <p><h2>Waluta cyfrowa</h2>
 <h3>Utrzymanie czy pokonanie reżimu pieniądza bankowego?</h3>
@@ -215,4 +217,3 @@ Warszawa, listopad 2018</p>
 <p><a id="sup31"><sup> [31]</sup></a> Bjerg 2017 29ff, 2018 7. </p>
 <p><a id="sup32"><sup> [32]</sup></a> Główna rola gwarancji państwowych dla pieniądza bankowego, pełniących rolę decyzyjnego czynnika systemowego, jest szczególnie podkreślona w: Wortmann 2016, 2017a+b. Równie silnie zanaczono tu eliminację tych gwarancji jako warunku wstępnego ustanowienia systemu suwerennego pieniądza.</p>
 
-[![HitCount](http://hits.dwyl.io/czystakraina/counter.svg)](http://hits.dwyl.io/czystakraina/counter)
