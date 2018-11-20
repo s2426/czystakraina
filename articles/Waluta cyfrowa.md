@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.io/czystakraina/walutacyfrowa.svg)](http://hits.dwyl.io/czystakraina/walutacyfrowa)
+<p>[![HitCount](http://hits.dwyl.io/czystakraina/walutacyfrowa.svg)](http://hits.dwyl.io/czystakraina/walutacyfrowa)</p>
 <p><h3>Joseph Huber</h3></p>
 <p><h2>Waluta cyfrowa</h2>
 <h3>Utrzymanie czy pokonanie reżimu pieniądza bankowego?</h3>
