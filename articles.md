@@ -2,6 +2,7 @@
 <h2>Materiały, artykuły</h2>
 <p style="margin: 0px 0px 18px; font-size: 18px; font-family: Helvetica;">
 <ul>
+	<li><a href='{{site.baseurl}}\articles\Waluta%20cyfrowa.html'>Waluta cyfrowa</a>
 	<li><a href='{{site.baseurl}}\articles\Koniec%20epoki%20finansowych%20dinozaurow.html'>Koniec epoki finansowych dinozaurow</a>
 	<li><a href='{{site.baseurl}}\articles\Brytyjczycy%20za%20nacjonalizacja%20bankow.html'>Brytyjczycy za nacjonalizacją banków</a>
 	<li><a href='{{site.baseurl}}\articles\Jak%20to%20powinno%20byc%20urzadzone.html'>Jak to powinno być urządzone...</a>
