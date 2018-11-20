@@ -1,7 +1,6 @@
-[![HitCount](http://hits.dwyl.io/czystakraina/counter.svg)](http://hits.dwyl.io/czystakraina/counter)
-
 <p><h3>Joseph Huber</h3></p>
 <p><h2>Waluta cyfrowa</h2>
+[![HitCount](http://hits.dwyl.io/czystakraina/counter.svg)](http://hits.dwyl.io/czystakraina/counter)
 <h3>Utrzymanie czy pokonanie reżimu pieniądza bankowego?</h3>
 <h3>Założenia projektu, które czynią różnicę.</h3></p>
 <p>Tłumaczył: Krzysztof Lewandowski
