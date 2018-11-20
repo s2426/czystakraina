@@ -4,9 +4,6 @@ layout: default
 
 [![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
 
-[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
-
-[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
 <p><img src="{{site.baseurl}}\articles\pictures\465.zloty.jpg" align="left" style="margin: 10px 10px" width="200"><!--211-->
 <p>3.01.2014</p><p>Pieniądz jako dobro wspólne i antypieniądz jako wspólna dokuczliwość.</p>
 <p>Taką medytację proponuję na czas dalszego kumulowania się sprzeczności między zbiorową mądrością narodów i zbiorową indywidualizacją elit. System trzeszczy w posadach i zastrzyki wzmacniające betonu pieniężnego, jakie zaaplikowano konstrukcji bankowo-finansowej w latach kryzysu, nie pomogą na długo.</p>
