@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+[![HitCount](http://hits.dwyl.io/czystakraina/{{post.url}}.svg)](http://hits.dwyl.io/czystakraina/{{post.url}})
 
 <!--104-->
 <p>10.04.2012</p>

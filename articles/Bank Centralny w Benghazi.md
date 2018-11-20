@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+[![HitCount](http://hits.dwyl.io/czystakraina/{{post.url}}.svg)](http://hits.dwyl.io/czystakraina/{{post.url}})
 
 <p><img src="{{site.baseurl}}\articles\pictures\465.benghazi.jpg" align="left" style="margin: 10px 10px" width="200"><!--68-->
 18.04.2011</p><p>Głównym przywilejem elit jest dziś przywilej kreacji oprocentowanego kredytu, czyli czyjegoś długu. Zadłużanie jednostek, firm, miast, gmin i narodów stało się współczesną formą zniewalania społecznego, którego doświadcza znakomita większość społeczeństwa. W procederze tym uczestniczą na skalę międzynarodową instytucje kontrolujące polityki monetarne krajów, takie jak FED, BIS czy MFW, które współgrają w wyciskaniu z narodów maksymalnych odsetek od udzielonych kredytów. </p><p>Nie dziwota więc, że powstańcy libijscy - których z początku trudno było nawet wyodrębnić -

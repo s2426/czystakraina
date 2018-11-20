@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+[![HitCount](http://hits.dwyl.io/czystakraina/{{post.url}}.svg)](http://hits.dwyl.io/czystakraina/{{post.url}})
 
 <p><img src="{{site.baseurl}}\articles\pictures\465.wallstreet.jpg" align="left" style="margin: 10px 10px" width="200"><!--9-->
 Szwajcarscy fizycy, Stefano Battiston i James Glattfelder, opublikowali wyniki badań obrotów na światowych giełdach. Efekty analiz są zaskakujące, gdyż świadczą o wielkiej koncentracji kapitału w rekach nielicznej grupy inwestorów. Oto lista największych z nich:</p><p>1. The Capital Group Companies (U.S.)</p><p>

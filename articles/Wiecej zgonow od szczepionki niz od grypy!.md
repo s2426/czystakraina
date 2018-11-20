@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+[![HitCount](http://hits.dwyl.io/czystakraina/{{post.url}}.svg)](http://hits.dwyl.io/czystakraina/{{post.url}})
 
 <p><img src="{{site.baseurl}}\articles\pictures\465.grypa.jpg" align="left" style="margin: 10px 10px" width="200"><!--6-->
 W tajnym raporcie do lekarzy neurologów, Health Protection Agency (USA) zwraca uwagę, że planowane na jesień 2009 roku w USA,masowe szczepienia przeciwko świńskiej grypie, mogą wywołać wzrost zachorowalności na śmiertelną w wielu wypadkach chorobę układu nerwowego, znaną jako Guillain-Barre Syndrome (GBS). </p><p>Szczepionka przeciw grypie powoduje ośmiokrotny wzrost ryzyka wystąpienia GBS. U

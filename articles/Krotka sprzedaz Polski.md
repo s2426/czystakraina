@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+[![HitCount](http://hits.dwyl.io/czystakraina/{{post.url}}.svg)](http://hits.dwyl.io/czystakraina/{{post.url}})
 
 <p><img src="{{site.baseurl}}\articles\pictures\465.mis.jpg" align="left" style="margin: 10px 10px" width="200"><!--44-->
 <p>30.07.2010</p><p>Ludwik Sobolewski, prezes warszawskiej Giełdy Papierów Wartościowych, w wywiadzie udzielonym Dominice Wielowieyskiej, reporterce portalu gazeta.tv, na pytanie, czy nie obawia się spekulacji w wyniku wprowadzenia na giełdę instrumentu krótkiej sprzedaży (short selling) odrzekł, że bardzo lubi spekulantów (sic!),</p>

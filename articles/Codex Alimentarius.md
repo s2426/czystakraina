@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+[![HitCount](http://hits.dwyl.io/czystakraina/{{post.url}}.svg)](http://hits.dwyl.io/czystakraina/{{post.url}})
 
 <p><img src="{{site.baseurl}}\articles\pictures\465.skrzypimietacodex.jpg" align="left" style="margin: 10px 10px" width="200"><!--1-->
 Codex Alimentarius to 16 tysięcy stron aktów prawnych mających -
