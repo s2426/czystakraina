@@ -2,8 +2,8 @@
 <p><h2>Waluta cyfrowa</h2>
 <h3>Utrzymanie czy pokonanie reżimu pieniądza bankowego?</h3>
 <h3>Założenia projektu, które czynią różnicę.</h3></p>
-<p>Tłumaczył: Krzysztof Lewandowski</p>
-<p>Warszawa, listopad 2018</p>
+<p>Tłumaczył: Krzysztof Lewandowski
+Warszawa, listopad 2018</p>
 <p>W niniejszym artykule podejmowana jest ocena waluty cyfrowej banku centralnego, emitowanej do publicznego użycia wespół z pieniądzem bankowym. <a href="#sup1"><sup>[1]</sup></a> Wiodącą kwestią jest to, czy wprowadzenie do publicznego obrotu waluty cyfrowej banku centralnego posłuży stabilizacji, a przez to utrzymaniu obecnego reżimu pieniądza bankowego, czy również może być postrzegane jako krok w stronę przyszłego systemu pieniądza suwerennego. Odpowiedź na to pytanie zależy od zakresu wdrożenia pewnej liczby krytycznych założeń projektowych.</p>
 <p>Odnośnie terminologii, waluta cyfrowa banku centralnego jest tutaj nazywana w uproszczeniu walutą cyfrową lub suwerennym pieniądzem cyfrowym. Słowo cyfrowy oznacza, że chodzi tu o pieniądz pozostający na jakimś rachunku, w odróżnieniu od gotówki znajdującej się w czyichś rękach. Zarówno termin suwerenny, jak i termin waluta, zakładają, że jest to pieniądz pochodzący z banku centralnego, który jest instytucją monetarną suwerennego państwa-narodu lub społeczności państw-narodów, bądź też skarbca czy innego państwowego ciała emitującego walutę na danym obszarze.</p>
 <p>W przeciwieństwie do tego, pieniądz bankowy można z pewnością nazwać pieniądzem cyfrowym lub pieniądzem elektronicznym, jednak nie cyfrową walutą, gdyż waluta, poza odniesieniem do monetarnej jednostki miary, oznacza tradycyjnie suwerenny bilon lub banknoty banku centralnego lub, w obecnie uwspółcześnionym sensie i w znaczeniu ogólnym – pieniądz suwerenny w dowolnej formie.</p>
