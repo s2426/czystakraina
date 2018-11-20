@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![HitCount](http://hits.dwyl.io/czystakraina/{{post.url}}.svg)](http://hits.dwyl.io/czystakraina/{{post.url}})
+[![HitCount](http://hits.dwyl.io/czystakraina/{{page.url}}.svg)](http://hits.dwyl.io/czystakraina/{{page.url}})
 <p><img src="{{site.baseurl}}\articles\pictures\465.nbp.jpg" align="left" style="margin: 10px 10px" width="200"><!--0-->
 16.06.2010</p><p>Międzynarodowe instytucje finansowe prześcigają się w pomysłach, jak wyciągać z kieszeni polskich podatników pieniądze. </p><p>Przebojem
 kombinatorów spod znaku MFW jest usługa znana pod nazwą "dostępność

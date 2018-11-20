@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![HitCount](http://hits.dwyl.io/czystakraina/{{post.url}}.svg)](http://hits.dwyl.io/czystakraina/{{post.url}})
+[![HitCount](http://hits.dwyl.io/czystakraina/{{page.url}}.svg)](http://hits.dwyl.io/czystakraina/{{page.url}})
 <p><img src="{{site.baseurl}}\articles\pictures\465.bis.jpg" align="left" style="margin: 10px 10px" width="200"><!--217-->
 <p>15.12.2014</p>
 <p>Cztery dni temu zostało uchwalone w izbie Reprezentantów USA uchylenie ustawy Dodd-Franka. Spodziewane jest uchwalenie tego uchylenia przez Senat w ciągu najbliższych kilku dni. O co chodzi? Otóż o wielką publiczną kasę liczoną w dziesiątkach bilionów dolarów, czyli o kwoty kilkakrotnie wyższe od całego długu narodowego USA, który sięga 18 bilionów dolarów.</p>

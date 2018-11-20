@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![HitCount](http://hits.dwyl.io/czystakraina/{{post.url}}.svg)](http://hits.dwyl.io/czystakraina/{{post.url}})
+[![HitCount](http://hits.dwyl.io/czystakraina/{{page.url}}.svg)](http://hits.dwyl.io/czystakraina/{{page.url}})
 
 <!--1-->
 Światowe perturbacje finansowo-gospodarcze, których skutki zaczynamy

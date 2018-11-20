@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![HitCount](http://hits.dwyl.io/czystakraina/{{post.url}}.svg)](http://hits.dwyl.io/czystakraina/{{post.url}})
+[![HitCount](http://hits.dwyl.io/czystakraina/{{page.url}}.svg)](http://hits.dwyl.io/czystakraina/{{page.url}})
 
 <p><img src="{{site.baseurl}}\articles\pictures\465.zloty.jpg" align="left" style="margin: 10px 10px" width="200"><!--211-->
 <p>3.01.2014</p><p>Pieniądz jako dobro wspólne i antypieniądz jako wspólna dokuczliwość.</p>

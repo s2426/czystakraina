@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![HitCount](http://hits.dwyl.io/czystakraina/{{post.url}}.svg)](http://hits.dwyl.io/czystakraina/{{post.url}})
+[![HitCount](http://hits.dwyl.io/czystakraina/{{page.url}}.svg)](http://hits.dwyl.io/czystakraina/{{page.url}})
 <p><img src="{{site.baseurl}}\articles\pictures\465.oglos.jpg" align="left" style="margin: 10px 10px" width="200"><!--0-->
 <p>OGŁOSZENIE INTERNETOWE</p>
 <p>z dnia 27 marca 2017 r</p>

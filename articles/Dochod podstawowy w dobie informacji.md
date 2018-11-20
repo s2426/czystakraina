@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![HitCount](http://hits.dwyl.io/czystakraina/{{post.url}}.svg)](http://hits.dwyl.io/czystakraina/{{post.url}})
+[![HitCount](http://hits.dwyl.io/czystakraina/{{page.url}}.svg)](http://hits.dwyl.io/czystakraina/{{page.url}})
 
 <p><img src="{{site.baseurl}}\articles\pictures\465.teomandalamaly.jpg" align="left" style="margin: 10px 10px" width="200"><!--125-->
 <p>Wpolskiej edycji Le Monde diplomatique nr 9/2012 ukazał się artykuł Łukasza Drozdy pt. „Duża różnica między dochodem powszechnym a gwarantowanym“, który jest przykładem nierozumienia problematyki współczesnej ekonomii przez lewicę.</p>

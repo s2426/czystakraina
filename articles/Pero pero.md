@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![HitCount](http://hits.dwyl.io/czystakraina/{{post.url}}.svg)](http://hits.dwyl.io/czystakraina/{{post.url}})
+[![HitCount](http://hits.dwyl.io/czystakraina/{{page.url}}.svg)](http://hits.dwyl.io/czystakraina/{{page.url}})
 <p><img src="{{site.baseurl}}\articles\pictures\465.pend.jpg" align="left" style="margin: 10px 10px" width="200"><!--213-->
 21.06.2014</p><p><p>"Taśmy" z pewnością doprowadziły do spadku autorytetu władz naszego kraju, ale ich bilans ma też swoją drugą stronę, atrakcyjną dla nas wszystkich - obywateli.</p>
 <p>Po pierwsze mogliśmy się w szczegółach dowiedzieć, jak wyglądają procedury naszego państwa dotyczące tajemnicy dziennikarskiej. To wielka edukacja dla całego narodu widzów. Z przebiegu wypadków okazuje się bowiem, że nie znali ich także najbardziej nimi teoretycznie zainteresowani, czyli dziennikarze i prokuratorzy. Ci drudzy bezprawnie zarządzili kopiowanie na ich nośniki materiału dowodowego mogącego zawierać tajemnicę dziennikarską, ci pierwsi całkiem wydawali się być nieświadomi procedur, nie sądzę bowiem, aby redaktor naczelny "Wprost" nosił w swoim laptopie nazwisko informatora, od którego otrzymał nagrania, do czego się jednak publicznie przyznawał.</p>

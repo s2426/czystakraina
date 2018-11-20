@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![HitCount](http://hits.dwyl.io/czystakraina/{{post.url}}.svg)](http://hits.dwyl.io/czystakraina/{{post.url}})
+[![HitCount](http://hits.dwyl.io/czystakraina/{{page.url}}.svg)](http://hits.dwyl.io/czystakraina/{{page.url}})
 
 <p><img src="{{site.baseurl}}\articles\pictures\465.praga.jpg" align="left" style="margin: 10px 10px" width="200"><!--24-->
 <p>Czesi zawsze nas wyprzedzali z mądrością. Ostatnio daje się słyszeć napływające z południa, obywatelskie głosy rozsądku, wzywające do opamiętania czeskie elity polityczne. Chodzi o dług naszych sąsiadów, rosnący co minutę o milion koron, czyli 156 tysięcy złotówek. Po przeliczeniu na statystyczną głowę jest ten dług Czechów niemal identyczny z długiem Polaków, wynoszącym ponad 700 mld zł i przyrastającym zapewne w tempie identycznym, gdyż w okresie transformacji lichwiarze z Zachodu odwiedzali kraje bloku wschodniego seryjnie, proponując kredyty na podobnych warunkach odsetkowych. Oto ten list obywatela do czeskich rządzących (List tłumaczył z czeskiego Lech L. Przychodzki dla portalu INFOPOL: www.infopol.lt, z którego zaczerpnięto jego treść.):</p>

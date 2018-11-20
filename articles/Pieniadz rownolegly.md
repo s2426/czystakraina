@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![HitCount](http://hits.dwyl.io/czystakraina/{{post.url}}.svg)](http://hits.dwyl.io/czystakraina/{{post.url}})
+[![HitCount](http://hits.dwyl.io/czystakraina/{{page.url}}.svg)](http://hits.dwyl.io/czystakraina/{{page.url}})
 <p><img src="{{site.baseurl}}\articles\pictures\465.billon.jpg" align="left" style="margin: 10px 10px" width="200"><!--231-->
 13.10.2016</p>
 <p>Trójpodział władz, na który powołują się politycy, to przeżytek. W międzyczasie bowiem wyrosły nad tradycyjnymi władzami: ustawodawczą, wykonawczą i sądowniczą dwie nowe potęgi: finansowa i medialna, z których pierwsza i najsilniejsza to władza finansowa banków i instytucji z nimi powiązanych, tworząca globalny kartel.</p>
