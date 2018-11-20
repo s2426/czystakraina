@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <p><img src="{{site.baseurl}}\articles\pictures\465.zielono-zielona.jpg" align="left" style="margin: 10px 10px" width="200"><p><img src="{{site.baseurl}}\articles\pictures\.jpg" align="left" style="margin: 10px 10px" width="200"><!--5-->
 <p>Jako inicjatywa osób zajmujących się promocją pokoju i odczuwających potrzebę pokoju, przekazujemy bardzo ważną informację:</p><p>7
 września 2001 roku Zgromadzenie Ogólne Narodów Zjednoczonych

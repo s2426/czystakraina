@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <p><img src="{{site.baseurl}}\articles\pictures\465.mf.jpg" align="left" style="margin: 10px 10px" width="200"><!--41-->
 <p>28.07.2010</p>
 <p>Nie tylko Grecy ukrywają, póki się daje, rozmiar narodowej mizerii finansowej. To samo dzieje się w Polsce oraz w innych krajach, które najpierw uchwalają progi zadłużenia, którego nie wolno przekroczyć, a następnie kombinują, jak te własne ograniczenia obejść.,</p>

@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
 <p><img src="{{site.baseurl}}\articles\pictures\465.ellengame.jpg" align="left" style="margin: 10px 10px" width="200"><!--212-->
 <p>8.04.2014</p><p>4 marca 2014 FDIC (Fedreal Deposit Insurance Corporation) złożył pozew przeciwko szesnastubankom, w tym trzem największym bankom USA, z powodu zmowy tych banków i manipulowania przez nie indeksem LIBOR na szkodę kredytobiorców.</p>
 <p>O ile wcześniejsze pozwy zbiorowe klientów oszukanych na manipulacjach wskaźnikiem LIBOR zostały przez sąd odrzucone bez ich rozpatrywania, o tyle włączenie się do procesu FDIC, czyli strony bezpośrednio poszkodowanej, ubezpieczyciela wkładów oszczędnościowych, który musiał wypłacić olbrzymie sumy klientom zbankrutowanych banków, znacznie utrudni odłożenie sprawy ad acta, gdyż po pierwsze FDIC jest bezsprzecznie stroną w sprawie, a po drugie oskarża banki o naruszenie wielu praw, a nie tylko prawa antymonopolowego, o co oskarżali banki klienci.</p>

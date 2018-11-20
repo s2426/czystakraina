@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <p><img src="{{site.baseurl}}\articles\pictures\465.amoksloncokwiatmaly.jpg" align="left" style="margin: 10px 10px" width="200"><!--123-->
 30.12.2012</p><p>
 <p>Czarna chmura wisi nad gospodarkami świata, chmura długów, która ciągnie ekonomie w dół. Odsetki od nich sprawiają, że bogactwo przepływa od osób żyjących ze swojej pracy do osób żyjących z posiadanych nadwyżek kapitałowych. Co ciekawe, drenaż ten nie odbywa się wyłącznie pomiędzy krajami bogatymi i biedniejszymi, ale dotyczy pionowych przepływów wewnątrz wszystkich państw, gdziebogatsi obywatele drenują biedniejszych.</p>

@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <p><img src="{{site.baseurl}}\articles\pictures\465.dobrostan.jpg" align="left" style="margin: 10px 10px" width="200"><!--235-->
 <p>31.05.2017</p>
 <p>To tylko kilka zagadnień, ale jakże ważnych dla naszego dobrobytu...</p>

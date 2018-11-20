@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <!--218-->
 <p>20.12.2014</p>
 <p>Cztery lata temu (21 lipca 2010 roku) prezydent Barack Obama podpisał ustawę o reformie Wall Street i ochronie konsumentów, zwaną ustawą Dodd-Franka. Miała ona zapobiegać nadużyciom ze strony banków, podobnym do tych, jakie miały miejsce przed kryzysem 2008 roku.</p>

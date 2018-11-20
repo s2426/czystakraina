@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <p><img src="{{site.baseurl}}\articles\pictures\465.citiwarszawa.jpg" align="left" style="margin: 10px 10px" width="200"><!--214-->
 23.10.2014</p>
 <p>Warszawa trzyma swoje depozyty w banku Citi Handlowym, którego głównym akcjonariuszem jest amerykański Citibank, należący do grupy 5 największych banków amerykańskich, które w swoich portfelach posiadają instrumenty pochodne o wartości co najmniej 40 bilionów (sic!) dolarów (am. trillion) każdy. Jest to suma trudna do wyobrażenia, porównywalna z globalnym PKB, wynoszącym 60 bilionów dolarów.</p>

@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <p><img src="{{site.baseurl}}\articles\pictures\465.dzisijutro.jpg" align="left" style="margin: 10px 10px" width="200"><!--229-->
 <p>14.06.2016</p>
 <p>W artykule naukowym "Stracone sto lat w ekonomii", który ukazał się w 2015 roku, profesor Uniwersytetu Southampton Richard A. Werner ukazuje mity, w jakie wciąż wierzy znakomita większość profesorów ekonomii kształconych po to, aby tłumaczyć nam, społeczeństwu, jak działa gospodarka i finanse.</p>

@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <p><img src="{{site.baseurl}}\articles\pictures\465.luddysci.jpg" align="left" style="margin: 10px 10px" width="200"><!--233-->
 <p>01.01.2017</p>
 <p>Zarówno po stronie rządzących, jak i po stronie opozycji, widać je gołym okiem. Odwetowe skłonności rodzą odwetowe skłonności, w myśl zasad logiki i rezonansu.</p>

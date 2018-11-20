@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <p><img src="{{site.baseurl}}\articles\pictures\465.WP.jpg" align="left" style="margin: 10px 10px" width="200"><!--35-->
 22.05.2010</p><p>Jeszcze nie tak dawno
 temu byliśmy narodem żyjącym w pokoju, nie atakującym nikogo z żadnego

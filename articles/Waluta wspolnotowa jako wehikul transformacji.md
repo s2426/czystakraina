@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <p><img src="{{site.baseurl}}\articles\pictures\465.wawa.jpg" align="left" style="margin: 10px 10px" width="200"><!--215-->
 <p>23.10.2014</p>
 <p>Globalny system bankowy, oparty na opcjach, jest niestabilny. Dowodzą tego cyklicznie następujące kryzysy oraz aktualne statystyki obrazujące stopień rosnącego zagrożenia światowego ładu gospodarczego kolejną katastrofą finansową.</p>

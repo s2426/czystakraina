@@ -1,5 +1,8 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <p><img src="{{site.baseurl}}\articles\pictures\465.wallstreet.jpg" align="left" style="margin: 10px 10px" width="200"><!--18-->
 Drugi etap kryzysu to wynik nicnierobienia w kwestii zasadniczej, a więc przebudowy obecnego modelu, który jest systemowo wadliwy, gdyż zapewnia biedę (czytaj: zadłużenie) większości i nienależne profity garstce wybrańców.</p><p>Znakomitą ilustracją patologii systemu oraz miejsca tykania bomb zegarowych jest prezentacja animowana zrealizowana przez Jonathana Jarvis, przedstawiająca w syntetyczny sposób spekulacyjne mechanizmy giełdowe, które doprowadziły do obecnego zamieszania.</p><p>Prezentacja nie zajmuje się trującym lekarstwem, czyli trylionami dolarów wpompowanych w system bankowy dla ratowania honoru spekulantów. Ponieważ pieniądze te nie powodują polepszenia sytuacji statystycznego Kowalskiego, który żyje z dochodów miesięcznych, przeto brokerzy wciąż nie są w stanie znaleźć na rynku odpowiedzialnych kredytobiorców. A bogaci inwestorzy w dalszym ciągu nie mają gdzie lokować swoich olbrzymich funduszy, aby przynosiły spekulacyjne dochody.</p><p>Rozwiązaniem tego hiper równania jest spodziewana inflacja, połączona z upadkiem kolejnych inwestorów i instytucji finansowych, którzy dali się złapać na trefne instrumenty w rodzaju CDO.</p><p><a href="http://crisisofcredit.com/">http://crisisofcredit.com/</a></p>

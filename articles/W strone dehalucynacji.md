@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <!--104-->
 <p>10.04.2012</p>
 <p>Wywiad w Niezależnej Telewizji z 14 marca 2012 (moje wystąpienie od drugiej godziny podkastu) na temat paradoksów współczesnej ekonomii i sposobów ich pokonania.</p>

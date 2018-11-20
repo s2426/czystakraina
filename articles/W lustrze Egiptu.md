@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <p><img src="{{site.baseurl}}\articles\pictures\465.pira.jpg" align="left" style="margin: 10px 10px" width="200"><!--0-->
 3.02.2011</p><p>Za fasadą demokracji czai się przemoc. Widać to dobitnie na przykładzie Egiptu, gdzie po zdarciu fasadowej dekoracji ujawnia się zaplecze systemu - jego uzbrojeni po zęby obrońcy, którzy walczą o swoje stołki coraz bardziej ociekające krwią obywateli. Niedawno świadkami podobnych scen ulicznych byliśmy w Grecji. Kto następny? - chciałoby się zapytać.</p><p>Coraz ostrzej widać, że demokracja to nieadekwatny do wnętrza szyld, który ma mamić, że władzę w państwie sprawują jego obywatele. Jak ta władza wygląda w praktyce, widzimy obecnie na ulicach Kairu, Aleksandrii i innych miast zarządzanych przez demokratyczny reżim Egiptu. Widać przemoc i butę rządzących oraz ich lęk, który rośnie z każdą wystrzeloną kulą.</p><p>Wielu rzeczy jednak nie widać, bo ludzie naciskający spusty to nie ci sami ludzie, którzy podpisują kontrakty na dostawy broni. Ci nikną za zasłonami tajemnic państwowych i wojskowych i za milczeniem mediów, kto i po co finansuje te dostawy.</p><p>W błysku reporterskich fleszy nie widać tego, że za przemocą kul czai się przemoc milcząca i codzienna - ekonomiczna. To ona jest prawdziwą i dogłębną przyczyną niedoli nie tylko Egiptu, Jemenu czy Tunezji, ale całego świata.</p><p>W kolejce do systemowej rewolty, za Grecją i Egiptem ustawione są
 wszystkie tzw. demokracje, czyli w istocie plutokracje, rządy

@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
 <p><img src="{{site.baseurl}}\articles\pictures\465.frank.jpg" align="left" style="margin: 10px 10px" width="200"><!--234-->
 <p>3.01.2017</p>
 <p>Jak rozwiązać kryzys z kredytami frankowymi, które zdają się być toksycznymi papierami dłużnymi, grożacymi bankom nie tylko utratą znacznych zysków spodziewanych, ale także zapłatą kar i odszkodowań za stosowanie niewłaściwych klauzul w kontraktach kredytowych?</p>

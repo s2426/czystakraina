@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <p><img src="{{site.baseurl}}\articles\pictures\465.tesmokmaly.jpg" align="left" style="margin: 10px 10px" width="200"><!--124-->
 <p>Jonathan Dawson</p>
 <p>(Studium ekowioski Findhorn w Szkocji)</p>

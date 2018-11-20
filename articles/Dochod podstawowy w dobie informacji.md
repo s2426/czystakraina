@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <p><img src="{{site.baseurl}}\articles\pictures\465.teomandalamaly.jpg" align="left" style="margin: 10px 10px" width="200"><!--125-->
 <p>Wpolskiej edycji Le Monde diplomatique nr 9/2012 ukazał się artykuł Łukasza Drozdy pt. „Duża różnica między dochodem powszechnym a gwarantowanym“, który jest przykładem nierozumienia problematyki współczesnej ekonomii przez lewicę.</p>
 <p>W artykule cytowane są fragmenty wypowiedzi Michela Hussona, jednego z lewicowych myślicieli francuskich, podtrzymujące moją tezę, że z powodu nierozpoznania mechanizmów finansowych kryzysu, współczesna lewica błąka się po terenie neoliberalizmu w poszukiwaniu azymutu dla własnych programów, czego efektem jest jej podpieranie statusquo oraz buńczuczność na pokaz, skierowana właściwie nie wiadomo przeciw komu i czemu, skoro nie kwestionowane są przez nią współczesne, neoliberalne dogmaty.</p>

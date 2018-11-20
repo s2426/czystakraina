@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <p><img src="{{site.baseurl}}\articles\pictures\465.Ma2.jpg" align="left" style="margin: 10px 10px" width="200"><!--117-->
 <p>29 czerwca 2012</p>
 <p>Współczesne czasy, poprzedzone wdrożeniem na powszechną skalę komputerów, przenośnych telefonów i internetu, różnią się zasadniczo od czasów je poprzedzających, w których zbieranie i przetwarzanie informacji wiązało się z olbrzymimi kosztami.</p>

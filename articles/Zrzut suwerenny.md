@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <p><img src="{{site.baseurl}}\articles\pictures\465.rurociag.jpg" align="left" style="margin: 10px 10px" width="200"><!--225-->
 <p>26.09.2015</p>
 <p>Pojawiają się coraz częściej głosy, wypowiadane przez członków światowego establishmentu bankowego, o potrzebie przemodelowania polityk dotyczących pieniądza, a zwłaszcza polityki jego kreacji i wprowadzania na rynek w postaci długu.</p>

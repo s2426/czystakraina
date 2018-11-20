@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <p><img src="{{site.baseurl}}\articles\pictures\465.planzmian1.jpg" align="left" style="margin: 10px 10px" width="200"><!--223-->
 1.07.2015</p><p>Pod tytułem "Plan zmian" będę publikował propozycje programowe dla partii politycznych, które chciałyby rzeczywiście, a nie tylko propagandowo, sprostać wyzwaniom współczesnego świata, pełnego sprzeczności i nawarstwiających się problemów, wynikających z grzęźnięcia umysłów w starym paradygmacie, który należy gruntownie przemodelować.</p><p>Zacznę od dołu, od poziomu podstawowego, czyli samorządów. Na tym właśnie poziomie - gmin, powiatów i grup powiatów, czyli regionów - powinno się koncentrować większość reform państwa sieciowego, ku któremu zdąża nasza cywilizacja. Na poziomie lokalnym realizuje się konstytucyjna zasada pomocniczości - kierowania władzy najniżej, gdzie się da.</p><p>Oto program stworzenia podstawowych narzędzi władzy samorządowej:
 <p><b>Lokalny Klaster Samorządowy</b></p>

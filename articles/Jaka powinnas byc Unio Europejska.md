@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <p><img src="{{site.baseurl}}\articles\pictures\465.multic.jpg" align="left" style="margin: 10px 10px" width="200"><!--230-->
 <p>30.08.2016</p>
 <p>Myślę, że jest to ważne pytanie z uwagi na czas, kiedy jest stawiane, czas znaczony Brexitem, immigracją i pełzającym jak żmija kryzysem. Z Unią coś jest nie tak, i to coś leży u samych jej podstaw, a nie w ornamentyce ustaw o krzywiźnie banana. Pewne założenia Unii nie sprawdzają się, więc może warto szczegółowo zbadać to zagadnienie i zastąpić fałszywe założenia naprawdę solidnie i demokratycznie wypracowanymi strategiami na przyszłość.</p>

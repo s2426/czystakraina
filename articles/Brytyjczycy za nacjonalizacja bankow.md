@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <p><img src="{{site.baseurl}}\articles\pictures\465.7360.jpg" align="left" style="margin: 10px 10px" width="200"><!--236-->
 <p>24.10.2017</p>
 <p>Artykuł Owena Jonesa z The Guardian (19 października 2017) cytuje sensacyjne wyniki badań społeczeństwa brytyjskiego po Brexicie. Okazuje się, że połowa ludności Wielkiej Brytanii opowiada się za nacjonalizacją sektora bankowego, czego nie da się niestety dowiedzieć z brytyjskich mediów, które w tej sprawie nabierają wody w usta.</p>

@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <p><img src="{{site.baseurl}}\articles\pictures\465.protest3.jpg" align="left" style="margin: 10px 10px" width="200"><!--201-->
 <p>1.10.2013</p>
 <p>Po pierwsze dlatego, że jest to pierwsze w moim życiu referendum, a przekroczyłem już 60-tkę, więc pójdę choćby z ciekawości, jak przebiega cała procedura. Spodziewam się, że będzie to dla mnie lekcja demokracji i okazja doświadczenia własnych praw obywatelskich.</p>

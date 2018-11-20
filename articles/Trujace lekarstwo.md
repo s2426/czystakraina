@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[![HitCount](http://hits.dwyl.io/czystakraina/{{ post.url }}.svg)](http://hits.dwyl.io/czystakraina/{{ post.url }})
+
 <!--1-->
 Światowe perturbacje finansowo-gospodarcze, których skutki zaczynamy
 odczuwać w domu, pracy i sklepie, mają swoje systemowe przyczyny.
