@@ -7,7 +7,7 @@ title: Strona Główna
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}"><h3>Dawniejszy</h3></a>
   {% else %}
-    <span class="pagination-item older">Dawniejszy</span>
+    <span class="pagination-item older"><h3>Dawniejszy</h3></span>
   {% endif %}
   </div>
   <div class='menu' id='right'>
@@ -15,7 +15,7 @@ title: Strona Główna
   
     <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><h3>Nowszy</h3></a>
   {% else %}
-    <span class="pagination-item newer">Nowszy</span>
+    <span class="pagination-item newer"><h3>Nowszy</h3></span>
   {% endif %}
 </div>
 
