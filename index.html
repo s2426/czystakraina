@@ -3,6 +3,22 @@ layout: default
 title: Strona Główna
 ---
 
+<div class='menu' id='left'>
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Dawniejszy</a>
+  {% else %}
+    <span class="pagination-item older">Dawniejszy</span>
+  {% endif %}
+  </div>
+  <div class='menu' id='right'>
+  {% if paginator.previous_page %}
+  
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Nowszy</a>
+  {% else %}
+    <span class="pagination-item newer">Nowszy</span>
+  {% endif %}
+</div>
+
 <div class="posts">
   {% for post in paginator.posts %}
   <article class="post">
@@ -20,19 +36,5 @@ title: Strona Główna
 </div>
 
 
- <div class='menu' id='left'>
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Dawniejszy</a>
-  {% else %}
-    <span class="pagination-item older">Dawniejszy</span>
-  {% endif %}
-  </div>
-  <div class='menu' id='right'>
-  {% if paginator.previous_page %}
-  
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Nowszy</a>
-  {% else %}
-    <span class="pagination-item newer">Nowszy</span>
-  {% endif %}
-  </div>
+ 
 
