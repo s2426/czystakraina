@@ -3,7 +3,7 @@ layout: post
 title: Jak to powinno być urządzone
 ---
 
-<p><img src="{{site.baseurl}}\articles\pictures\465.dobrostan.jpg" align="left" style="margin: 10px 10px" width="200"><!--235-->
+<p><img src="{{site.baseurl}}\public\pictures\465.dobrostan.jpg" align="left" style="margin: 10px 10px" width="200"><!--235-->
 <p>31.05.2017</p>
 <p>To tylko kilka zagadnień, ale jakże ważnych dla naszego dobrobytu...</p>
 <p>Najważniejsza jest oczywiście reforma banków, które w perspektywie nadchodzących lat muszą zostać systemowo zreformowane, aby świat nie pogrążył się w chaosie.</p>

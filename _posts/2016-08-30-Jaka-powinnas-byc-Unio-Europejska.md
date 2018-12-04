@@ -3,7 +3,7 @@ layout: post
 title: Jaka powinnaś być Unio Europejska
 ---
 
-<p><img src="{{site.baseurl}}\articles\pictures\465.multic.jpg" align="left" style="margin: 10px 10px" width="200"><!--230-->
+<p><img src="{{site.baseurl}}\public\pictures\465.multic.jpg" align="left" style="margin: 10px 10px" width="200"><!--230-->
 <p>30.08.2016</p>
 <p>Myślę, że jest to ważne pytanie z uwagi na czas, kiedy jest stawiane, czas znaczony Brexitem, immigracją i pełzającym jak żmija kryzysem. Z Unią coś jest nie tak, i to coś leży u samych jej podstaw, a nie w ornamentyce ustaw o krzywiźnie banana. Pewne założenia Unii nie sprawdzają się, więc może warto szczegółowo zbadać to zagadnienie i zastąpić fałszywe założenia naprawdę solidnie i demokratycznie wypracowanymi strategiami na przyszłość.</p>
 <p>Nie sprawdza się przede wszystkim założenie kierunku coraz większej federalizacji Unii. Poczatkiem dynamizacji tego procesu stała się waluta euro i unia walutowa, która zamiast suplementować istniejące waluty narodowe, substytuowała je, czyli de facto eliminowała. </p>

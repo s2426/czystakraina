@@ -3,7 +3,7 @@ layout: post
 title: Charytatywny piewca wolności
 ---
 
-<p><img src="{{site.baseurl}}\articles\pictures\465.soros.jpg" align="left" style="margin: 10px 10px" width="200"><!--219-->
+<p><img src="{{site.baseurl}}\public\pictures\465.soros.jpg" align="left" style="margin: 10px 10px" width="200"><!--219-->
 <p>11.01.2015</p>
 <p>Taki oto tekst George'a Sorosa ukazał się w "Rzeczpospolitej"</p>
 <p>(<a href="http://www.ekonomia.rp.pl/artykul/706205,1169937-George-Soros--Pomozmy-reformatorom-na-Ukrainie.html?p=1">http://www.ekonomia.rp.pl/artykul/706205,1169937-George-Soros--Pomozmy-reformatorom-na-Ukrainie.html?p=1</a>):</p>

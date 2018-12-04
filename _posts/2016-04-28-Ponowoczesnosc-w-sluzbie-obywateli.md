@@ -3,7 +3,7 @@ layout: post
 title: Ponowoczesność w sŁużbie obywateli
 ---
 
-<p><img src="{{site.baseurl}}\articles\pictures\465.positive.jpg" align="left" style="margin: 10px 10px" width="200"><!--228-->
+<p><img src="{{site.baseurl}}\public\pictures\465.positive.jpg" align="left" style="margin: 10px 10px" width="200"><!--228-->
 <p>28.04.2016</p>
 <p>Dochód podstawowy jest elementem wizji transformacyjnej społeczeństwa demokratycznego. Głównymi przeszkodami w jego wdrożeniu na poziomie ogólnokrajowym są: 1) niesuwerenny pieniądz narodowy, 2) nieszczelny system podatkowy.</p>
 <p>Jedną z koncepcji fazy eksperymentalnej wdrożenia dochodu podstawowego jest jego wypłata w samorządowej walucie lokalnej (elektronicznym rabatowym kuponie podatkowym). Ogranicza to pole eksperymentu do miasta lub regionu i likwiduje wspomniane przeszkody.</p>

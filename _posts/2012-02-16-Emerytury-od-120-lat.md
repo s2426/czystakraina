@@ -3,7 +3,7 @@ layout: post
 title: Emerytury od 120 lat
 ---
 
-<p><img src="{{site.baseurl}}\articles\pictures\465.emerytury.jpg" align="left" style="margin: 10px 10px" width="200"><!--101-->
+<p><img src="{{site.baseurl}}\public\pictures\465.emerytury.jpg" align="left" style="margin: 10px 10px" width="200"><!--101-->
 16.02.2012</p><p>
 </p><p>
 Tendencja z wiekiem emerytalnym wydaje się wyraźna - Polska na razie

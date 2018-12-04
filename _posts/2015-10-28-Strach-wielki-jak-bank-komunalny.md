@@ -4,7 +4,7 @@ title: Strach wielki jak bank komunalny
 ---
 
 
-<p><img src="{{site.baseurl}}\articles\pictures\465.nbp.jpg" align="left" style="margin: 10px 10px" width="200"><!--226-->
+<p><img src="{{site.baseurl}}\public\pictures\465.nbp.jpg" align="left" style="margin: 10px 10px" width="200"><!--226-->
 <p>28.10.2015</p>
 
 <p>Serwis money.pl przedstawia grafik zmian w 9-osobowej Radzie Polityki Pieniężnej, która rządzi joistickiem stóp procentowych. RPP będzie należeć do PiS już w najbliższą zimę, a na początku lata wygasa kadencja szefa NBP. Oznacza to, że PiS uzyska pełnię władzy monetarnej w czerwcu 2016 roku.</p>

@@ -3,7 +3,7 @@ layout: post
 title: Genetycznie zmodyfikowany tygrys
 ---
 
-<p><img src="{{site.baseurl}}\articles\pictures\465.tygrys.jpg" align="left" style="margin: 10px 10px" width="200"><!--100-->
+<p><img src="{{site.baseurl}}\public\pictures\465.tygrys.jpg" align="left" style="margin: 10px 10px" width="200"><!--100-->
 10.02.2012</p><p>
 </p><p>
 Tym razem będzie nie o Stanach Zjednoczonych ;) ale o tygrysach

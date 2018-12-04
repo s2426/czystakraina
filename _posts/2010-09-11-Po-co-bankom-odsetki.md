@@ -3,7 +3,7 @@ layout: post
 title: Po co bankom odsetki
 ---
 
-<p><img src="{{site.baseurl}}\articles\pictures\465.kasa.jpg" align="left" style="margin: 10px 10px" width="200"><!--46-->
+<p><img src="{{site.baseurl}}\public\pictures\465.kasa.jpg" align="left" style="margin: 10px 10px" width="200"><!--46-->
 <p>11.09.2010</p><p>Dodatnie
 salda właścicieli kont bankowych reprezentują ich pracę włożoną
 w przeszłości w wykonanie pewnych usług bądź rzeczy. Są więc

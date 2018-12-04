@@ -3,7 +3,7 @@ layout: post
 title: Praca dla pracy
 ---
 
-<p><img src="{{site.baseurl}}\articles\pictures\465.mrowka.jpg" align="left" style="margin: 10px 10px" width="200"><!--12-->
+<p><img src="{{site.baseurl}}\public\pictures\465.mrowka.jpg" align="left" style="margin: 10px 10px" width="200"><!--12-->
 <p>Wariactwo współczesnego świata
 polega na tym, że dziś jedynie technologie korzystają z
 gwałtownego rozwoju nauki, na którą przeznaczane są olbrzymie

@@ -3,7 +3,7 @@ layout: post
 title: Spiskowa praktyka bankowa w USA
 ---
 
-<p><img src="{{site.baseurl}}\articles\pictures\465.fedNY.jpg" align="left" style="margin: 10px 10px" width="200"><!--25-->
+<p><img src="{{site.baseurl}}\public\pictures\465.fedNY.jpg" align="left" style="margin: 10px 10px" width="200"><!--25-->
 04.02.2010</p><p>Zeszłotygodniowe przesłuchania w Kongresie USA nie pozostawiają wątpliwości
 co do tego, że spisek amerykańskich elit finansowych jest znacznie
 szerszy, niż można było do niedawna przypuszczać.</p><p>

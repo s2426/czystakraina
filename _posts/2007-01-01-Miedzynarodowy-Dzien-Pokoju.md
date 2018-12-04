@@ -3,7 +3,7 @@ layout: post
 title: Międzynarodowy Dzień Pokoju
 ---
 
-<p><img src="{{site.baseurl}}\articles\pictures\465.zielono-zielona.jpg" align="left" style="margin: 10px 10px" width="200"><!--5-->
+<p><img src="{{site.baseurl}}\public\pictures\465.zielono-zielona.jpg" align="left" style="margin: 10px 10px" width="200"><!--5-->
 <p>Jako inicjatywa osób zajmujących się promocją pokoju i odczuwających potrzebę pokoju, przekazujemy bardzo ważną informację:</p><p>7
 września 2001 roku Zgromadzenie Ogólne Narodów Zjednoczonych
 postanowiło, że począwszy od roku 2002, corocznie, 21 września
