@@ -5,17 +5,17 @@ title: Strona Główna
 
 <div class='menu' id='left'>
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}"><h3>Dawniejsze</h3></a>
+    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Dawniejsze</a>
   {% else %}
-    <span class="pagination-item older"><h3>Dawniejszy</h3></span>
+    <span class="pagination-item older">Dawniejsze</span>
   {% endif %}
   </div>
   <div class='menu' id='right'>
   {% if paginator.previous_page %}
   
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><h3>Nowsze</h3></a>
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Nowsze</a>
   {% else %}
-    <span class="pagination-item newer"><h3>Nowszy</h3></span>
+    <span class="pagination-item newer">Nowsze</span>
   {% endif %}
 </div>
 
