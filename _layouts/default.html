@@ -15,12 +15,14 @@
 			<!--<span id='flash'></span>-->
 			<!--<img src='/header.jpg' alt=''>-->
 		</h1>
-		<a href="/" title="Home">{{ site.title }}</a>
+		<ul id='quick_menu'>
+		<li><a href="/" title="Strona główna">Strona główna</a>
 
 		{% for page in site.pages_list %}
 		  &nbsp;&nbsp;&nbsp;
-		  <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
+		  <li><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
 		{% endfor %}
+		</ul>
 		</h3>
       </header>
 
