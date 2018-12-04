@@ -1,46 +1,44 @@
 <!DOCTYPE html>
-<html>
-<head>
-<link rel="image_src" href="{{site.baseurl}}/images/logo_CK.gif">
-<meta charset='utf-8'>
-<meta name="google-site-verification" content="ecghPojvV4ekuabVsk0K7QoXjMN3-5ZSLk_AKjoWvBY" />
-<title>Czysta Kraina</title>
-<!--[if IE]>
-<style type='text/css.html'>
-body { width: 720px; }
-</style>
-<![endif]-->
+<html lang="en">
 
-<link rel='stylesheet' href='{{site.baseurl}}\index.css' type='text/css'>
-<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js'></script>
-<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js'></script>
-</head>
-<body class='index'>
-<div id='all'><div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) {return;}  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/pl_PL/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
-<h1>
-	<!--<span id='flash'></span>-->
-	<!--<img src='/header.jpg' alt=''>-->
-</h1>
-<div class='menu' id='left'></div>
-<div class='menu' id='right'></div>
-<div id='content'>
-{{ content }}
-</div><!--koniec content-->
-<ul id='quick_menu'>
-	<li><a href='{{site.baseurl}}\index.html'>Strona główna</a><!--<li><a href='/forum.html'>Forum</a>--><li><a href='{{site.baseurl}}\contact.html'>Kontakt</a><li><a href='{{site.baseurl}}\articles.html'>Materiały</a><li><a href='{{site.baseurl}}\links.html'>Linki</a>
-</ul><div style="margin-top: 0px;" class="fb-like" data-width="650" data-show-faces="true"></div>
-<br><br>
-<address><p id='footer' lang='en-us'></p></address>
-</div><!-- #all -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-try{
-var pageTracker = _gat._getTracker("UA-16300756-1");
-pageTracker._trackPageview();
-} catch(err) {}
-</script>
-</body>
+  {% include head.html %}
+
+  <body>
+
+    <div class="container content">
+      <header class="masthead">
+        <h3 class="masthead-title">
+		<a href="/" title="Home">{{ site.title }}</a>
+
+		{% for page in site.pages_list %}
+		  &nbsp;&nbsp;&nbsp;
+		  <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
+		{% endfor %}
+		</h3>
+      </header>
+
+      <main>
+        {{ content }}
+      </main>
+	  
+	 <!-- {% include comments.html %}-->
+
+      <footer class="footer">
+        <small>
+          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
+        </small>
+      </footer>
+    </div>
+
+    {% if site.analytics_id %}
+     <script>
+       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+       ga('create', '{{ site.analytics_id }}', 'auto');
+       ga('send', 'pageview');
+     </script>
+    {% endif %}
+  </body>
 </html>

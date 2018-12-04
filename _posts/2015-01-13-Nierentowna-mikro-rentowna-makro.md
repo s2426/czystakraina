@@ -1,0 +1,8 @@
+---
+layout: post
+title: Nierentowna-mikro rentowna-makro
+---
+
+<p><img src="{{site.baseurl}}\articles\pictures\465.gornicy.jpg" align="left" style="margin: 10px 10px" width="200"><p><img src="{{site.baseurl}}\articles\pictures\.jpg" align="left" style="margin: 10px 10px" width="200"><!--220-->
+<p>13.01.2015</p><p>Ekonomia to nierzadko żonglerka mikroskalą. W makroskali, czyli ujmując rzecz bardziej holistycznie, całościowo, wyniki są całkiem inne, niż pod silną neoliberalną lupą, pod którą liczy się tylko szybki indywidualny zysk. Celnie opisuje to prof. Wł. Bojarski:</p><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>"Rozważana przykładowo kopalnia nierentowna, przynosząca straty w skali mikroekonomicznej jest mimo to efektywna dla kraju w skali makroekonomicznej; przynosi ona znaczne dochody netto ludności jak również poważne dochody budżetów i funduszy publicznych netto, po odliczeniu deficytów rocznych i kosztów końcowej likwidacji kopalni. Dalsza eksploatacja tej kopalni przyczynia się do wzrostu dobrobytu w kraju i powinna być kontynuowana przez cały badany okres (5 -10 lat), pod warunkiem, że ma ona zbyt przy uwzględnionym deficycie finansowym"</p></blockquote>
+<blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>Wł. Bojarski, "Efektywność systemowa przedsięwzięć gospodarczych", Wyższa Szkoła Zarządzania i Przedsiębiorczości im. Bogdana Jańskiego, Warszawa 2001, s.147.</p></blockquote></blockquote>

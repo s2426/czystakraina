@@ -1,3 +1,39 @@
-layout: default
-title: Czysta Kraina
+# Permalinks
+permalink:           pretty
 
+# Setup
+title:               Czysta Kraina
+tagline:             Czysta Kraina
+url:                 http://czystakraina.pl
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Krzysztof Lewandowski
+  url:               https://pl-pl.facebook.com/leevandoe
+  email:             krzysztofjanlewandowski@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/s2426/czystakraina
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
+
+analytics_id:        UA-16300756-1

@@ -1,0 +1,14 @@
+---
+layout: post
+title: Pomysł dla frankowiczow
+---
+
+<p><img src="{{site.baseurl}}\articles\pictures\465.frank.jpg" align="left" style="margin: 10px 10px" width="200"><!--234-->
+<p>3.01.2017</p>
+<p>Jak rozwiązać kryzys z kredytami frankowymi, które zdają się być toksycznymi papierami dłużnymi, grożacymi bankom nie tylko utratą znacznych zysków spodziewanych, ale także zapłatą kar i odszkodowań za stosowanie niewłaściwych klauzul w kontraktach kredytowych?</p>
+<p>W mnogości propozycji zabrakło chyba prostego i sprawdzonego w działaniu rozwiązania, które z powodzeniem po 2007 roku zastosowało kilka banków centralnych, ratując przed upadkiem wielkie banki komercyjne i powiązane z nimi towarzystwa ubezpieczeniowe, które w swoich aktywach miały znaczne ilości toksycznych kredytów hipotecznych.</p>
+<p>Tym rozwiązaniem jest luzowanie ilościowe, zwane po angielsku quantitative easing - polegające na wykupie od banków komercyjnych ich toksycznych długoterminowych papierów dłużnych. Na ten cel amerykański bank centralny wyemitował metodą księgową 1,700 mld dolarów, za które nabył toksyczne papiery od upadających gigantów, takich jak AIG czy CityBank.</p>
+<p>Podobną sytuację z bankami mamy obecnie w Polsce. Banki komercyjne, które w swoich portfelach kredytowych mają duże pakiety toksycznych kredytów frankowych, faktycznie powinny upaść, gdy przegrają wszystkie procesy z pokrzywdzonymi kredytobiorcami w pseudofrankach. Jest jednak dla nich ratunek systemowy w postaci poluzowania ilościowego. Jest to także droga do rozwiązania satysfakcjonującego nabitych w butelkę frankowiczów.</p>
+<p>Okazuje się, że quantitative easing, mimo że prowadzone na wielką skalę przez Federal Reserve i Europejski Bank Centralny, nie spowodowały żadnej presji inflacyjnej, gdyż nowo wyemitowany pieniądz nie opuścił sektora finansowego i nie trafił na rynek , a jedynie poprawił bilanse księgowe spółek, które posiadały w swoich aktywach trefne źródła dochodów.</p>
+<p>Quantitative easing w wykonaniu NBP mogłoby polegać na wykupie od banków komercyjnych wszystkich kredytów frankowiczów. Tą drogą banki komercyjne uwolniłyby się od ryzyka upadku w wyniku przegranych procesów z kredytobiorcami, a bank centralny miałby wolną rękę w przewalutowaniu kredytów frankowych na złote w dacie zawarcia umowy kredytowej i oprocentowaniu tych umów średnim procentem od umów kredytowych złotowych, zawieranych w tym czasie.</p>
+<p>Banki komercyjne stracą na tej operacji swoje dochody przyszłych okresów, jakie naliczają obecnie od drogiego franka, ale uwolnią się od groźby bankructwa i poprawią własne bilanse, co powinno im zapewnić bezsporne dochody w następnych latach. Zaś nabici w butelkę frankowicze uzyskają tą drogą realne wsparcie od banku centralnego, który od tego jest, aby zaprowadzał porządek w systemie.</p><p>Krzysztof Lewandowski</p>

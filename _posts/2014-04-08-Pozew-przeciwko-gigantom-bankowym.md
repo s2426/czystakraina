@@ -1,0 +1,11 @@
+---
+layout: post
+title: Pozew przeciwko gigantom bankowym
+---
+
+<p><img src="{{site.baseurl}}\articles\pictures\465.ellengame.jpg" align="left" style="margin: 10px 10px" width="200"><!--212-->
+<p>8.04.2014</p><p>4 marca 2014 FDIC (Fedreal Deposit Insurance Corporation) złożył pozew przeciwko szesnastubankom, w tym trzem największym bankom USA, z powodu zmowy tych banków i manipulowania przez nie indeksem LIBOR na szkodę kredytobiorców.</p>
+<p>O ile wcześniejsze pozwy zbiorowe klientów oszukanych na manipulacjach wskaźnikiem LIBOR zostały przez sąd odrzucone bez ich rozpatrywania, o tyle włączenie się do procesu FDIC, czyli strony bezpośrednio poszkodowanej, ubezpieczyciela wkładów oszczędnościowych, który musiał wypłacić olbrzymie sumy klientom zbankrutowanych banków, znacznie utrudni odłożenie sprawy ad acta, gdyż po pierwsze FDIC jest bezsprzecznie stroną w sprawie, a po drugie oskarża banki o naruszenie wielu praw, a nie tylko prawa antymonopolowego, o co oskarżali banki klienci.</p>
+<p>Dla uzmysłowienia sobie skali ewentualnych roszczeń, weźmy pod uwagę, że na rynku instrumentów pochodnych, na którym manipulacje indeksem LIBOR najbardziej się odciskają, łączna wartość zawartych kontraktów typu interest-rate swap (odsetkowy swap) sięga 426 bilionów dolarów, co odpowiada mniej więcej siedmiokrotności PKB wszystkich krajów na świecie.</p>
+<p>Oszustwa banków poprzez manipulację indeksem LIBOR polegały na tym, że w umowach kredytowych banki posługiwały się dwoma indeksami: LIBOR i SIFMA. Manipulując jednym z tych indeksów, LIBOREM, po 2008 roku banki osiągnęły miliardowe zyski, za które zapłacili podatnicy i studenci.</p>
+<p>Szczegóły tych bankowych przekrętów na olbrzymią skalę ujawnia Ellen Brown w swoim ostatnim artykule. Naprawdę warto go uważnie przeczytać nie tylko dlatego, że Autorka startuje w wyborach na urząd sekretarza skarbu stanu Kalifornia i naprawdę ma niezłe rozeznanie w kwestiach bankowości i finansów, ale przede wszystki dlatego, że w tekście znajdują się wskazówki, jak wyjść o opresji prywatnej kreacji pieniądza dłużnego, w której znajduje się dzisiaj świat.</p><p><a href="http://www.opednews.com/articles/The-Global-Banking-Game-Is-by-Ellen-Brown-Banking-140414-606.html" title="" target="">http://www.opednews.com/articles/The-Global-Banking-Game-Is-by-Ellen-Brown-Banking-140414-606.html</a></p>
