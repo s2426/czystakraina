@@ -32,8 +32,9 @@ gems:
   - jekyll-gist
 
 pages_list:       
-  About: '/about'
-  Archive: '/archive'
-  Feed: '/atom.xml'
+  Kontakt: '/kontakt'
+  Artykuły: '/artykuly'
+  Linki: '/linki'
+#  Feed: '/atom.xml'
 
 analytics_id:        UA-16300756-1
