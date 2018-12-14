@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pociąg dłuższy niż równik
+title: Pociąg dłuższy niż równik.
 ---
 
 <p><img src="{{site.baseurl}}\public\pictures\465.bankrupt.jpg" align="left" style="margin: 10px 10px" width="200"><!--26-->
