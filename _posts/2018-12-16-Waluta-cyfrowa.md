@@ -6,18 +6,17 @@ title: Waluta cyfrowa
 <p><p><img src="{{site.baseurl}}\public\pictures\numerki.jpeg" align="left" style="margin: 10px 10px" width="200"><!--240-->
 16.12.2018</p>
 <p>Joseph Huber</p>
+<p> </p>
 <p>Waluta cyfrowa</p>
-<p>J
-
-Utrzymanie czy pokonanie reżimu pieniądza bankowego?</p>
+<p>Utrzymanie czy pokonanie reżimu pieniądza bankowego?</p>
 
 <p>Założenia projektowe, które czynią różnicę.</p>
 
-<p></p> 
+<p> </p> 
 
  
 
- 
+<p> </p> 
 
  
 
@@ -29,7 +28,7 @@ Utrzymanie czy pokonanie reżimu pieniądza bankowego?</p>
 
  
 
-<p></p> 
+<p> </p> 
 
  
 
@@ -37,18 +36,18 @@ Utrzymanie czy pokonanie reżimu pieniądza bankowego?</p>
 
 <p>Warszawa, listopad 2018</p>
 
-
+<p> </p>
 <p>English version: "Digital Currency</p>
 <p>Maintaining or Overcoming the Bankmoney Regime?</p> 
 <p>Design principles that make the difference”.</p>
  
-<p>© Copyright by Joseph Huber, wrzesień 2018.</p>
+<p> </p><p>© Copyright by Joseph Huber, wrzesień 2018.</p>
  
-<p>(CC) Copyleft for the Polish translation by Krzysztof Lewandowski, Creative Commons (CC BY-NC-ND 4.0), listopad 2018.</p>
+<p> </p><p>(CC) Copyleft for the Polish translation by Krzysztof Lewandowski, Creative Commons (CC BY-NC-ND 4.0), listopad 2018.</p>
  
 <p>Tłumaczenie: Krzysztof Lewandowski</p>
 
-<p>Spis treści</p>
+<p> </p><p><c>Spis treści</c></p>
 
  
 
