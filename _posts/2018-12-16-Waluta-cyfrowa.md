@@ -7,7 +7,176 @@ title: Waluta cyfrowa
 16.12.2018</p>
 <p>Joseph Huber</p>
 <p>Waluta cyfrowa</p>
-<p>Joseph Huber
+<p>J
+
+Utrzymanie czy pokonanie reżimu pieniądza bankowego?</p>
+
+<p>Założenia projektowe, które czynią różnicę.</p>
+
+<p></p> 
+
+ 
+
+ 
+
+ 
+
+<p>Tłumaczył: Krzysztof Lewandowski</p>
+
+ 
+
+ 
+
+ 
+
+<p></p> 
+
+ 
+
+ 
+
+<p>Warszawa, listopad 2018</p>
+
+
+<p>English version: "Digital Currency</p>
+<p>Maintaining or Overcoming the Bankmoney Regime?</p> 
+<p>Design principles that make the difference”.</p>
+ 
+<p>© Copyright by Joseph Huber, wrzesień 2018.</p>
+ 
+<p>(CC) Copyleft for the Polish translation by Krzysztof Lewandowski, Creative Commons (CC BY-NC-ND 4.0), listopad 2018.</p>
+ 
+<p>Tłumaczenie: Krzysztof Lewandowski</p>
+
+<p>Spis treści</p>
+
+ 
+
+ 
+
+ 
+
+<p>Wstęp. Znaczenie waluty cyfrowej 4</p>
+
+ 
+
+<p>Współczesne projekty systemowe 4</p>
+
+<p>Kryptobilon czy pieniądz depozytowy? 4</p>
+
+<p>Warianty WCBC Banku Anglii 6</p>
+
+<p>Koncepcja e-korony Szwedzkiego Riksbank 9</p>
+
+<p>Model podstawowy Banku Anglii 10</p>
+
+<p>Korzyści z wprowadzenia waluty cyfrowej 11</p>
+
+<p>Bezpieczeństwo, zaufanie i akceptacja 11</p>
+
+<p>Wygoda i koszty 12</p>
+
+<p>Poprawiona skuteczność polityki monetarnej 12</p>
+
+<p>Wzrost senioratu 13</p>
+
+<p>Moment startowy księgowania po stronie aktywów pieniądza banku centralnego 13</p>
+
+<p>Prawdziwe i fikcyjne problemy związane ze współistnieniem pieniądza bankowego i waluty cyfrowej 13</p>
+
+<p>Kontynuacja kreacji pieniądza bankowego jako główne źródło niestabilności 13</p>
+
+<p>Techniczna kompatybilność pieniądza bankowego i waluty cyfrowej 14</p>
+
+<p>Osłabiona zdolność banków do pożyczania i inwestowania? 15</p>
+
+<p>Ryzyko runu na banki 16</p>
+
+<p>Oprocentowanie rachunków depozytowych w walucie WCBC w celu kontroli relacji jej ilości do ilości pieniądza bankowego 17</p>
+
+<p>Gwarancje państwowe dla pieniądza bankowego 18</p>
+
+<p>Parytet pieniądza bankowego do waluty cyfrowej. Nowy rodzaj sytuacji Greshama? 19</p>
+
+<p>Założenia projektowe, które czynią różnicę 21</p>
+
+<p>Zapewnienie ogólnokrajowego dostępu do rachunków walutowych 22</p>
+
+<p>Połączenie waluty cyfrowej i rezerw międzybankowych w jeden obieg 22</p>
+
+<p>Waluta cyfrowa jako powszechny środek płatniczy: brak ograniczeń dostępu i restrykcji odnośnie względnej ilości oraz użycia 23</p>
+
+<p>Pełna wymienialność pieniądza bankowego i suwerennej waluty cyfrowej 23</p>
+
+<p>Emisja waluty cyfrowej nie tylko przez sektor bankowy 23</p>
+
+<p>Instytucje publiczne a użycie rachunków walutowych 23</p>
+
+<p>Wycofanie lub co najmniej znacząca redukcja państwowych gwarancji dla pieniądza banków 24</p>
+
+<p>Oprocentowanie depozytów w walucie cyfrowej takie samo, jak oprocentowanie depozytów w pieniądzu bankowym 25</p>
+
+<p>Wykluczenie oprocentowania ujemnego 25</p>
+
+<p>Uwagi końcowe 27</p>
+
+<p>Referencje 29</p>
+<p></p>
+<p>Wstęp. Znaczenie waluty cyfrowej</p>
+
+ 
+
+<p></p><p>W niniejszym artykule podejmowana jest ocena waluty cyfrowej banku centralnego, emitowanej do publicznego użycia wespół z pieniądzem bankowym[1]. Wiodącą kwestią jest to, czy wprowadzenie do publicznego obrotu waluty cyfrowej banku centralnego posłuży stabilizacji, a przez to utrzymaniu obecnego reżimu pieniądza bankowego, czy może być także postrzegane jako krok w stronę przyszłego systemu pieniądza suwerennego. Odpowiedź na to pytanie zależy od zakresu wdrożenia pewnej liczby krytycznych założeń projektowych.</p>
+
+<p>Odnośnie terminologii, waluta cyfrowa banku centralnego jest tutaj nazywana w uproszczeniu walutą cyfrową lub suwerennym pieniądzem cyfrowym. Słowo cyfrowy oznacza, że chodzi tu o pieniądz pozostający na jakimś rachunku, w odróżnieniu od gotówki znajdującej się w czyichś rękach. Zarówno termin suwerenny, jak i termin waluta, zakładają, że jest to pieniądz pochodzący z banku centralnego, który jest instytucją monetarną suwerennego państwa-narodu lub społeczności państw-narodów, bądź też skarbca czy innego państwowego ciała emitującego walutę na danym obszarze.</p>
+
+<p>W przeciwieństwie do tego, pieniądz bankowy można z pewnością nazwać pieniądzem cyfrowym lub pieniądzem elektronicznym, jednak nie cyfrową walutą, gdyż waluta, poza odniesieniem do monetarnej jednostki miary, oznacza tradycyjnie suwerenny bilon lub banknoty banku centralnego lub, w obecnie uwspółcześnionym sensie i w znaczeniu ogólnym – pieniądz suwerenny w dowolnej formie.</p>
+
+ 
+
+<p></p><p>Współczesne projekty systemowe</p>
+
+<p></p> 
+
+<p>Kryptobilon czy pieniądz depozytowy?</p>
+
+<p></p><p>Dyskusja dotycząca gotówki cyfrowej czy cyfrowej waluty rozgorzała począwszy od 2013/14 roku, w rezultacie szumu medialnego wokół kryptowalut opartych o rozproszone rejestry i technologię blockchain, w rodzaju Bitcoina i 1900 innych kryptowalut istniejących we wrześniu 2018 roku.[2] Wyobrażano sobie walutę cyfrową jako kryptowalutę denominowaną w odpowiednich narodowych jednostkach miary. Określenia w rodzaju Fedcoin, IMFcoin czy RSCoin wyraźnie oznaczały właśnie to.[3] Liczne oświadczenia Banku Anglii sugerowały, że RSCoin, a następnie idea Waluty Cyfrowej Emitowanej przez Bank Centralny (WCBC) odnosiły się do specjalnego rodzaju kryptobilonu, który miał być emitowany przez ten Bank.[4]</p>
+
+<p>Z drugiej strony, oświadczano, że waluta WCBC ma być nowym rodzajem pieniądza, który odeprze potencjalne wyzwanie ze strony kryptowalut, nie będąc jednak sama kryptowalutą. Waluta WCBC mogłaby więc także istnieć w postaci "systemu rachunków", czyli niegotówkowego pieniądza banku centralnego na rachunkach dostępnych w ogólnym obrocie publicznym, będącego rozszerzoną postacią stanów rachunków w banku centralnym – pieniądzem depozytowym poza konwencjonalnymi tzw. rezerwami (te ostatnie są wykorzystywane wyłącznie w transakcjach międzybankowych). Określenie Fedwire dla wszystkich jasno odnosi się do systemu rachunków dla obsługi obrotu cyfrową walutą pod postacią pieniądza depozytowego banku centralnego.[5] Szwedzki projekt waluty elektronicznej Riksbanku, nazywany e-koroną, jest wyraźnie pomyślany jako system oparty na rachunkach.[6] W następnych projektach otwartą pozostawała kwestia, czy waluta WCBC miałaby być kryptobilonem, czy pieniądzem depozytowym (tzn. pieniądzem-na-rachunku).[7]</p>
+
+<p>Z wielu powodów kryptobilon, oparty na technologii blockchain lub rozproszonego rejestru, nie ma w najbliższej przyszłości żadnej szansy na zastąpienie pieniądza depozytowego na rachunku. Jednym z problemów jest wysoka nieprzewidywalność kryptobilonu, związana z używaniem go raczej jako spekulacyjnego żetonu w kasynie, niż środka płatniczego. Transferowanie kryptobilonu nie jest, póki co, wystarczająco szybkie i wymaga zbyt dużych nakładów energii, jest zatem stosunkowo drogie. Platformy handlu kryptowalutami są podatne na ataki hakerskie. Nie istnieje gwarancja ochrony i nierozstrzygnięte pozostają kwestie prawne odpowiedzialności i identyfikacji.[8] Dla wprowadzenia cyfrowej waluty w zupełności wystarczą wypróbowane i sprawdzone metody zarządzania rachunkami i płatnościami z konta na konto.[9]</p>
+
+<p>A.Grym, który odpowiada za cyfryzację w Banku Finlandii, uważa ideę kryptowaluty banku centralnego za chimerę. Jeśli w ogóle, rozproszone rejestry i blockchainy będą wykorzystywane jako alternatywne, kryptograficzne metody zarządzania konwencjonalnymi rachunkami i płatnościami. W tym sensie Holenderski Bank Narodowy (DNB) prowadził w 2015 roku eksperymenty z wykorzystaniem DNBcoin w wewnętrznych rozliczeniach konwencjonalnych aktywów i zobowiązań.[10] Pod względem monetarnym i gospodarczym nie wiązało się to z żadną zmianą: "Gdy pieniądz jest cyfrowy, ma on formę stanu konta. ...Waluta centralna banku centralnego oznaczałaby praktycznie rachunek bankowy w banku centralnym".[11]<p>
+
+<p></p><p>Warianty WCBC Banku Anglii</p>
+
+<p></p><p>Barrdear/Kumhof z Banku Anglii byli pierwszymi, którzy zaprezentowali koncepcję Waluty Cyfrowej Banku Centralnego (WCBC) w roku 2016, następnie rozwiniętą w pracy Kumhof/Noone z 2018 roku.[12] Oryginalnie WCBC została zdefiniowana jako "Powszechnie dostępne i oprocentowane zobowiązanie banku centralnego, wdrożone za pomocą rozproszonego rejestru, konkurujące z depozytami bankowymi jako środek wymiany... zapewniając powszechny, elektroniczny, 24/7, denominowany w walucie narodowej, dostęp" do bilansu banku centralnego. WCBC jest traktowana jako metoda wdrożenia ubocznej idei "depozytowych rachunków walutowych" Tobina z 1987 roku[13].</p>
+
+<p>W kontynuacyjnej wersji z roku 2018 "nie zakłada się wykorzystanie technologii rozproszonego rejestru". Co ważniejsze, WCBC jest dostępna jako powszechny środek płatniczy tylko w jednym z trzech wariantów. Inne dwa warianty ograniczają dostęp do WCBC tylko dla instytucji finansowych.[14]</p>
+
+<p>Wariant 1. Dostęp dla instytucji finansowych. W tym wariancie waluta WCBC jest wykorzystywana wyłącznie przez monetarne i niemonetarne instytucje finansowe. Inne firmy, prywatne i publiczne gospodarstwa, są wyłączone. Banki i inne instytucje finansowe są na równych warunkach dopuszczone do WCBC, jednak nie w odniesieniu do konwencjonalnych rezerw międzybankowych oraz do refinansowania przez bank centralny, co w dalszym ciągu pozostaje przywilejem banków.</p>
+
+<p>Wariant 2. Szeroki dostęp gospodarczy. W tym wariancie dostęp do WCBC jest przyznany wszystkim grupom graczy gospodarczych, niezależnie od ich instytucjonalnego statusu.</p>
+
+<p>Wariant 3. Instytucje finansowe plus zabezpieczony walutą WCBC wąski dostęp bankowy. W tym wariancie połaczono wariant 1 (wyłączny dostęp do WCBC dla instytucji finansowych) ze 100-procentową rezerwą WCBC dla depozytów klientów na specjalnych rachunkach. Rachunki te byłyby oferowane przez banki i inne serwisy płatnościowe WCBC. Wkłady na tych kontach nie reprezentują waluty WCBC, lub, jak przedstawiają to autorzy, reprezentują "pośrednio WCBC", co oznacza, że określony bank zobowiązuje się do utrzymywania 100-procentowej rezerwy w WCBC dla tych depozytów. Nie jest wyjaśnione, w jaki sposób owe postulowane 100-procentowe zabezpieczenie byłoby operacyjnie zapewniane, ani dlaczego poleganie na rozwiązaniu 100-procentowej bankowości z lat 1930-tych miałoby być dobrym pomysłem, a nie konsekwentne trzymanie się obecnej koncepcji pieniądza suwerennego (waluta WCBC jest pieniądzem suwerennym) i umożliwienie bezpośredniego dostępu klienta do rachunku w walucie WCBC.</p>
+
+<p>We wszystkich trzech wariantach korzystanie z WCBC odbywa się poprzez nową infrastrukturę rachunków i płatności, oddzielną od kontynuowanej i niezmienionej cyrkulacji rezerww bankowych i pieniądza bankowego, w dwóch rozłącznych kręgach.[15] Rachunki w WCBC są wyłącznie rachunkami transakcyjnymi, a nie rachunkami giro, kredytującymi pieniądz bankowy. Pozostaje niejasne, czy rozliczenia międzybankowe muszą być prowadzone wyłącznie rezerwami, czy można także do tego użyć WCBC.</p>
+
+<p>Te trzy warianty WCBC w modelu Banku Anglii mają następujące założenia projektowe:</p>
+
+<p>a) Rachunki w walucie WCBC i rachunki rezerw są trzymane oddzielnie w dwóch różnych infrastrukturach. Transakcje WCBC są więc trzymane oddzielnie zarówno od istniejącej bankowości opartej na cząstkowej rezerwie, jak i od systemów RTGS [transferu niezwłocznego środków między rachunkami bankowymi].[16] Waluta WCBC i rezerwy, mimo że reprezentują ten sam rodzaj pieniądza depozytowego banku centralnego (pieniądza-na-rachunku), nie są łączone w jednym wspólnym obiegu. Nie są one nawet wzajemnie wymienialne.</p>
+
+<p>b) Niebankowi użytkownicy pieniądza mogą prawdopodobnie wymieniać pieniądz bankowy na WCBC, lecz formalnie nie mają oni prawa, aby dokonywać takiej wymiany. Banki nie są zobowiązane do oferowania rachunków prowadzonych w WCBC. Banki centralne mają, tak czy inaczej, wolną rękę, aby dostosowywać się lub nie do popytu na WCBC.</p>
+
+<p>c) Waluta WCBC jest oprocentowana w ten sposób, że bank centralny płaci odsetki od depozytów w tej walucie. Może to obejmować dodatnie, zerowe lub ujemne oprocentowanie.</p>
+
+<p>d) Bank centralny emituje WCBC, przeznaczoną wyłącznie dla instytucji finansowych, poprzez zakup od nich papierów wartościowych, zwłaszcza obligacji skarbowych.</p>
+
+<p>W porównaniu do pierwszej wersji konceptu waluty WCBC, wersja późniejsza wydaje się raczej zawiła. Nie jest bowiem dokładnie jasne, jak usprawniłoby to system, który staje się coraz bardziej skomplikowany, poza już dość zawiłym dwuobiegowym systemem rezerw, a nawet wszczepia częściowo pełny system rezerw w kontynuowany system rezerwy cząstkowej. Dodatkowe wątpliwe komplikacje dotyczą oczywistej intencji, aby obecny reżim systemu bankowego pozostał w większości niezmieniony, a w pewien sposób nawet tego, aby zabezpieczyć go przed walutą WCBC. Wprowadzenie WCBC do szerokiego publicznego użytku i zapewnienie równocześnie, że waluta WCBC będzie miała raczej niewielki obrót pośród wyłącznie kilku aktorów, jest ewidentną sprzecznością samą w sobie – tym bardziej, że zasada d) oddaje decyzję odnośnie penetracji rynku przez  walutę WCBC głównie w ręce sektora bankowego i innych instytucji finansowych. Do czego innego mogliby oni wykorzystywać walutę WCBC, poza używaniem jej głównie do finansowych transakcji, nie przyczyniających się do wzrostu PKB?</p>
+
+<p>Zasady a) i b) mają na celu hamowanie masowej migracji z pieniądza bankowego odpowiednio do waluty WCBC lub do depozytów pokrytych WCBC. W związku z tym nie można wiarygodnie utrzymywać, że WCBC może konkurować z pieniądzem bankowym. I rzeczywiście, istnieją obawy, że pieniądz bankowy mógłby wkrótce stracić uznanie, o ile byłaby alternatywa w postaci WCBC. Wynika stąd, że waluta WCBC jest proponowana jako cokolwiek, tylko nie suwerenny pieniądz w powszechnym użyciu, czym w istocie powinna być. Pojęcie pieniądz suwerenny obejmuje jego powszechną dostępność jako legalnego środka płatniczego ogólnego stosowania. To wyklucza zawiłe restrykcje dotyczące dostępności pieniądza dla szczególnych grup podmiotów, wyklucza ograniczenia w jego ilości w relacji do innych środków płatniczych, czy limity jego użycia, służące szczególnym interesom.</p>
+
+<p>Odnośnie zróżnicowania odsetek uzyskiwanych od wkładów w WCBC, według autorów mają one na celu utrzymanie rynku w odpowiednim stanie równowagi[17] – o ile ktoś uważa, że wie, czym jest i gdzie praktycznie znajduje się ów punkt idealnego świata. Wbrew temu, jest oczywistym, że oprocentowanie wkładów w WCBC ma na celu kontrolowanie proporcji między pieniądzem bankowym a WCBC. Jest mniej jasne, która stopa miałaby się dostosowywać do której: czy stopa depozytowa pieniądza bankowego miałaby się dostosować do ilości i oprocentowania WCBC, czy może oprocentowanie depozytów w WCBC byłoby ustalane przez bank centralny w reakcji na oprocentowanie i ilość pieniądza bankowego?</p>
 
  
 
@@ -17,195 +186,17 @@ title: Waluta cyfrowa
 
  
 
-Waluta cyfrowa
+<p></p><p>Koncepcja e-korony Szwedzkiego Riksbank</p>
 
-Utrzymanie czy pokonanie reżimu pieniądza bankowego?
+<p></p><p>Koncepcja e-korony została przedstawiona przez Riksbank, szwedzki bank centralny, we wrześniu 2017 roku. Od samego początku bazowała ona na "rejestrowanej e-koronie", czyli na zapisie na rachunku bankowym.[18] Ów "rejestr" to rachunek bieżący w Riksbanku, z indywidualnymi kontami dla każdego posiadacza e-korony. Rachunki te są zapisami w bilansie banku centralnego, dostępnymi każdego dnia, przez całą dobę (24/7). Jednak są one pomyślane w ramach nowej infrastruktury, służącej zarządzaniu rachunkami i transakcjami, prowadzonymi w e-koronie, struktury równoległej do istniejącej infrastruktury rachunków i systemu rozliczeniowego banku centralnego. Rozliczenia międzybankowe byłyby w dalszym ciągu prowadzone jako przepływy na rachunkach rezerw. Zamiana rezerw na e-korony i vice versa byłaby jednak możliwa. Analogicznie do gotówki, e-korona nie jest oprocentowana.<p>
 
-Założenia projektowe, które czynią różnicę.
+<p>Projekt ten był wynikiem konstatacji, że w Szwecji nastąpił daleko idący spadek użycia gotówki. Jednak Riksbank czuje się zobowiązany, aby udostępnić obywatelom, do użytku publicznego, pieniądz banku centralnego, jeśli nie w formie twardej gotówki, to w formie e-korony, czyli elektronicznego, lub cyfrowego, suwerennego pieniądza-na-rachunku. Oczywiście, równie pożądana jest perspektywa tego, że tradycyjne instrumenty polityki monetarnej znów staną się bardziej efektywne, w ślad za tym, jak udział e-korony w podaży pieniądza będzie rósł w stosunku do pieniądza bankowego.</p>
 
- 
+<p>Jako dodatek do rachunków w e-koronie, ich posiadacze otrzymają prezent w postaci kart magnetycznych i aplikacji na smartfony, mający wspierać "rozwiązanie oparte na wartościach". Umożliwi to płatności offline za pomocą czytników, w sytuacjach, gdy brak jest połączenia z siecią, lub będzie służyć osobom, które nie chcą posiadać  rachunku. Planuje się, że z salda na karcie, czy w aplikacji na urządzeniu mobilnym[19], będzie można korzystać podobnie, jak z przedpłaconych kart telefonicznych lub kart używanych w transporcie publicznym. Jeśli karta lub telefon zostaną zgubione, skutek będzie taki, jak przy zgubieniu lub kradzieży portfela – e-gotówka przepadnie. Dostępna ilość e-koron, w postaci zapisów na kartach lub w aplikacjach, jest limitowana, zgodnie z obowiązującymi ograniczeniami w płatnościach gotówkowych. W Szwecji jest to odpowiednik 250 euro.</p>
 
- 
+<p>Bank centralny podejmuje się udostępnienia kont w e-koronach każdemu, kto chce takie konto otworzyć, a raczej zobowiązuje on banki do zrobienia tego; powodem jest również niska gęstość zaludnienia na rozległych terenach tego kraju. Wymiana pieniądza bankowego na e-koronę, i vice versa, jest zapewniona prawnie.</p>
 
- 
-
- 
-
-Tłumaczył: Krzysztof Lewandowski
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Warszawa, listopad 2018
-
-
-English version: "Digital Currency 
-Maintaining or Overcoming the Bankmoney Regime? 
-Design principles that make the difference".
- 
-© Copyright by Joseph Huber, wrzesień 2018.
- 
-(CC) Copyleft for the Polish translation by Krzysztof Lewandowski, Creative Commons (CC BY-NC-ND 4.0), listopad 2018.
- 
-Tłumaczenie: Krzysztof Lewandowski
-
-Spis treści
-
- 
-
- 
-
- 
-
-Wstęp. Znaczenie waluty cyfrowej 4
-
- 
-
-Współczesne projekty systemowe 4
-
-Kryptobilon czy pieniądz depozytowy? 4
-
-Warianty WCBC Banku Anglii 6
-
-Koncepcja e-korony Szwedzkiego Riksbank 9
-
-Model podstawowy Banku Anglii 10
-
-Korzyści z wprowadzenia waluty cyfrowej 11
-
-Bezpieczeństwo, zaufanie i akceptacja 11
-
-Wygoda i koszty 12
-
-Poprawiona skuteczność polityki monetarnej 12
-
-Wzrost senioratu 13
-
-Moment startowy księgowania po stronie aktywów pieniądza banku centralnego 13
-
-Prawdziwe i fikcyjne problemy związane ze współistnieniem pieniądza bankowego i waluty cyfrowej 13
-
-Kontynuacja kreacji pieniądza bankowego jako główne źródło niestabilności 13
-
-Techniczna kompatybilność pieniądza bankowego i waluty cyfrowej 14
-
-Osłabiona zdolność banków do pożyczania i inwestowania? 15
-
-Ryzyko runu na banki 16
-
-Oprocentowanie rachunków depozytowych w walucie WCBC w celu kontroli relacji jej ilości do ilości pieniądza bankowego 17
-
-Gwarancje państwowe dla pieniądza bankowego 18
-
-Parytet pieniądza bankowego do waluty cyfrowej. Nowy rodzaj sytuacji Greshama? 19
-
-Założenia projektowe, które czynią różnicę 21
-
-Zapewnienie ogólnokrajowego dostępu do rachunków walutowych 22
-
-Połączenie waluty cyfrowej i rezerw międzybankowych w jeden obieg 22
-
-Waluta cyfrowa jako powszechny środek płatniczy: brak ograniczeń dostępu i restrykcji odnośnie względnej ilości oraz użycia 23
-
-Pełna wymienialność pieniądza bankowego i suwerennej waluty cyfrowej 23
-
-Emisja waluty cyfrowej nie tylko przez sektor bankowy 23
-
-Instytucje publiczne a użycie rachunków walutowych 23
-
-Wycofanie lub co najmniej znacząca redukcja państwowych gwarancji dla pieniądza banków 24
-
-Oprocentowanie depozytów w walucie cyfrowej takie samo, jak oprocentowanie depozytów w pieniądzu bankowym 25
-
-Wykluczenie oprocentowania ujemnego 25
-
-Uwagi końcowe 27
-
-Referencje 29
-Wstęp. Znaczenie waluty cyfrowej
-
- 
-
-W niniejszym artykule podejmowana jest ocena waluty cyfrowej banku centralnego, emitowanej do publicznego użycia wespół z pieniądzem bankowym[1]. Wiodącą kwestią jest to, czy wprowadzenie do publicznego obrotu waluty cyfrowej banku centralnego posłuży stabilizacji, a przez to utrzymaniu obecnego reżimu pieniądza bankowego, czy może być także postrzegane jako krok w stronę przyszłego systemu pieniądza suwerennego. Odpowiedź na to pytanie zależy od zakresu wdrożenia pewnej liczby krytycznych założeń projektowych.
-
-Odnośnie terminologii, waluta cyfrowa banku centralnego jest tutaj nazywana w uproszczeniu walutą cyfrową lub suwerennym pieniądzem cyfrowym. Słowo cyfrowy oznacza, że chodzi tu o pieniądz pozostający na jakimś rachunku, w odróżnieniu od gotówki znajdującej się w czyichś rękach. Zarówno termin suwerenny, jak i termin waluta, zakładają, że jest to pieniądz pochodzący z banku centralnego, który jest instytucją monetarną suwerennego państwa-narodu lub społeczności państw-narodów, bądź też skarbca czy innego państwowego ciała emitującego walutę na danym obszarze.
-
-W przeciwieństwie do tego, pieniądz bankowy można z pewnością nazwać pieniądzem cyfrowym lub pieniądzem elektronicznym, jednak nie cyfrową walutą, gdyż waluta, poza odniesieniem do monetarnej jednostki miary, oznacza tradycyjnie suwerenny bilon lub banknoty banku centralnego lub, w obecnie uwspółcześnionym sensie i w znaczeniu ogólnym – pieniądz suwerenny w dowolnej formie.
-
- 
-
-Współczesne projekty systemowe
-
- 
-
-Kryptobilon czy pieniądz depozytowy?
-
-Dyskusja dotycząca gotówki cyfrowej czy cyfrowej waluty rozgorzała począwszy od 2013/14 roku, w rezultacie szumu medialnego wokół kryptowalut opartych o rozproszone rejestry i technologię blockchain, w rodzaju Bitcoina i 1900 innych kryptowalut istniejących we wrześniu 2018 roku.[2] Wyobrażano sobie walutę cyfrową jako kryptowalutę denominowaną w odpowiednich narodowych jednostkach miary. Określenia w rodzaju Fedcoin, IMFcoin czy RSCoin wyraźnie oznaczały właśnie to.[3] Liczne oświadczenia Banku Anglii sugerowały, że RSCoin, a następnie idea Waluty Cyfrowej Emitowanej przez Bank Centralny (WCBC) odnosiły się do specjalnego rodzaju kryptobilonu, który miał być emitowany przez ten Bank.[4]
-
-Z drugiej strony, oświadczano, że waluta WCBC ma być nowym rodzajem pieniądza, który odeprze potencjalne wyzwanie ze strony kryptowalut, nie będąc jednak sama kryptowalutą. Waluta WCBC mogłaby więc także istnieć w postaci "systemu rachunków", czyli niegotówkowego pieniądza banku centralnego na rachunkach dostępnych w ogólnym obrocie publicznym, będącego rozszerzoną postacią stanów rachunków w banku centralnym – pieniądzem depozytowym poza konwencjonalnymi tzw. rezerwami (te ostatnie są wykorzystywane wyłącznie w transakcjach międzybankowych). Określenie Fedwire dla wszystkich jasno odnosi się do systemu rachunków dla obsługi obrotu cyfrową walutą pod postacią pieniądza depozytowego banku centralnego.[5] Szwedzki projekt waluty elektronicznej Riksbanku, nazywany e-koroną, jest wyraźnie pomyślany jako system oparty na rachunkach.[6] W następnych projektach otwartą pozostawała kwestia, czy waluta WCBC miałaby być kryptobilonem, czy pieniądzem depozytowym (tzn. pieniądzem-na-rachunku).[7]
-
-Z wielu powodów kryptobilon, oparty na technologii blockchain lub rozproszonego rejestru, nie ma w najbliższej przyszłości żadnej szansy na zastąpienie pieniądza depozytowego na rachunku. Jednym z problemów jest wysoka nieprzewidywalność kryptobilonu, związana z używaniem go raczej jako spekulacyjnego żetonu w kasynie, niż środka płatniczego. Transferowanie kryptobilonu nie jest, póki co, wystarczająco szybkie i wymaga zbyt dużych nakładów energii, jest zatem stosunkowo drogie. Platformy handlu kryptowalutami są podatne na ataki hakerskie. Nie istnieje gwarancja ochrony i nierozstrzygnięte pozostają kwestie prawne odpowiedzialności i identyfikacji.[8] Dla wprowadzenia cyfrowej waluty w zupełności wystarczą wypróbowane i sprawdzone metody zarządzania rachunkami i płatnościami z konta na konto.[9]
-
-A.Grym, który odpowiada za cyfryzację w Banku Finlandii, uważa ideę kryptowaluty banku centralnego za chimerę. Jeśli w ogóle, rozproszone rejestry i blockchainy będą wykorzystywane jako alternatywne, kryptograficzne metody zarządzania konwencjonalnymi rachunkami i płatnościami. W tym sensie Holenderski Bank Narodowy (DNB) prowadził w 2015 roku eksperymenty z wykorzystaniem DNBcoin w wewnętrznych rozliczeniach konwencjonalnych aktywów i zobowiązań.[10] Pod względem monetarnym i gospodarczym nie wiązało się to z żadną zmianą: "Gdy pieniądz jest cyfrowy, ma on formę stanu konta. ...Waluta centralna banku centralnego oznaczałaby praktycznie rachunek bankowy w banku centralnym".[11]
-
-Warianty WCBC Banku Anglii
-
-Barrdear/Kumhof z Banku Anglii byli pierwszymi, którzy zaprezentowali koncepcję Waluty Cyfrowej Banku Centralnego (WCBC) w roku 2016, następnie rozwiniętą w pracy Kumhof/Noone z 2018 roku.[12] Oryginalnie WCBC została zdefiniowana jako "Powszechnie dostępne i oprocentowane zobowiązanie banku centralnego, wdrożone za pomocą rozproszonego rejestru, konkurujące z depozytami bankowymi jako środek wymiany... zapewniając powszechny, elektroniczny, 24/7, denominowany w walucie narodowej, dostęp" do bilansu banku centralnego. WCBC jest traktowana jako metoda wdrożenia ubocznej idei "depozytowych rachunków walutowych" Tobina z 1987 roku[13].
-
-W kontynuacyjnej wersji z roku 2018 "nie zakłada się wykorzystanie technologii rozproszonego rejestru". Co ważniejsze, WCBC jest dostępna jako powszechny środek płatniczy tylko w jednym z trzech wariantów. Inne dwa warianty ograniczają dostęp do WCBC tylko dla instytucji finansowych.[14]
-
-Wariant 1. Dostęp dla instytucji finansowych. W tym wariancie waluta WCBC jest wykorzystywana wyłącznie przez monetarne i niemonetarne instytucje finansowe. Inne firmy, prywatne i publiczne gospodarstwa, są wyłączone. Banki i inne instytucje finansowe są na równych warunkach dopuszczone do WCBC, jednak nie w odniesieniu do konwencjonalnych rezerw międzybankowych oraz do refinansowania przez bank centralny, co w dalszym ciągu pozostaje przywilejem banków.
-
-Wariant 2. Szeroki dostęp gospodarczy. W tym wariancie dostęp do WCBC jest przyznany wszystkim grupom graczy gospodarczych, niezależnie od ich instytucjonalnego statusu.
-
-Wariant 3. Instytucje finansowe plus zabezpieczony walutą WCBC wąski dostęp bankowy. W tym wariancie połaczono wariant 1 (wyłączny dostęp do WCBC dla instytucji finansowych) ze 100-procentową rezerwą WCBC dla depozytów klientów na specjalnych rachunkach. Rachunki te byłyby oferowane przez banki i inne serwisy płatnościowe WCBC. Wkłady na tych kontach nie reprezentują waluty WCBC, lub, jak przedstawiają to autorzy, reprezentują "pośrednio WCBC", co oznacza, że określony bank zobowiązuje się do utrzymywania 100-procentowej rezerwy w WCBC dla tych depozytów. Nie jest wyjaśnione, w jaki sposób owe postulowane 100-procentowe zabezpieczenie byłoby operacyjnie zapewniane, ani dlaczego poleganie na rozwiązaniu 100-procentowej bankowości z lat 1930-tych miałoby być dobrym pomysłem, a nie konsekwentne trzymanie się obecnej koncepcji pieniądza suwerennego (waluta WCBC jest pieniądzem suwerennym) i umożliwienie bezpośredniego dostępu klienta do rachunku w walucie WCBC.
-
-We wszystkich trzech wariantach korzystanie z WCBC odbywa się poprzez nową infrastrukturę rachunków i płatności, oddzielną od kontynuowanej i niezmienionej cyrkulacji rezerww bankowych i pieniądza bankowego, w dwóch rozłącznych kręgach.[15] Rachunki w WCBC są wyłącznie rachunkami transakcyjnymi, a nie rachunkami giro, kredytującymi pieniądz bankowy. Pozostaje niejasne, czy rozliczenia międzybankowe muszą być prowadzone wyłącznie rezerwami, czy można także do tego użyć WCBC.
-
-Te trzy warianty WCBC w modelu Banku Anglii mają następujące założenia projektowe:
-
-a) Rachunki w walucie WCBC i rachunki rezerw są trzymane oddzielnie w dwóch różnych infrastrukturach. Transakcje WCBC są więc trzymane oddzielnie zarówno od istniejącej bankowości opartej na cząstkowej rezerwie, jak i od systemów RTGS [transferu niezwłocznego środków między rachunkami bankowymi].[16] Waluta WCBC i rezerwy, mimo że reprezentują ten sam rodzaj pieniądza depozytowego banku centralnego (pieniądza-na-rachunku), nie są łączone w jednym wspólnym obiegu. Nie są one nawet wzajemnie wymienialne.
-
-b) Niebankowi użytkownicy pieniądza mogą prawdopodobnie wymieniać pieniądz bankowy na WCBC, lecz formalnie nie mają oni prawa, aby dokonywać takiej wymiany. Banki nie są zobowiązane do oferowania rachunków prowadzonych w WCBC. Banki centralne mają, tak czy inaczej, wolną rękę, aby dostosowywać się lub nie do popytu na WCBC.
-
-c) Waluta WCBC jest oprocentowana w ten sposób, że bank centralny płaci odsetki od depozytów w tej walucie. Może to obejmować dodatnie, zerowe lub ujemne oprocentowanie.
-
-d) Bank centralny emituje WCBC, przeznaczoną wyłącznie dla instytucji finansowych, poprzez zakup od nich papierów wartościowych, zwłaszcza obligacji skarbowych.
-
-W porównaniu do pierwszej wersji konceptu waluty WCBC, wersja późniejsza wydaje się raczej zawiła. Nie jest bowiem dokładnie jasne, jak usprawniłoby to system, który staje się coraz bardziej skomplikowany, poza już dość zawiłym dwuobiegowym systemem rezerw, a nawet wszczepia częściowo pełny system rezerw w kontynuowany system rezerwy cząstkowej. Dodatkowe wątpliwe komplikacje dotyczą oczywistej intencji, aby obecny reżim systemu bankowego pozostał w większości niezmieniony, a w pewien sposób nawet tego, aby zabezpieczyć go przed walutą WCBC. Wprowadzenie WCBC do szerokiego publicznego użytku i zapewnienie równocześnie, że waluta WCBC będzie miała raczej niewielki obrót pośród wyłącznie kilku aktorów, jest ewidentną sprzecznością samą w sobie – tym bardziej, że zasada d) oddaje decyzję odnośnie penetracji rynku przez  walutę WCBC głównie w ręce sektora bankowego i innych instytucji finansowych. Do czego innego mogliby oni wykorzystywać walutę WCBC, poza używaniem jej głównie do finansowych transakcji, nie przyczyniających się do wzrostu PKB?
-
-Zasady a) i b) mają na celu hamowanie masowej migracji z pieniądza bankowego odpowiednio do waluty WCBC lub do depozytów pokrytych WCBC. W związku z tym nie można wiarygodnie utrzymywać, że WCBC może konkurować z pieniądzem bankowym. I rzeczywiście, istnieją obawy, że pieniądz bankowy mógłby wkrótce stracić uznanie, o ile byłaby alternatywa w postaci WCBC. Wynika stąd, że waluta WCBC jest proponowana jako cokolwiek, tylko nie suwerenny pieniądz w powszechnym użyciu, czym w istocie powinna być. Pojęcie pieniądz suwerenny obejmuje jego powszechną dostępność jako legalnego środka płatniczego ogólnego stosowania. To wyklucza zawiłe restrykcje dotyczące dostępności pieniądza dla szczególnych grup podmiotów, wyklucza ograniczenia w jego ilości w relacji do innych środków płatniczych, czy limity jego użycia, służące szczególnym interesom.
-
-Odnośnie zróżnicowania odsetek uzyskiwanych od wkładów w WCBC, według autorów mają one na celu utrzymanie rynku w odpowiednim stanie równowagi[17] – o ile ktoś uważa, że wie, czym jest i gdzie praktycznie znajduje się ów punkt idealnego świata. Wbrew temu, jest oczywistym, że oprocentowanie wkładów w WCBC ma na celu kontrolowanie proporcji między pieniądzem bankowym a WCBC. Jest mniej jasne, która stopa miałaby się dostosowywać do której: czy stopa depozytowa pieniądza bankowego miałaby się dostosować do ilości i oprocentowania WCBC, czy może oprocentowanie depozytów w WCBC byłoby ustalane przez bank centralny w reakcji na oprocentowanie i ilość pieniądza bankowego?
-
- 
-
- 
-
- 
-
- 
-
-Koncepcja e-korony Szwedzkiego Riksbank
-
-Koncepcja e-korony została przedstawiona przez Riksbank, szwedzki bank centralny, we wrześniu 2017 roku. Od samego początku bazowała ona na "rejestrowanej e-koronie", czyli na zapisie na rachunku bankowym.[18] Ów "rejestr" to rachunek bieżący w Riksbanku, z indywidualnymi kontami dla każdego posiadacza e-korony. Rachunki te są zapisami w bilansie banku centralnego, dostępnymi każdego dnia, przez całą dobę (24/7). Jednak są one pomyślane w ramach nowej infrastruktury, służącej zarządzaniu rachunkami i transakcjami, prowadzonymi w e-koronie, struktury równoległej do istniejącej infrastruktury rachunków i systemu rozliczeniowego banku centralnego. Rozliczenia międzybankowe byłyby w dalszym ciągu prowadzone jako przepływy na rachunkach rezerw. Zamiana rezerw na e-korony i vice versa byłaby jednak możliwa. Analogicznie do gotówki, e-korona nie jest oprocentowana.
-
-Projekt ten był wynikiem konstatacji, że w Szwecji nastąpił daleko idący spadek użycia gotówki. Jednak Riksbank czuje się zobowiązany, aby udostępnić obywatelom, do użytku publicznego, pieniądz banku centralnego, jeśli nie w formie twardej gotówki, to w formie e-korony, czyli elektronicznego, lub cyfrowego, suwerennego pieniądza-na-rachunku. Oczywiście, równie pożądana jest perspektywa tego, że tradycyjne instrumenty polityki monetarnej znów staną się bardziej efektywne, w ślad za tym, jak udział e-korony w podaży pieniądza będzie rósł w stosunku do pieniądza bankowego.
-
-Jako dodatek do rachunków w e-koronie, ich posiadacze otrzymają prezent w postaci kart magnetycznych i aplikacji na smartfony, mający wspierać "rozwiązanie oparte na wartościach". Umożliwi to płatności offline za pomocą czytników, w sytuacjach, gdy brak jest połączenia z siecią, lub będzie służyć osobom, które nie chcą posiadać  rachunku. Planuje się, że z salda na karcie, czy w aplikacji na urządzeniu mobilnym[19], będzie można korzystać podobnie, jak z przedpłaconych kart telefonicznych lub kart używanych w transporcie publicznym. Jeśli karta lub telefon zostaną zgubione, skutek będzie taki, jak przy zgubieniu lub kradzieży portfela – e-gotówka przepadnie. Dostępna ilość e-koron, w postaci zapisów na kartach lub w aplikacjach, jest limitowana, zgodnie z obowiązującymi ograniczeniami w płatnościach gotówkowych. W Szwecji jest to odpowiednik 250 euro.
-
-Bank centralny podejmuje się udostępnienia kont w e-koronach każdemu, kto chce takie konto otworzyć, a raczej zobowiązuje on banki do zrobienia tego; powodem jest również niska gęstość zaludnienia na rozległych terenach tego kraju. Wymiana pieniądza bankowego na e-koronę, i vice versa, jest zapewniona prawnie.
-
-Bank centralny, jako dostawca systemu rachunków i płatności, oraz banki i inni dostawcy usług płatniczych, jako użytkownicy systemu, działają dalej jako zaufana trzecia strona, jednakże nie jako pośrednicy pieniądza bankowego, dokonujący rozrachunków wzajemnych poprzez międzybankowy clearing rezerw, lecz jako powierniczy operatorzy rachunków w e-koronie, należących do klientów, podczas bezpośrednich transferów e-korony od płatnika do odbiorcy.
+<p>Bank centralny, jako dostawca systemu rachunków i płatności, oraz banki i inni dostawcy usług płatniczych, jako użytkownicy systemu, działają dalej jako zaufana trzecia strona, jednakże nie jako pośrednicy pieniądza bankowego, dokonujący rozrachunków wzajemnych poprzez międzybankowy clearing rezerw, lecz jako powierniczy operatorzy rachunków w e-koronie, należących do klientów, podczas bezpośrednich transferów e-korony od płatnika do odbiorcy.</p>
 
 E-korony mają być używane głównie przez gospodarstwa domowe i małe firmy, a więc raczej przy płatnościach w handlu detalicznym, niż hurtowym. Nie rozważa się jednak ustalenia górnego limitu wysokości transakcji. Limitowane będa wyłącznie stany na kartach magnetycznych i w aplikacjach mobilnych.
 
