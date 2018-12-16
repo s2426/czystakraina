@@ -5,18 +5,18 @@ title: Waluta cyfrowa
 
 <p><p><img src="{{site.baseurl}}\public\pictures\numerki.jpeg" align="left" style="margin: 10px 10px" width="200"><!--240-->
 16.12.2018</p>
-<p>Joseph Huber</p>
+<p><p>Joseph Huber</p>
 <p> </p>
-<p>Waluta cyfrowa</p>
+<p><p>Waluta cyfrowa</p>
 <p>Utrzymanie czy pokonanie reżimu pieniądza bankowego?</p>
 
 <p>Założenia projektowe, które czynią różnicę.</p>
 
-<p> </p> 
+<p><p></p> 
 
  
 
-<p> </p> 
+<p><p></p> 
 
  
 
@@ -28,7 +28,7 @@ title: Waluta cyfrowa
 
  
 
-<p> </p> 
+<p><p></p> 
 
  
 
